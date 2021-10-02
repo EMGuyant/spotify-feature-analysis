@@ -1,0 +1,1001 @@
+,track_id,track_name,artist,album_type,release_date,decade,popularity,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+0,4BP3uh0hFLFRb5cjsgLqDh,Fortunate Son,Creedence Clearwater Revival,album,1969-11-02,1960,80,0.64,0.663,0,-7.516,1,0.0374,0.00806,0.152,0.663,132.77,140773,4
+0,20OFwXhEXf12DzwXmaV7fj,Bad Moon Rising,Creedence Clearwater Revival,album,1969-08-03,1960,77,0.508,0.774,2,-5.973,1,0.0321,4.87e-06,0.063,0.942,178.946,141600,4
+0,1qRA5BS78u3gME0loMl9AA,For What It's Worth,Buffalo Springfield,album,1966-12-05,1960,74,0.653,0.519,2,-10.164,1,0.0497,0.0209,0.101,0.822,98.883,153693,4
+0,6YffUZJ2R06kyxyK6onezL,Ring of Fire,Johnny Cash,compilation,1963-08-06,1960,69,0.659,0.585,7,-8.189,1,0.0288,0.000213,0.348,0.784,104.111,158427,4
+0,2gE95JskwQ1pCACTpGe1Db,Down On The Corner,Creedence Clearwater Revival,album,1969-11-02,1960,72,0.858,0.544,0,-9.289,1,0.0751,0.00109,0.0707,0.874,108.217,166280,4
+0,0P7DoyGrr4Wp9w5TotEtUC,The Weight - Remastered,The Band,album,1968-07-01,1960,71,0.63,0.551,9,-9.28,1,0.0549,5.75e-05,0.103,0.518,143.868,274493,4
+0,2fDHuS1PTkHBbCWWZF1ph9,"Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968",Johnny Cash,album,1968-05-01,1960,67,0.621,0.524,0,-15.269,1,0.0803,0.00199,0.893,0.889,110.586,162653,4
+0,4c4jJJoaiY21t2TyRZgdWS,Magic Carpet Ride,Steppenwolf,album,1968-10-01,1960,69,0.64,0.651,4,-14.981,0,0.0517,0.28,0.0341,0.801,111.676,271573,4
+0,3lN8PP6R2IxbLP05QpYXng,Born To Be Wild - Single Version,Steppenwolf,album,1968-01-01,1960,66,0.439,0.734,2,-12.168,1,0.097,0.333,0.244,0.54,145.703,212893,4
+0,3G7tRC24Uh09Hmp1KZ7LQ2,I'm a Believer - 2006 Remaster,The Monkees,album,1967-01-09,1960,73,0.526,0.775,0,-6.05,1,0.0352,2.05e-05,0.217,0.962,80.106,167373,4
+0,3XG7bMVcMWLIn2k9jLAaAt,King Of The Road,Roger Miller,album,1965-01-01,1960,63,0.67,0.272,11,-13.699,1,0.0704,0.0,0.178,0.613,117.996,147307,4
+0,1udKn1oNKYQSQ9OmiIWCMu,Do You Believe in Magic?,The Lovin' Spoonful,album,1965-11,1960,67,0.553,0.738,0,-7.963,1,0.0457,0.0,0.339,0.759,138.602,125827,4
+0,3AhXZa8sUQht0UEdBJgpGc,Like a Rolling Stone,Bob Dylan,album,1965-08-30,1960,71,0.482,0.721,0,-6.839,1,0.0321,0.0,0.189,0.557,95.263,369600,4
+0,2EZc13S7YRi6bTS3SKteRN,Proud Mary,Creedence Clearwater Revival,album,1969-01-05,1960,61,0.72,0.391,2,-16.595,1,0.0342,8.29e-05,0.046,0.786,120.794,187227,4
+0,11DjZQEZ69EXLo77HVj6yW,Green River,Creedence Clearwater Revival,album,1969-08-03,1960,67,0.702,0.772,9,-9.677,1,0.0277,0.00837,0.0809,0.973,141.694,154120,4
+0,7uEcCGtM1FBBGIhPozhJjv,Daydream Believer,The Monkees,album,1968-04-22,1960,68,0.51,0.488,7,-10.304,1,0.0304,0.0,0.11,0.649,125.683,179613,4
+0,5fcxVCOtfesNzI2n4Y4kiJ,Jackson,Johnny Cash,album,1967-08-01,1960,62,0.741,0.615,0,-8.072,1,0.0358,0.000344,0.408,0.799,128.496,165827,4
+0,5bUlFE9dGh7pX93PUEVAue,Born On The Bayou,Creedence Clearwater Revival,album,1969-01-05,1960,58,0.678,0.386,9,-15.991,1,0.0464,0.109,0.108,0.552,117.303,314667,4
+0,52vA3CYKZqZVdQnzRrdZt6,The Times They Are A-Changin',Bob Dylan,album,1964-01-13,1960,66,0.389,0.396,7,-7.999,1,0.0332,0.0,0.0828,0.585,171.86,192053,3
+0,5qBqBdfTEIWJwAS0Jm2F5R,Turn! Turn! Turn! (To Everything There Is a Season),The Byrds,album,1965-12-06,1960,65,0.451,0.818,2,-8.124,1,0.0439,2.92e-05,0.052,0.755,124.532,229360,4
+0,2PuUFT13yCzUOZun94WOXv,Suite: Judy Blue Eyes - 2005 Remaster,"Crosby, Stills & Nash",album,1969-05-29,1960,62,0.451,0.364,9,-13.126,1,0.0436,0.0,0.197,0.298,154.206,444053,4
+0,1UKobFsdqNXQb8OthimCKe,Helplessly Hoping - 2005 Remaster,"Crosby, Stills & Nash",album,1969-05-29,1960,64,0.567,0.159,7,-13.648,1,0.0331,0.0,0.111,0.436,146.913,157893,4
+0,3VyJGPYr2DF9gdBNosSao4,Can't Find My Way Home,Blind Faith,album,1969-08,1960,58,0.519,0.337,2,-15.215,1,0.0333,0.0113,0.13,0.523,87.926,196133,4
+0,5xMNjx7uqCzMpJZSo4Wq55,"A Boy Named Sue - Live at San Quentin State Prison, San Quentin, CA - February 1969",Johnny Cash,album,1969-06-04,1960,59,0.63,0.489,10,-12.144,1,0.18,0.0,0.381,0.796,101.876,233813,4
+0,6i8SZ4NIrYeyrbBOoRSC9z,"Cocaine Blues - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968",Johnny Cash,album,1968-05-02,1960,59,0.661,0.571,8,-12.317,1,0.103,0.0,0.98,0.826,122.396,169293,4
+0,6MOEQCtAWNSCmvg3SFKF5y,Season of the Witch,Donovan,album,1966-09,1960,62,0.516,0.513,2,-10.762,1,0.0288,0.00957,0.0612,0.694,99.735,293933,4
+0,2WOjLF83vqjit2Zh4B69V3,"Don't Think Twice, It's All Right",Bob Dylan,album,1963-05-27,1960,64,0.6,0.243,4,-17.085,1,0.0366,0.0022,0.249,0.468,110.535,217400,4
+0,121sjkub4p4zcFNozkKnQD,Folsom Prison Blues,Johnny Cash,album,1960-01-01,1960,58,0.754,0.54,5,-8.326,1,0.0266,7.51e-05,0.0868,0.79,101.738,168554,4
+0,2nvcTDmZkRWKNMAL29sLHo,The Night They Drove Old Dixie Down,The Band,album,1969-09-22,1960,62,0.505,0.483,0,-9.272,1,0.0334,0.0,0.222,0.484,125.839,211787,4
+0,691Wr3tOjDqic3OTPLouX3,Ramblin' Gamblin' Man,Bob Seger,album,1969-04-01,1960,60,0.601,0.84,9,-3.828,1,0.0509,0.0,0.0569,0.896,130.811,145311,4
+0,18GiV1BaXzPVYpp9rmOg0E,Blowin' in the Wind,Bob Dylan,album,1963-05-27,1960,68,0.38,0.0993,2,-20.567,1,0.0509,2.32e-05,0.0605,0.44,174.874,165427,4
+0,7aTCCNpHJD2Jgv0LLVJb8Y,Up On Cripple Creek,The Band,album,1969-09-22,1960,60,0.719,0.67,9,-9.113,1,0.0903,0.0223,0.0618,0.96,144.041,270293,4
+0,1jcPcDu2YawPfLhwjYnqK2,"Everybody's Talkin' - From ""Midnight Cowboy""",Harry Nilsson,album,1968-07-01,1960,66,0.438,0.349,4,-15.569,1,0.038,5.7e-05,0.417,0.683,124.984,163587,4
+0,4K1imZQQ0yKtJ40vGmUajS,Girl from the North Country,Bob Dylan,album,1969-04-09,1960,64,0.607,0.142,7,-23.455,1,0.0382,0.000197,0.121,0.305,118.867,220400,4
+0,2LyRC7gfWFJd6JI5i8fTJe,The Race Is On,George Jones,album,1964-11-01,1960,55,0.428,0.701,9,-7.73,1,0.0658,0.0,0.154,0.918,170.419,127400,4
+0,7AzFID6u1b3zIWbd9pb8Dk,Summer in the City - Remastered,The Lovin' Spoonful,album,1966-11,1960,64,0.423,0.681,10,-9.756,1,0.0398,0.000177,0.0889,0.56,110.461,160307,4
+0,5jRQvcl66ovRTjUwzXziZA,Midnight Special,Creedence Clearwater Revival,album,1969-11-02,1960,62,0.763,0.462,2,-9.432,1,0.105,0.0,0.112,0.672,124.491,253867,4
+0,0mLoTgCB8oU0sJGojRtvDu,Gentle On My Mind - Remastered 2001,Glen Campbell,album,1967,1960,58,0.597,0.415,3,-13.799,1,0.0323,0.0,0.123,0.826,108.987,178627,4
+0,3vO2BbrhKNV2PDl276BUIZ,Cotton Fields,Creedence Clearwater Revival,album,1969-11-02,1960,64,0.582,0.641,9,-7.621,1,0.0297,0.0,0.132,0.86,148.634,177267,4
+0,6xatfNMI8NkY5XxRHAeiS4,Stand By Your Man,Tammy Wynette,album,1964,1960,57,0.517,0.246,9,-11.992,1,0.0308,0.00105,0.133,0.525,105.24,159760,4
+0,5lEyMg4GNKnMbaarvT4sRd,These Eyes,The Guess Who,album,1969-03-01,1960,59,0.561,0.382,7,-11.276,1,0.0267,1.08e-06,0.156,0.758,96.447,225920,4
+0,2HCaIYjkvWSZzaSKUoOh3d,Mr. Tambourine Man,The Byrds,album,1965-06-21,1960,64,0.456,0.47,2,-9.564,1,0.0294,3.76e-05,0.444,0.639,120.336,149467,4
+0,3X9tJw6z5LowFx339fhTvu,I Walk the Line - Stereo Version,Johnny Cash,album,1964-06-13,1960,56,0.596,0.194,10,-20.389,1,0.0347,0.162,0.099,0.746,114.974,154173,4
+0,6V9VCm1zOY2lGR80RehJ9i,Wichita Lineman - Remastered 2001,Glen Campbell,album,1968,1960,61,0.192,0.392,5,-11.667,1,0.0328,0.000199,0.248,0.391,172.312,186200,4
+0,5CGpPUcUahMuLzkNK9ZgPP,Dear Mr. Fantasy,Traffic,album,1967-12-08,1960,61,0.24,0.615,2,-14.117,1,0.0677,0.0125,0.0801,0.768,166.657,334000,4
+0,0FJbyybRjxOyalg9M9q6IJ,Union Dixie,Tennessee Ernie Ford,album,1961-07-10,1960,54,0.794,0.671,5,-6.896,1,0.0332,0.0,0.343,0.978,105.683,142067,4
+0,4uYwlMp841PLJmj1gJJwIq,"Lay, Lady, Lay",Bob Dylan,album,1969-04-09,1960,62,0.52,0.179,11,-21.976,0,0.0454,0.00344,0.131,0.407,155.746,197093,4
+0,3c2kMiSB86tVq1J4oULmvL,Groovin',The Young Rascals,album,1967,1960,58,0.605,0.455,5,-8.903,0,0.0301,0.0,0.0816,0.678,106.825,151289,4
+0,1Ay5MiilZj2ZGQLeTWVJ6o,Lodi,Creedence Clearwater Revival,album,1969-08-03,1960,61,0.773,0.675,5,-8.697,1,0.0281,0.000112,0.0896,0.925,126.866,193293,4
+0,0LTSNmOLBt25GMjHlxp9OR,Folsom Prison Blues,Johnny Cash,album,1964-06-13,1960,58,0.689,0.527,5,-9.934,1,0.0314,0.0784,0.278,0.777,110.519,155640,4
+0,3RkQ3UwOyPqpIiIvGVewuU,Mr. Tambourine Man,Bob Dylan,album,1965-03-22,1960,62,0.39,0.31,5,-14.545,1,0.0676,0.0,0.379,0.584,177.515,330533,4
+0,4RGxUjaCmVtD30pIhtEi7w,Sunshine Superman,Donovan,album,1966-09,1960,58,0.629,0.677,1,-7.239,1,0.0299,9.72e-06,0.0962,0.627,132.783,195000,4
+0,4tj7IsJrn4MvesuhoY0JBy,I'm So Lonesome I Could Cry,Hank Williams,album,1966-12-04,1960,53,0.524,0.258,4,-14.827,1,0.0287,0.00164,0.328,0.349,111.937,169067,3
+0,701oRFDRzsz3WdhCFOtUJj,Whipping Post,Allman Brothers Band,album,1969,1960,56,0.315,0.64,4,-9.256,0,0.0339,0.341,0.0879,0.583,97.968,317438,4
+0,1Ch2cPleHoVVXLVRRrGF6o,Don't Come Home A-Drinkin' (With Lovin' On Your Mind),Loretta Lynn,album,1967-01-01,1960,52,0.691,0.604,1,-6.587,1,0.062,0.000597,0.189,0.885,83.602,126920,4
+0,0XnhQGfqfi5CnZXcONJuI5,Good Lovin' - Single Version,The Young Rascals,album,1966,1960,56,0.252,0.507,2,-13.337,1,0.0442,0.00057,0.325,0.816,196.494,150907,4
+0,4SDywo3ykB2PEthjXvo1UP,I Put A Spell On You,Creedence Clearwater Revival,album,1968-07-05,1960,60,0.391,0.732,4,-8.188,0,0.0295,0.121,0.0979,0.622,100.354,271787,4
+0,7CQXyFX44CXmnuq8Bi9Dyc,Get Together,The Youngbloods,album,1967-03-10,1960,54,0.542,0.492,2,-11.927,1,0.0256,0.00105,0.0863,0.58,103.064,279280,4
+0,4FdDorlbJTVHcH3djLbIfn,Ode To Billie Joe,Bobbie Gentry,album,1967-08-21,1960,55,0.637,0.189,7,-10.726,1,0.0471,0.0,0.0939,0.695,120.142,255002,4
+0,1qTfHUVPsZTnrmvwQrAQdW,Crimson & Clover - Single Version; Mono,Tommy James & The Shondells,single,1969,1960,53,0.405,0.592,11,-12.309,1,0.0698,0.021,0.166,0.659,82.736,208667,4
+0,4ME2YQNThxEW63fxojzHvN,One - Single Version,Three Dog Night,album,1968-01-01,1960,56,0.55,0.409,5,-12.702,0,0.0321,0.0,0.096,0.405,61.226,185827,4
+0,1dbQNSAXlOEtngcIZAOfPO,Buddy,Willie Nelson,album,1968-09-01,1960,49,0.598,0.0833,0,-14.861,1,0.0566,0.000381,0.114,0.453,108.199,135973,4
+0,0HLBLRkkTOlAmjonShicD0,I'll Be Here in the Morning,Townes Van Zandt,album,1969-09,1960,51,0.558,0.17,4,-18.882,1,0.0331,0.037,0.113,0.635,76.835,180107,4
+0,7AL6qzIDHIX7pEUWrzNiIs,Hurdy Gurdy Man,Donovan,album,1968-10,1960,59,0.405,0.463,0,-16.167,1,0.0542,0.0442,0.392,0.542,79.451,193467,4
+0,5XOM6Neo5IACRMhvd2ibKA,You Ain't Woman Enough,Loretta Lynn,album,1966-01-01,1960,50,0.744,0.455,8,-7.543,1,0.0366,0.0,0.0526,0.905,75.281,135160,4
+0,6OojY4NdPiEGWHV2EUSwHz,Always See Your Face,Love,album,1969-09-01,1960,56,0.567,0.579,0,-12.565,1,0.029,2.8e-05,0.0562,0.92,109.84,209133,4
+0,3AXDLGI5TIYi72JcYFvNpv,I Think We're Alone Now - Single Version,Tommy James & The Shondells,album,1967-01-05,1960,54,0.783,0.42,11,-11.05,0,0.103,0.0316,0.0692,0.716,131.75,130320,4
+0,6kPxXhjSvy8RsmZBAJUiFs,You Ain't Goin' Nowhere,The Byrds,album,1968-08-30,1960,55,0.512,0.426,7,-14.081,1,0.0449,0.00225,0.764,0.7,132.495,153467,4
+0,1XuccRABkfUVB4FjSVhjL1,Alone Again Or - 2015 Remaster,Love,album,1967,1960,58,0.318,0.303,11,-15.572,0,0.0302,0.000223,0.113,0.226,174.254,197275,4
+0,6Jp0GuFxAYbTdre1uUPgaB,Suzie Q,Creedence Clearwater Revival,album,1968-07-05,1960,56,0.435,0.618,4,-11.391,0,0.0324,0.00282,0.167,0.695,129.911,517160,4
+0,3h4t9qpFktohHeUQc3hZCa,Last Train to Clarksville - Original Stereo Version; 2006 Remaster,The Monkees,album,1966-10-10,1960,51,0.239,0.618,0,-8.464,1,0.033,0.0,0.721,0.683,197.499,164093,4
+0,6k9DUKMJpWvu6eFG3O64Lg,Subterranean Homesick Blues,Bob Dylan,album,1965-03-22,1960,56,0.576,0.727,4,-9.973,0,0.05,0.0,0.324,0.751,173.854,141293,4
+0,42mWEvGlwKGhVQs8XkvQKP,She Thinks I Still Care,George Jones,album,1962-01-01,1960,51,0.591,0.424,11,-8.512,1,0.0301,0.0,0.134,0.613,115.01,154800,4
+0,32ssNweOtmacNBEC2kHzA8,Never My Love - Remastered Version,The Association,album,1967,1960,54,0.435,0.428,6,-11.747,1,0.0268,0.000708,0.149,0.61,95.534,187693,4
+0,7gtrXOGETM9OkerNjNXeie,Waiting Around to Die,Townes Van Zandt,album,1969-09,1960,51,0.551,0.233,6,-18.251,0,0.0312,0.000949,0.11,0.659,89.574,165187,4
+0,6aXKbU2QGsOms8UT3eUOg1,Catch the Wind,Donovan,album,1965-05-14,1960,58,0.385,0.306,3,-12.167,1,0.0297,7.43e-06,0.128,0.546,173.377,173813,3
+0,6o21UfW2RHkzzleZGLfFpK,For Your Love - 2015 Remaster,The Yardbirds,album,1965,1960,57,0.288,0.62,2,-10.103,1,0.0428,0.0,0.0882,0.617,94.445,150627,4
+0,23xk9Rf7oIHVUU1JvmXYFn,Mony Mony,Tommy James & The Shondells,album,1968-01-01,1960,54,0.592,0.834,2,-11.565,1,0.0334,0.0,0.364,0.809,130.967,174133,4
+0,3E0VKSvZp76kvBU2WwwBul,Leaving Trunk,Taj Mahal,album,1968,1960,55,0.542,0.502,3,-10.607,0,0.0515,0.00812,0.174,0.948,174.11,289560,4
+0,042v1NacbKJzCyi6nBme7T,Mr. Soul,Buffalo Springfield,album,1967-10-30,1960,53,0.674,0.706,9,-9.012,1,0.0384,6.48e-06,0.114,0.961,133.789,172400,4
+0,29HbMTL672MugzhklYvStz,The Pusher,Steppenwolf,album,1968-01-01,1960,51,0.482,0.402,0,-13.45,1,0.027,0.0169,0.0717,0.721,81.502,352907,4
+0,3uG4ygD1bIP3YspJm9N4KO,Flowers on the Wall,The Statler Brothers,album,1966,1960,50,0.53,0.51,8,-11.053,0,0.187,0.0,0.0712,0.808,201.594,139813,4
+0,3GgvAt2Cyp7GRhYy9Luus1,Sittin On Top Of The World,Doc Watson,album,1964,1960,51,0.547,0.127,3,-21.435,1,0.0373,1.58e-05,0.112,0.73,89.404,159000,4
+0,41iPmvB2ogl3dzEHw9EZh0,"He Ain't Heavy, He's My Brother",The Hollies,compilation,1967,1960,49,0.309,0.441,7,-6.524,1,0.0291,1.73e-05,0.513,0.217,75.734,257840,4
+0,3c06k9x6MHHdPQi3ix68yF,Daydream,The Lovin' Spoonful,album,1966-03,1960,57,0.822,0.332,1,-11.369,1,0.0506,0.0,0.11,0.834,110.802,139093,4
+0,5eo3Oql60QR7NL2zcEsbe8,Feelin' Alright?,Traffic,album,1968-10,1960,53,0.468,0.527,5,-10.781,1,0.0407,0.0,0.234,0.749,94.852,257600,4
+0,1YaPhbIo2oKWT5ejlMEL5Z,Fist City,Loretta Lynn,album,1968-04-22,1960,47,0.656,0.556,0,-8.761,1,0.0357,0.0,0.315,0.915,77.855,133933,4
+0,44AauRai27QWKEx4dKn0oU,500 Miles Away from Home,Bobby Bare,album,1963-12-11,1960,49,0.501,0.429,7,-10.803,1,0.0293,0.0,0.539,0.551,108.948,162560,4
+0,2BGNomqCxEDcXyxf8bg27k,Eight Miles High,The Byrds,album,1966-07-18,1960,54,0.365,0.77,9,-10.492,1,0.0764,0.136,0.503,0.37,130.603,214640,4
+0,6cyQhHuw8lEXgHGJlXUiR9,Daddy Sang Bass,Johnny Cash,album,1969-06-15,1960,48,0.659,0.564,4,-11.655,1,0.0379,2.18e-05,0.646,0.783,96.657,140413,4
+0,3bMp2CgMtlWDqfG4rAE4nK,"Busted - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968",Johnny Cash,album,1968-05-02,1960,51,0.693,0.503,8,-13.379,1,0.0913,0.00103,0.955,0.68,87.176,83907,1
+0,51DLN9R1dIqkKnlRsz1kpg,Mr. Bojangles,Jerry Jeff Walker,album,1968,1960,47,0.427,0.0801,2,-27.119,1,0.0372,0.51,0.125,0.78,168.418,328147,3
+0,2RB2xSlVoMRhINO0SruNIx,Fourteen Carat Mind,Gene Watson,compilation,1968-01-01,1960,44,0.539,0.485,5,-15.072,1,0.0341,0.0,0.181,0.94,188.884,159507,3
+0,0rBoz4CbJGRIRgMyCXbPur,Cattle Call,Eddy Arnold,album,1963-11-19,1960,47,0.428,0.186,3,-12.286,1,0.0275,3.83e-05,0.108,0.497,78.629,162333,3
+0,2Cb2l4UoXynCHCeCYHRZN8,Stand By Your Man,Tammy Wynette,album,1968,1960,51,0.563,0.331,9,-9.681,1,0.0283,0.000846,0.125,0.608,105.779,157893,4
+0,7tJQ4Ekp2vN3NlI3vJJW3v,I Want You,Bob Dylan,album,1966-06-20,1960,57,0.509,0.68,5,-8.354,1,0.0372,0.0,0.0824,0.802,99.924,185200,4
+0,4PvPkRcbnO4s67MPnij3sh,Deep River Blues,Doc Watson,album,1964,1960,50,0.516,0.157,5,-19.213,1,0.0354,1.42e-05,0.142,0.783,93.719,192000,4
+0,1yKah8BCP3Vgq2tPBOLKL0,All Your Love - Stereo,John Mayall & The Bluesbreakers,album,1966-06-22,1960,57,0.321,0.625,2,-5.219,0,0.0302,5.08e-05,0.345,0.777,107.338,212600,4
+0,3bgTFCt5CTfasvpigHAdL0,It Came Out Of The Sky,Creedence Clearwater Revival,album,1969-11-02,1960,54,0.621,0.89,2,-7.605,1,0.0328,0.000582,0.174,0.965,148.417,175667,4
+0,4UteAW3ZmZaB2Ru3FjB0dp,Let's Live For Today,The Grass Roots,album,1967-01-01,1960,50,0.571,0.498,8,-7.671,0,0.0288,0.0,0.0448,0.58,115.996,167760,4
+0,4JPEuPsDG3nNJMAvvQ2Rr3,D-I-V-O-R-C-E,Tammy Wynette,album,1966,1960,48,0.628,0.383,9,-9.216,1,0.0296,0.0,0.151,0.564,99.789,175440,4
+0,1NoIZ1658UHpicKQ9rcWYh,"Corinna - From ""The Natch'l Blues""",Taj Mahal,album,1968,1960,49,0.623,0.286,9,-13.288,1,0.0991,4.44e-05,0.0884,0.734,79.106,182507,4
+0,1wgXZFadykcGX9W1olAOmp,Dumb Blonde,Dolly Parton,album,1967-02-13,1960,47,0.621,0.565,7,-8.033,1,0.0311,0.0,0.116,0.775,79.922,150447,4
+0,6dKkejSuZPJcVQvQ26nott,Harper Valley P.T.A.,Jeannie C. Riley,album,1968-01-01,1960,48,0.798,0.557,4,-10.787,1,0.0423,0.0,0.1,0.923,121.614,194515,4
+0,1Bqt4M53ylr5NXMvBg1FMf,Golden Ring - Single Version,Tammy Wynette,album,1964,1960,45,0.458,0.514,11,-12.644,1,0.0603,0.0,0.185,0.603,166.523,181493,4
+0,7ny2ATvjtKszCpLpfsGnVQ,A Hard Rain's A-Gonna Fall,Bob Dylan,album,1963-05-27,1960,53,0.567,0.198,4,-18.681,1,0.0327,0.000871,0.135,0.321,92.467,412200,4
+0,71sJjrNiDMM4oGNmgyPgOT,"Fare Thee Well, Miss Carousel",Townes Van Zandt,album,1969-09,1960,47,0.548,0.406,4,-13.547,1,0.0576,1.43e-05,0.0496,0.572,81.257,322587,4
+0,0jtz7Ia3HahOqXWnKad0rn,Polk Salad Annie,Tony Joe White,album,1969,1960,54,0.783,0.543,9,-11.565,1,0.0412,0.0159,0.0892,0.833,132.035,223533,4
+0,7xrODhgXFNVsRtKoyt5rJo,"Cocaine Blues - Live at Folsom State Prison, Folsom, CA - January 1968",Johnny Cash,album,1968-05-01,1960,47,0.679,0.519,8,-13.562,1,0.187,0.0,0.787,0.839,121.41,183253,4
+0,0rE8nugfCMtsC3mzNukV8Z,"Dark as the Dungeon - Live at Folsom State Prison, Folsom, CA - January 1968",Johnny Cash,album,1968-05-01,1960,48,0.499,0.281,3,-17.128,1,0.193,3.85e-05,0.918,0.375,111.769,187707,3
+0,21SxnQOkzD11IO3qToKvaG,Walk Through This World With Me,George Jones,album,1966,1960,47,0.435,0.295,7,-9.043,1,0.0276,0.000265,0.11,0.49,94.292,137960,4
+0,2dLzyrwHEEK8umYoOYaSPc,"I Still Miss Someone - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968",Johnny Cash,album,1968-05-01,1960,48,0.58,0.296,10,-15.875,1,0.0343,0.000472,0.468,0.582,96.155,96960,4
+0,39m6vOwUEgjErRnsm93wu2,Wooden Ships - 2005 Remaster,"Crosby, Stills & Nash",album,1969-05-29,1960,49,0.475,0.303,4,-13.39,0,0.0313,0.0765,0.112,0.57,79.202,326293,4
+0,1tZKsxgKebVQX9s6oiojG9,By The Time I Get To Phoenix - Remastered 2001,Glen Campbell,album,1967,1960,51,0.218,0.336,5,-12.997,1,0.0301,1.61e-06,0.134,0.232,176.66,164200,4
+0,76OUhpuAQSQ2orR5TUeeRc,You've Made Me So Very Happy,"Blood, Sweat & Tears",album,1968-12,1960,49,0.414,0.501,3,-9.105,0,0.0443,0.0,0.353,0.452,95.837,258733,4
+0,4VkgY55sUbfszX3XjS3LxW,"A Boy Named Sue - Live at San Quentin State Prison, San Quentin, CA - February 1969",Johnny Cash,album,1969-06-05,1960,47,0.685,0.486,10,-11.898,1,0.323,0.0,0.716,0.892,101.539,225040,4
+0,0aD8W0ChzDgEKpB1zsJ8zv,Crystal Blue Persuasion,Tommy James & The Shondells,album,1969-01-01,1960,52,0.621,0.341,9,-11.447,1,0.049,7.78e-05,0.0652,0.578,98.554,242320,4
+0,1guPCVBMmglx2m1DM0xOBu,Once a Day,Connie Smith,album,1965,1960,49,0.502,0.353,6,-9.957,1,0.0317,0.0,0.0583,0.751,136.746,140120,4
+0,7cYjpak8f7dKmqfFaUXy7F,Good Golly Miss Molly,Creedence Clearwater Revival,album,1969-01-05,1960,45,0.549,0.543,5,-14.671,0,0.0362,0.0321,0.166,0.968,74.006,160627,4
+0,0Fnb2pfBfu0ka33d6Yki17,All Along the Watchtower,Bob Dylan,album,1967-12-27,1960,54,0.581,0.41,1,-12.617,0,0.0303,2.04e-05,0.0746,0.697,129.175,151093,4
+0,7GCNh1ibQiae8aimaEUOFq,Galveston - Remastered 2001,Glen Campbell,album,1969,1960,48,0.526,0.52,5,-8.918,1,0.0296,0.000329,0.156,0.675,118.404,161067,4
+0,1Hd5JgVdf45pyZJiUyIe9w,St. Stephen - 2013 Remaster,Grateful Dead,album,1969,1960,45,0.394,0.366,9,-12.883,1,0.0472,9.3e-06,0.0991,0.549,91.259,267507,4
+0,5JBUpI6OGZahUqchMKe6UY,Whipping Post,Allman Brothers Band,album,1969-11-04,1960,47,0.315,0.64,4,-9.256,0,0.0339,0.341,0.0879,0.583,97.968,317438,4
+0,4cix9zymmhisLuM56RDcB7,Mellow Yellow,Donovan,album,1967-03,1960,52,0.71,0.319,2,-12.387,1,0.0667,0.0201,0.211,0.757,105.489,227227,4
+0,7IvUQIQpP2xM93Ym6w7s5d,Dixie,Tennessee Ernie Ford,album,1961-07-10,1960,45,0.724,0.748,5,-7.224,1,0.0498,0.0,0.0692,0.962,107.904,141240,4
+0,2pVQtg1gfTftOLugm5ENov,I Washed My Hands in Muddy Water,Stonewall Jackson,album,1964,1960,45,0.618,0.37,7,-11.023,1,0.0345,0.0,0.146,0.653,81.553,162840,4
+0,6uwERhh3sBcQ9eLcfIBmFV,"25 Minutes to Go - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968",Johnny Cash,album,1968-05-02,1960,46,0.669,0.501,3,-12.511,1,0.204,1.64e-06,0.751,0.854,120.783,176773,4
+0,0spSRHFS4zF4Imvz9sJcfL,Spinning Wheel,"Blood, Sweat & Tears",album,1968-12,1960,50,0.695,0.503,7,-9.313,1,0.0605,2.47e-05,0.261,0.542,96.818,247267,4
+0,4tTTwVxeUthDX37BUw1plJ,You Can't Roller Skate In A Buffalo Herd,Roger Miller,album,1965-01-01,1960,44,0.591,0.396,7,-12.177,1,0.129,0.0,0.115,0.907,174.577,114067,4
+0,7robBaDSeyFRaxT0QhBifa,Tennessee Flat-Top Box,Johnny Cash,compilation,1963-08-06,1960,45,0.659,0.724,5,-8.175,0,0.0322,0.00176,0.363,0.862,97.544,179147,4
+0,7Ci3Yc9H2YliGFc1czyqI1,One,Harry Nilsson,album,1968-07-01,1960,54,0.455,0.063,0,-21.191,0,0.0387,0.000131,0.1,0.208,125.392,171907,4
+0,5CMJnJKMEjpfG1Aam4eL4M,Sinister Purpose,Creedence Clearwater Revival,album,1969-08-03,1960,50,0.669,0.491,4,-10.032,0,0.0263,0.478,0.309,0.771,112.794,201693,4
+0,0jvmlZJZCaTZLMh3yfL6Y5,Stop the World (And Let Me Off),Waylon Jennings,album,1966-03-14,1960,44,0.433,0.582,2,-11.284,1,0.0321,0.0224,0.391,0.826,87.29,122480,4
+0,4uIHPormmUH31qyjP7CU4d,Statesboro Blues,Taj Mahal,album,1968,1960,50,0.673,0.481,9,-9.88,1,0.0488,4e-05,0.127,0.767,117.087,178973,4
+0,1IoRkyadylakMOukD7uN67,I Shall Be Released - Remastered,The Band,album,1968-07-01,1960,49,0.445,0.376,4,-11.844,1,0.0312,0.0,0.0702,0.526,128.156,192104,4
+0,7uGeDI6nJEdUYMsMd7mQyl,Cherish,The Association,album,1966,1960,47,0.51,0.544,5,-8.308,1,0.0282,0.0,0.144,0.598,110.197,207133,4
+0,01PnRJeFSeOgIpBuv1kQKd,Commotion,Creedence Clearwater Revival,album,1969-08-03,1960,50,0.71,0.665,2,-7.632,1,0.0277,0.0207,0.177,0.796,127.472,164293,4
+0,6VUXsWN3aNqEhaPawlFjep,Does My Ring Hurt Your Finger,Charley Pride,album,1967-12-01,1960,46,0.399,0.35,11,-10.223,1,0.0286,0.0,0.115,0.667,107.61,137120,4
+0,4h2jrA7MTbFNk1HK1FYdak,I'm a Believer - Alternate Mix; 2006 Remaster,The Monkees,album,1967-01-09,1960,54,0.549,0.716,0,-8.387,1,0.0317,0.0,0.73,0.938,79.193,170373,4
+0,4OjKHySJHstsImlUW3qfml,Alice's Restaurant Massacree,Arlo Guthrie,album,1967-08-28,1960,47,0.561,0.366,9,-14.14,1,0.327,0.0,0.813,0.646,78.659,1116933,4
+0,2hv2NiSq8p4pgL28pxcqAJ,Trouble No More,Allman Brothers Band,album,1969-11-04,1960,50,0.556,0.567,9,-11.426,0,0.0333,0.00143,0.0907,0.858,141.345,227751,4
+0,1lHiKWnlJtjzA4vHnjAr39,Windy - Remastered Version,The Association,album,1967,1960,48,0.676,0.681,5,-9.223,1,0.0292,0.191,0.0967,0.901,132.953,176600,4
+0,0tBAT5NugCTPG3W5mKpbn4,Lungs,Townes Van Zandt,album,1969-09,1960,46,0.621,0.304,2,-16.648,1,0.0623,0.0,0.0684,0.573,100.548,149387,4
+0,0ajsuFRsM3KG8TDElL22FQ,Keep On Chooglin',Creedence Clearwater Revival,album,1969-01-05,1960,43,0.496,0.273,4,-18.811,1,0.0435,0.185,0.141,0.227,82.947,460467,4
+0,3YGsgJqtIWKjMjZtKLk11Z,Be Careful With a Fool,Johnny Winter,album,1969,1960,52,0.294,0.736,7,-7.961,0,0.151,0.0418,0.102,0.753,208.576,314880,3
+0,2mqXqQnxcFq5tmG98kUQZw,Blue Kentucky Girl,Loretta Lynn,album,1965-01-01,1960,45,0.679,0.402,11,-9.49,1,0.0347,0.000186,0.105,0.484,113.138,163640,4
+0,0Q1perOt9SEwRUp6cHglrC,Midnight Confessions,The Grass Roots,album,1969-03-01,1960,46,0.705,0.751,6,-7.08,1,0.0441,0.000271,0.105,0.794,134.954,164213,4
+0,4aVs8mfyZjVDivGneIIQ5C,Penthouse Pauper,Creedence Clearwater Revival,album,1969-01-05,1960,43,0.496,0.509,7,-15.252,1,0.0326,0.00532,0.061,0.851,92.983,217427,4
+0,1qrtIWJwS62EVVv976tYXh,"Orange Blossom Special - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968",Johnny Cash,album,1968-05-01,1960,46,0.647,0.663,0,-13.974,1,0.0982,0.0237,0.736,0.93,129.799,181813,4
+0,7dvtNWoHd3ioEBmIl0s3In,(I'm Not Your) Steppin' Stone - 2006 Remaster,The Monkees,album,1967-01-09,1960,50,0.537,0.677,5,-4.437,1,0.0301,0.000199,0.0981,0.324,131.477,146533,4
+0,5bA26v8eeZrbHJpD4YPKAX,Abilene,George Hamilton IV,album,1963-12-17,1960,45,0.63,0.448,5,-15.015,1,0.0271,1.43e-05,0.271,0.753,104.024,133333,4
+0,6zBHtuqVP7CAx26XQRZnb6,Detroit City,Bobby Bare,album,1963-08-03,1960,44,0.551,0.285,11,-13.231,1,0.0289,0.0,0.112,0.398,121.315,168067,4
+0,5nbNWAfT1S6V1vqj3snHxS,It Ain't Me Babe,Bob Dylan,album,1964-08-08,1960,50,0.572,0.302,7,-8.573,1,0.0286,0.0,0.125,0.389,105.54,214440,4
+0,7GRopdJJ7ROGA3D0TI1xAY,Only Daddy That'll Walk the Line,Waylon Jennings,album,1968-06-24,1960,41,0.636,0.455,8,-11.831,1,0.0311,2.25e-05,0.201,0.839,81.404,140427,4
+0,7vCAPGfk46iIyikreugUay,Coming into Los Angeles - Remastered,Arlo Guthrie,album,1969-08-02,1960,47,0.558,0.744,4,-7.791,0,0.037,0.000148,0.24,0.54,128.949,186507,4
+0,2oWuaJStqkos5vsvrOJH74,Temptation Eyes,The Grass Roots,album,1969-11-01,1960,45,0.555,0.869,3,-5.479,1,0.0278,0.000156,0.108,0.84,134.892,159173,4
+0,6QHYEZlm9wyfXfEM1vSu1P,Boots of Spanish Leather,Bob Dylan,album,1964-01-13,1960,49,0.615,0.114,8,-17.285,1,0.0357,4e-06,0.166,0.401,101.189,277107,4
+0,1oM4t0qaBbG3IabKOgns4B,Understand Your Man - Stereo Version,Johnny Cash,album,1964-06-13,1960,44,0.458,0.484,0,-14.489,1,0.062,0.00079,0.0552,0.828,183.891,162493,4
+0,5cbcZOuu19b5zkiJMEdLHn,I Still Miss Someone,Johnny Cash,compilation,1963-08-06,1960,45,0.521,0.311,10,-11.262,1,0.0458,0.000443,0.187,0.575,180.19,155573,4
+0,3Zje70mXjYyMuzge8j24L9,Along Comes Mary,The Association,album,1966,1960,47,0.584,0.62,7,-7.681,1,0.0513,1.73e-06,0.187,0.857,143.561,171000,4
+0,4EgKcG7aswxVfQEqa3dl8S,"It's All over Now, Baby Blue",Bob Dylan,album,1965-03-22,1960,50,0.699,0.197,4,-14.792,1,0.0383,0.0,0.0716,0.361,122.871,252067,4
+0,3uHpPWsNDTpbbqedCRoaQU,Tonight I'll Be Staying Here with You,Bob Dylan,album,1969-04-09,1960,47,0.583,0.38,7,-17.607,1,0.0482,0.00685,0.0676,0.529,81.892,201133,4
+0,7kDPwGDjxDBONlPpkc1p77,And When I Die,"Blood, Sweat & Tears",album,1968-12,1960,46,0.628,0.439,9,-10.728,1,0.134,1.35e-05,0.0555,0.507,127.589,244973,4
+0,28q8XYvQtuRtTnkZoKBTB1,"The Wall - Live at Folsom State Prison, Folsom, CA - January 1968",Johnny Cash,album,1968-05-01,1960,45,0.552,0.207,8,-16.783,1,0.316,0.0,0.505,0.638,77.474,114747,4
+0,0hroZQJfRxMVB5W7eOsJNj,You Don't Have to Cry - 2005 Remaster,"Crosby, Stills & Nash",album,1969-05-29,1960,46,0.559,0.377,7,-14.491,1,0.0515,0.0,0.0717,0.714,83.138,162693,4
+0,1uhOlcBHzde5ze9BnGYMvF,Today I Started Loving You Again - Remastered,Merle Haggard,album,1968,1960,42,0.634,0.203,6,-12.024,1,0.0268,1.79e-06,0.181,0.565,90.43,140227,4
+0,739sLmfUkVFoyPtb0C3263,Girl from the North Country,Bob Dylan,album,1963-05-27,1960,49,0.538,0.115,10,-19.536,1,0.0335,8.42e-05,0.113,0.312,102.296,199573,4
+0,6NWD6siQErobvmydHcmhCw,Crystal Blue Persuasion (45 Version),Tommy James & The Shondells,single,1969,1960,43,0.63,0.292,9,-13.263,1,0.0389,7.37e-05,0.484,0.765,99.348,229197,4
+0,5tExbDqNGYDcLCYBFIdcN1,Effigy,Creedence Clearwater Revival,album,1969-11-02,1960,49,0.35,0.545,7,-8.459,1,0.0261,0.117,0.128,0.383,77.08,387440,4
+0,4e3DoE0H8nogusqa2OsrPw,Colorado Girl,Townes Van Zandt,album,1969-09,1960,42,0.412,0.0769,9,-20.142,1,0.032,0.00144,0.113,0.518,171.168,198107,4
+0,3iwe7i8OU95KJyqSzeHWCD,Dooley,The Dillards,album,1963,1960,42,0.446,0.624,11,-11.363,1,0.0287,0.000115,0.274,0.971,136.404,124893,4
+0,0xqtcLB45iKNfHroi5y1em,Crazy,Willie Nelson,album,1962-01-01,1960,44,0.509,0.194,0,-12.424,1,0.0289,9.82e-05,0.0931,0.296,99.488,173001,3
+0,0mSywazXcVFQZRk2Gg9ImX,I Don't Wanna Play House,Tammy Wynette,compilation,1969,1960,46,0.546,0.258,7,-12.894,1,0.0317,1.06e-05,0.165,0.464,100.683,154627,4
+0,0f5N14nB8xi0p3o4BlVvbx,Ballad of a Thin Man,Bob Dylan,album,1965-08-30,1960,50,0.473,0.574,11,-8.189,0,0.032,0.0,0.509,0.499,74.056,356707,4
+0,676TpHR9B00OL20I54KoOh,"Jackson (with June Carter Cash) - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968",Johnny Cash,album,1968-05-02,1960,45,0.639,0.568,1,-11.571,1,0.212,0.000175,0.679,0.834,125.725,207813,4
+0,7BkAlVpGwXXl3sYNn5OoJ7,Rainy Day Women #12 & 35,Bob Dylan,album,1966-06-20,1960,46,0.556,0.592,5,-7.378,1,0.0337,0.0,0.0637,0.587,94.887,274067,4
+0,40kj6F2dst12FXtRW7mqOc,"Send a Picture of Mother - Live at Folsom State Prison, Folsom, CA - January 1968",Johnny Cash,album,1968-05-01,1960,44,0.553,0.0855,10,-16.887,1,0.129,0.0,0.639,0.428,44.155,130720,4
+0,6tMNYGXJ1L6wjbSkAXWyHh,Ride My See-Saw,The Moody Blues,album,1968-07-26,1960,47,0.334,0.872,5,-10.4,1,0.0371,0.301,0.847,0.788,154.816,219227,4
+0,3t5C5qQI3wqJasYIKOJEB7,Who Knows Where The Time Goes?,Fairport Convention,album,1969-07-03,1960,42,0.51,0.194,4,-15.849,1,0.0315,0.318,0.113,0.434,144.595,305987,4
+0,3lSRJBk6PSTVhiG9lIJ7dH,Glory Be,Creedence Clearwater Revival,album,1969-08-03,1960,49,0.607,0.816,9,-6.844,1,0.034,0.73,0.0817,0.832,123.778,168547,4
+0,0hS2EF1YErlHBS5c97iGxi,Leaving on a Jet Plane,John Denver,album,1969-10-14,1960,51,0.486,0.279,7,-12.263,1,0.0307,0.0,0.141,0.469,132.939,217027,4
+0,0fRAGPWGKsntkIB2uZ9zkd,Hot Burrito #1,The Flying Burrito Brothers,album,1969-02-06,1960,42,0.395,0.428,5,-12.818,1,0.0305,0.0262,0.165,0.352,156.979,217333,4
+0,37Dl7jQMmt0gUnzTKqnjkN,Just Like a Woman,Bob Dylan,album,1966-06-20,1960,51,0.563,0.441,4,-9.902,1,0.0437,0.0,0.351,0.468,115.168,290467,4
+0,3HlbrnCBdrJ1NObHLMXSZh,Heart Full of Soul - 2015 Remaster,The Yardbirds,album,1965,1960,50,0.492,0.666,9,-9.743,0,0.0351,5.69e-05,0.0469,0.699,140.829,147893,4
+0,5bC6ONDsL88snGN6QasjZH,Help Me,Sonny Boy Williamson II,album,1966-08-03,1960,54,0.745,0.436,5,-9.617,0,0.043,0.0213,0.61,0.771,114.216,188200,4
+0,3Lk77QOBVywNAVSqOPcuw2,Wasn't Born to Follow,The Byrds,album,1968-01-15,1960,49,0.48,0.435,7,-8.851,1,0.0359,7.75e-05,0.204,0.538,93.352,123840,4
+0,7Lmf6vbhGpgC60KHIICkRX,I'll Be Lucky Someday - Remastered 2001,Glen Campbell,album,1967,1960,47,0.334,0.26,7,-13.694,0,0.0301,5.28e-05,0.168,0.282,95.875,146933,3
+0,22W574PUUECix1yNCWalgx,The Golden Road - 2013 Remaster,Grateful Dead,album,1967,1960,42,0.514,0.588,7,-9.161,1,0.0287,2.69e-05,0.0819,0.921,146.824,132649,4
+0,3ewe5Rosw1sZaqaLihwj6R,Bootleg,Creedence Clearwater Revival,album,1969-01-05,1960,41,0.723,0.468,2,-17.212,1,0.0547,0.000144,0.0591,0.612,146.582,180773,4
+0,5ua0oMnt220HUE3wutKKT1,Poor Moon - Bonus Track,Canned Heat,album,1969-07-08,1960,48,0.532,0.24,1,-17.165,1,0.046,0.0,0.0968,0.437,141.102,205200,4
+0,1yexhSDARSLVvRCBU3wDAm,My Back Pages,The Byrds,album,1967-02-06,1960,47,0.558,0.524,4,-10.528,1,0.0339,0.0,0.17,0.727,123.243,188240,4
+0,7xVpkVkd1klTzLJEysIR7z,Masters of War,Bob Dylan,album,1963-05-27,1960,49,0.556,0.273,5,-15.973,1,0.0372,3.27e-06,0.188,0.692,166.064,271360,3
+0,2rslQV48gNv3r9pPrQFPW1,Visions of Johanna,Bob Dylan,album,1966-06-20,1960,47,0.59,0.484,9,-10.424,1,0.0339,0.0,0.0625,0.652,93.428,451133,4
+0,6kTU9zz5oJmNaoe38oOHRO,The Working Man,Creedence Clearwater Revival,album,1968-07-05,1960,47,0.652,0.693,8,-3.979,0,0.0359,0.00809,0.304,0.907,116.291,183613,4
+0,6DVyQl6VTvbqNQ0WU7gXIR,Your Sweet Love,Lee Hazlewood,album,1966-09-17,1960,49,0.249,0.217,5,-14.875,1,0.0307,0.105,0.133,0.113,100.044,245920,4
+0,79Yqtz2KtwaxpZyKj2AkNR,These Boots Are Made For Walkin',Loretta Lynn,album,1966-01-01,1960,41,0.708,0.693,1,-8.341,1,0.0863,2.7e-06,0.117,0.926,166.756,142133,4
+0,1zMfsMdwkSLvuqcCVEZGlT,Long Time Gone - 2005 Remaster,"Crosby, Stills & Nash",album,1969-05-29,1960,45,0.595,0.366,2,-11.848,1,0.0346,0.000486,0.11,0.362,106.602,256653,4
+0,5Oer8yskMaCGXwGSfM7xr9,"It's Alright, Ma (I'm Only Bleeding)",Bob Dylan,album,1965-03-22,1960,47,0.681,0.257,4,-15.348,1,0.0695,0.0,0.161,0.566,115.867,449093,4
+0,0wXKgFHsUCUYARgxb7TFyC,Porterville,Creedence Clearwater Revival,album,1968-07-05,1960,47,0.593,0.787,9,-5.937,1,0.0276,0.0341,0.117,0.675,105.156,141747,4
+0,5yZzLyY9SMI3ZjdqpXWYDp,Everybody's Talkin',Fred Neil,album,1966-12-01,1960,47,0.671,0.299,2,-13.215,1,0.0315,0.000288,0.15,0.574,120.112,164600,4
+0,0n7K8jB7Lg4zCI4WBWxO0Q,As We Go Along,The Monkees,album,1968,1960,45,0.54,0.323,10,-12.793,1,0.0355,0.0003,0.13,0.369,113.117,232867,4
+0,5AgYgGjaWzPIOCVJgIuPGJ,"Orange Blossom Special - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968",Johnny Cash,album,1968-05-02,1960,43,0.6,0.64,0,-13.908,1,0.295,0.053,0.695,0.84,131.738,216360,4
+0,0BtqwFxTqPoMIRNq6Og77I,The Ballad of Ira Hayes,Johnny Cash,album,1964-10-01,1960,43,0.591,0.398,9,-12.514,1,0.145,0.000829,0.0613,0.544,89.854,249360,4
+0,0kcEK7YuNNfE7jiTnXS1cm,Atlantis,Donovan,album,1969-08-11,1960,49,0.291,0.313,0,-16.17,1,0.0347,0.000552,0.0828,0.341,77.893,302640,4
+0,07KYQySlrmE94gaLbhvp4X,Over Under Sideways Down - The Mono Album,The Yardbirds,album,1966-07-15,1960,45,0.529,0.861,11,-10.581,1,0.0784,0.225,0.314,0.387,96.52,142507,4
+0,7JNR1RWQ5aAgLVcPPmHuqA,(Till I) Run With You,The Lovin' Spoonful,album,1969,1960,45,0.584,0.681,10,-7.587,1,0.109,0.0,0.114,0.9,169.897,114427,4
+0,2cwjS2UkebBgXfQgUZvr4W,Never My Love,The Association,compilation,1968-11-26,1960,47,0.495,0.271,6,-17.492,1,0.0282,0.00237,0.0716,0.555,95.284,190507,4
+0,4n1ZGm3TxYmoYe1YR8cMus,Desolation Row,Bob Dylan,album,1965-08-30,1960,47,0.432,0.605,4,-6.941,1,0.0306,0.0,0.129,0.647,109.227,681400,4
+0,4F7T8NnGKbhLMVtAMycDQg,Sink The Bismarck,Johnny Horton,compilation,1961,1960,41,0.68,0.57,3,-12.388,1,0.0958,1.18e-05,0.0565,0.966,115.894,194640,4
+0,5DSSkRV0lMsXJSZQFiN26N,Walking On The Water,Creedence Clearwater Revival,album,1968-07-05,1960,47,0.407,0.735,2,-8.592,1,0.0409,0.578,0.231,0.458,124.612,278933,4
+0,0TDlaRlo5DnfW9LUfPvf3b,It Ain't Me Babe,Johnny Cash,album,1967-08-01,1960,43,0.644,0.574,7,-9.187,1,0.0366,3.18e-06,0.172,0.689,105.847,183800,4
+0,60XKXfrjh0qhAHw4QfNO6j,Just Because I'm a Woman,Dolly Parton,album,1968-05-04,1960,43,0.597,0.272,1,-9.6,1,0.0305,0.0,0.274,0.548,105.242,183933,4
+0,7BcohpfU3yL8ORXb4plTQS,Ninety-Nine And A Half (Won't Do),Creedence Clearwater Revival,album,1968-07-05,1960,47,0.506,0.606,9,-7.914,1,0.0289,0.129,0.188,0.843,110.072,217107,4
+0,1PsDNPG1j7ySpFpxjHB5xb,Don't Let Me Down,Dillard & Clark,album,1969-08-01,1960,43,0.536,0.409,11,-13.016,1,0.0273,0.0231,0.0751,0.632,74.409,232400,4
+0,4o6jfrxQyekM5DpnWYLlMo,Kind Woman,Buffalo Springfield,album,1968,1960,44,0.68,0.142,9,-16.296,1,0.0314,0.000483,0.148,0.311,105.37,255773,3
+0,6TZYGQ2djryNbg98vV5Prg,Mr. Spaceman,The Byrds,album,1966-07-18,1960,46,0.584,0.708,7,-8.958,1,0.0356,0.0,0.271,0.927,107.873,129507,4
+0,1t42JUmuj7QnaoypQ35PyD,"Don't Think Twice, It's All Right",Johnny Cash,album,1965-02-15,1960,42,0.768,0.512,0,-10.272,1,0.0616,0.0021,0.0631,0.641,92.264,176840,4
+0,2HqB3VSdiYmDkTTCPzVHOf,Pleasant Valley Sunday - 2007 Remaster,The Monkees,album,1967-11-06,1960,44,0.421,0.727,9,-6.384,1,0.0344,0.0,0.235,0.541,89.973,194467,4
+0,0ulPILleWfE1NBzUWIiNi9,"Saginaw, Michigan",Lefty Frizzell,album,1964-07-01,1960,41,0.596,0.366,10,-14.933,1,0.0325,0.00263,0.23,0.853,145.717,182573,4
+0,3emp8E5OAwAWpWd2l8GNPV,Cowpoke,Eddy Arnold,album,1963-11-19,1960,40,0.606,0.421,9,-12.32,1,0.0292,0.000791,0.271,0.576,140.576,140360,3
+0,28KTisZDzhDBALLSvRf4wv,Orange Blossom Special,Johnny Cash,album,1965-02-15,1960,42,0.676,0.634,0,-8.91,1,0.0301,0.00239,0.297,0.8,110.617,186080,4
+0,0c2DAekH6ZEnHhf8dM1leK,Queen Jane Approximately,Bob Dylan,album,1965-08-30,1960,46,0.369,0.691,0,-6.234,1,0.0387,1.39e-05,0.327,0.382,104.371,327467,4
+0,58EvnxQz4OhOCmuHtCefr5,Night Life,Ray Price,album,1963,1960,39,0.486,0.18,4,-17.204,0,0.0344,0.00455,0.13,0.292,94.895,283827,3
+0,4hXFaRVHANKX0kuieBB3qq,"Don't Step On The Grass, Sam",Steppenwolf,album,1968-10-01,1960,44,0.539,0.429,8,-15.279,1,0.0382,5.73e-06,0.398,0.609,75.479,342187,4
+0,27hpjHYx6duzBH99XW7ENn,Hello Walls,Willie Nelson,album,1962-01-01,1960,38,0.566,0.368,0,-10.306,1,0.0341,1.33e-06,0.0823,0.517,49.815,146109,4
+0,3MfUiUpkYCWuItkgstqZxO,Get Down Woman,Creedence Clearwater Revival,album,1968-07-05,1960,46,0.637,0.737,2,-4.941,1,0.0294,9.85e-05,0.0415,0.563,110.281,188680,4
+0,2EaCm5PYjpwuIvRo3ZfEFe,"25 Minutes to Go - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968",Johnny Cash,album,1968-05-01,1960,41,0.596,0.474,3,-15.004,1,0.332,0.0,0.196,0.73,119.555,217667,4
+0,6poYscuLQG8hvpxNnyeMUV,Get Thy Bearings,Donovan,album,1968-10,1960,49,0.572,0.267,4,-17.321,0,0.0334,0.494,0.115,0.557,76.492,166573,4
+0,4YDIm7KU50tf4lXVC4EBzc,Feelin' Blue,Creedence Clearwater Revival,album,1969-11-02,1960,45,0.781,0.489,7,-9.196,1,0.0337,0.0131,0.21,0.864,101.957,306800,4
+0,0LXCH2FepNHonEtz61tenS,Go Now!,The Moody Blues,album,1960,1960,48,0.343,0.522,5,-10.082,0,0.0348,0.0,0.132,0.693,119.911,191013,3
+0,41s9iG3fTuu32yBnmDLCcZ,Mojo Hand,Lightnin' Hopkins,album,1962-04-13,1960,46,0.596,0.545,11,-8.913,0,0.064,5.53e-05,0.329,0.718,146.953,179733,4
+0,4qxFlfpfHKTi70d4asPPgq,The Great Atomic Power,The Louvin Brothers,album,1962-01-01,1960,40,0.683,0.431,9,-9.502,1,0.0265,0.0,0.138,0.813,97.329,162920,4
+0,3kDSSR6noFrYJBxijqEVm3,The Streets of Baltimore,Bobby Bare,album,1966-08-22,1960,42,0.578,0.447,4,-14.212,1,0.032,0.0,0.19,0.808,116.128,157640,4
+0,5rGD8FFgHw74cp3RPhucyg,Maggie's Farm,Bob Dylan,album,1965-03-22,1960,46,0.415,0.72,7,-11.177,1,0.0492,0.0,0.185,0.619,176.785,234627,4
+0,5f38UWziNmvOjdMHvwxsL9,D-I-V-O-R-C-E,Tammy Wynette,compilation,1969,1960,42,0.619,0.33,9,-11.332,1,0.0295,0.0,0.154,0.602,99.353,175253,4
+0,2miE4JKvNNsRaDFvre019k,Guitar Man,Jerry Reed,album,1967,1960,40,0.615,0.926,6,-6.91,1,0.0641,1.24e-05,0.122,0.844,104.088,147360,4
+0,7jKuO8ZgQibBtlpernJh1Y,Rock Me Baby,Johnny Winter,album,1969,1960,45,0.281,0.798,4,-8.714,0,0.0827,0.192,0.11,0.704,190.763,228827,4
+0,1NYTj6JEw3IOh4ggiBh82h,Stuck Inside of Mobile with the Memphis Blues Again,Bob Dylan,album,1966-06-20,1960,44,0.466,0.747,9,-9.882,1,0.0473,0.0,0.12,0.628,135.527,423667,4
+0,5bfvQG4NGiTFfUxPdMKrUd,Sin City,The Flying Burrito Brothers,album,1969-02-06,1960,40,0.342,0.346,3,-15.094,1,0.0363,0.000773,0.077,0.539,129.416,249333,4
+0,1wRvycpAMRdVEuQro58x4x,Who Knows What Tomorrow May Bring,Traffic,album,1968-10,1960,43,0.558,0.508,6,-12.074,1,0.0598,7.3e-05,0.114,0.802,83.087,193200,4
+0,3uqEiaO6MUoM89nLSIs05c,Hanky Panky - Single Version,Tommy James & The Shondells,album,1966,1960,47,0.646,0.911,7,-6.228,0,0.101,0.000484,0.115,0.895,126.122,171688,4
+0,1vO6HIxVjwj25N1r2KCSEF,(Theme From) The Monkees - Original Stereo Version; 2006 Remaster,The Monkees,album,1966-10-10,1960,40,0.456,0.692,7,-8.132,1,0.0533,0.0,0.771,0.297,83.039,139093,4
+0,0PRJmbFX6z9OxQ57OFHCqd,On The Road Again,Canned Heat,album,1968-01-01,1960,48,0.547,0.395,9,-13.017,1,0.0346,0.0147,0.295,0.234,129.466,296027,4
+0,7khsvqWYjms5UASgLb8bft,You Didn't Have To Be So Nice,The Lovin' Spoonful,album,1966-03,1960,42,0.638,0.622,1,-10.035,0,0.0265,0.00385,0.0416,0.871,130.354,146400,4
+0,4KRLWRl1bFjnXhY5MgZWrM,May the Bird of Paradise Fly up Your Nose,Little Jimmy Dickens,album,1965,1960,39,0.66,0.801,4,-8.446,1,0.115,1.04e-05,0.627,0.867,104.374,151693,4
+0,6iI6NXjtI3IkjK2k1juqaX,Once I Was,Tim Buckley,album,1967,1960,47,0.34,0.427,1,-10.042,1,0.0312,0.615,0.122,0.404,120.646,203187,3
+0,4dJdacDigsfFKUk8dsAUxA,Wait A Million Years,The Grass Roots,album,1969-11-01,1960,41,0.569,0.817,11,-5.363,0,0.0475,0.00853,0.0865,0.358,128.82,199120,4
+0,6QAJbtf8Qb69AKsp8soPmN,Don't You Ever Get Tired of Hurting Me,Ray Price,album,1965-07-22,1960,40,0.372,0.184,7,-16.772,1,0.031,0.361,0.207,0.541,83.535,168240,4
+0,3Xy16SYnhBiSBL5yUXaHG1,Buzzin' Fly,Tim Buckley,album,1969,1960,45,0.456,0.323,5,-13.053,1,0.0337,0.032,0.204,0.418,120.937,364160,4
+0,0QpactOWKs6d2vbTdDyVsS,Will the Circle Be Unbroken,The Carter Family,album,1964,1960,40,0.593,0.112,9,-16.704,1,0.0336,0.0,0.117,0.132,82.796,162320,4
+0,1lLQtlPli8kTLJsTrcnRuQ,Time Was,Canned Heat,album,1969-07-08,1960,45,0.622,0.493,0,-14.549,1,0.028,0.452,0.404,0.806,97.605,202253,4
+0,0xGgv9u5VuAmFUUmWg3vbl,Reason To Believe,Tim Hardin,album,1966-07-01,1960,45,0.649,0.238,0,-16.858,1,0.0371,0.0,0.126,0.711,82.17,119667,3
+0,1wb0dzBIHsYgw5CR4ygdic,Long-Legged Guitar Pickin' Man,Johnny Cash,album,1967-08-01,1960,39,0.672,0.747,10,-8.589,1,0.0391,9.5e-05,0.099,0.871,118.657,155507,4
+0,0Mr36KWkYYXqWHyAhkdF8w,I Take A Lot Of Pride In What I Am,Merle Haggard,album,1969,1960,37,0.474,0.519,0,-10.775,1,0.0527,0.000325,0.218,0.727,202.728,167547,4
+0,0srp0yXqH0Axym0z7wLUQy,(Margie's At) The Lincoln Park Inn,Bobby Bare,album,1969-06-01,1960,40,0.364,0.318,2,-13.345,1,0.0308,0.000234,0.151,0.525,131.155,198733,3
+0,2s2Owv5k5HaXCkvwV8AbsG,The Cold Hard Facts of Life,Porter Wagoner,album,1967-07-24,1960,41,0.516,0.438,0,-11.834,1,0.0321,0.0,0.403,0.42,132.519,192947,4
+0,43FVOV48LHhXOhZ0t5picb,Hideaway - Mono Instrumental,John Mayall & The Bluesbreakers,album,1966-06-22,1960,45,0.369,0.759,9,-4.718,1,0.0361,0.364,0.329,0.868,132.281,193560,4
+0,10W7CN0zC8FwRa66JDxpay,On the Way Home,Buffalo Springfield,album,1968,1960,43,0.66,0.501,5,-12.005,1,0.027,0.000323,0.145,0.901,119.234,150000,4
+0,41HOgdemYjFSPffuBMdwzG,"Jackson - Live at Folsom State Prison, Folsom, CA - January 1968",Johnny Cash,album,1968-05-01,1960,40,0.646,0.613,1,-13.413,1,0.102,0.00235,0.602,0.808,125.218,176720,4
+0,0dfdXhBg11XA16XgAEtFcN,Song to Woody,Bob Dylan,album,1962-03-19,1960,43,0.53,0.257,9,-13.968,1,0.0332,0.0299,0.11,0.499,95.538,160000,1
+0,66V3speCvzVe6lUnIezZ0J,"Laugh, Laugh",The Beau Brummels,album,1965,1960,38,0.486,0.683,1,-8.768,0,0.0541,0.0,0.0987,0.745,128.723,176733,4
+0,4gFB9xxwrJB0uIEPSquCTU,I Guess the Lord Must Be in New York City,Harry Nilsson,album,1969-08-01,1960,44,0.518,0.431,2,-15.028,1,0.0519,0.00608,0.343,0.745,127.953,161267,4
+0,6os5B6xjuke9YfBKH3tu1e,Highway 61 Revisited,Bob Dylan,album,1965-08-30,1960,43,0.49,0.808,10,-6.725,1,0.0409,0.0,0.232,0.604,73.434,205827,4
+0,5jfgilRtwvpSfZyKkqIGNW,Crimson & Clover - Long Version,Tommy James & The Shondells,album,1969-01-01,1960,42,0.369,0.532,11,-11.823,1,0.0864,0.225,0.226,0.552,79.801,332760,4
+0,1wed13CuglKBkOnVFFzI1D,How Can We Hang On To A Dream,Tim Hardin,album,1966-07-01,1960,53,0.563,0.175,7,-15.478,0,0.0404,0.0,0.147,0.365,126.519,123240,5
+0,6OiXHMVgq95x3GDIe7MMA0,The Dolphins,Fred Neil,album,1966-12-01,1960,43,0.483,0.365,2,-14.455,1,0.0963,0.0076,0.0785,0.576,122.92,245133,3
+0,0dDX6W09aqXumqrKYPuSLd,Tombstone Shadow,Creedence Clearwater Revival,album,1969-08-03,1960,44,0.617,0.699,0,-6.659,1,0.0278,0.0461,0.0684,0.968,110.165,218573,4
+0,37i6z8YqVrsvlx9jAaF6Rf,Suite: Judy Blue Eyes - 2005 Remaster,"Crosby, Stills & Nash",album,1969-05-29,1960,39,0.451,0.364,9,-13.126,1,0.0436,0.0,0.197,0.298,154.206,444053,4
+0,0ry355UoTbc3NScBC2F3jA,"I Got Stripes - Live at Folsom State Prison, Folsom, CA (2nd Show) - January 1968",Johnny Cash,album,1968-05-01,1960,39,0.525,0.459,5,-15.717,0,0.302,0.0,0.524,0.621,125.552,105573,4
+0,4NnhLA66RRLXxKbiiscU9R,How Can I Be Sure - Single Version; Mono,The Young Rascals,album,1967,1960,40,0.231,0.455,2,-8.06,1,0.0296,0.0,0.0823,0.391,166.705,175076,3
+0,6lTQUF6os6Y400rkjWb30B,Darling Be Home Soon,The Lovin' Spoonful,album,1967-05,1960,38,0.42,0.43,7,-8.944,1,0.0244,0.248,0.12,0.337,97.196,214213,4
+0,6mM3QPK502fHwOYaj6ELmm,Goin' Back,The Byrds,album,1968-01-15,1960,43,0.496,0.449,4,-10.23,1,0.0277,8.48e-06,0.12,0.547,116.181,205840,4
+0,3JLJ0n5ZFd8oOwvQv7LUEt,North To Alaska*,Johnny Horton,compilation,1961,1960,39,0.644,0.371,0,-14.436,1,0.039,0.0,0.348,0.916,82.909,169760,4
+0,1xRgiVZdboVguGvZfFtAxr,"There Is a Time - Recorded at the Mecca, Los Angeles",The Dillards,album,1964,1960,37,0.454,0.601,2,-10.888,0,0.0341,2.76e-05,0.923,0.689,132.614,168720,4
+0,7Am294mTThMXQF1ol3zylX,"Diesel Smoke, Dangerous Curves",Red Simpson,album,1967-01-01,1960,41,0.73,0.749,2,-9.089,0,0.029,4.54e-05,0.275,0.959,110.466,160360,4
+0,2uMbDaPM5knVhHlDXqCc2c,Chest Fever - Remastered,The Band,album,1968-07-01,1960,42,0.439,0.696,4,-7.911,1,0.0405,0.197,0.0846,0.307,99.72,313554,4
+0,4I1HdMmTo3gh01CWwmMMMh,Hey Porter,Johnny Cash,album,1961-01-01,1960,39,0.814,0.54,0,-9.534,1,0.0386,0.00057,0.106,0.901,120.646,134000,4
+0,2hIGz0CXlqA2ukeuUl8DYP,I'll Feel a Whole Lot Better,The Byrds,album,1965-06-21,1960,43,0.402,0.892,9,-7.373,1,0.0302,0.0,0.345,0.951,134.927,151707,4
+0,4HCBOzwH6I2GM0qPEGFxCi,Heighty Hi,Lee Michaels,album,1969-11-20,1960,37,0.664,0.859,5,-9.464,1,0.0317,0.0261,0.0971,0.939,87.136,356531,4
+0,5zNCFqfUZ0qsrnDRjcJLdW,Had To Cry Today,Blind Faith,album,1969-08,1960,37,0.321,0.654,5,-12.564,1,0.0465,0.0322,0.112,0.692,161.094,528560,4
+0,5JqsRFZYDtIK5Rgeuzd2Jv,Tombstone Blues,Bob Dylan,album,1965-08-30,1960,43,0.504,0.808,11,-7.25,1,0.0584,0.0,0.316,0.653,123.866,356227,4
+0,0tYJ6uY0ETQOtOM8KySMSp,Mean Mistreater,Johnny Winter,album,1969,1960,46,0.554,0.49,9,-8.725,1,0.0267,0.00728,0.327,0.578,67.591,232453,4
+0,7EueQGMtSPfBeyodoyFodr,Living In The U.S.A.,Steve Miller Band,album,1968-01-01,1960,39,0.38,0.633,2,-12.631,1,0.247,0.00041,0.497,0.589,83.585,244027,4
+0,5PHGTeEdFxTEb4hepxug86,Turn! Turn! Turn! (To Everything There Is a Season),The Byrds,compilation,1965,1960,38,0.449,0.811,2,-8.17,1,0.0458,2.28e-05,0.0393,0.736,124.594,229533,4
+0,1cmSVr6fl5Hvb2worddWrH,Dark End Of The Street,The Flying Burrito Brothers,album,1969-02-06,1960,38,0.421,0.497,7,-11.542,1,0.0272,0.0175,0.153,0.59,79.008,230267,4
+0,6ppsYmPvK5Wp1QBdJyTc7s,Gentle On My Mind,John Hartford,album,1967,1960,36,0.407,0.401,0,-12.928,1,0.0387,0.0,0.0814,0.4,197.706,182840,4
+0,2yaf46YMxA5y6bzmWUKgXC,"It Takes a Lot to Laugh, It Takes a Train to Cry",Bob Dylan,album,1965-08-30,1960,42,0.493,0.579,8,-7.743,1,0.0319,8.06e-05,0.0759,0.475,93.353,245133,4
+0,0V1771LhL3tG36pb55EZAH,Just Like Tom Thumb's Blues,Bob Dylan,album,1965-08-30,1960,42,0.497,0.511,7,-8.318,1,0.0271,0.0,0.262,0.591,99.5,327560,4
+0,4ELGuNlKE0uiD6waM1qWhu,For the Sake of the Song,Townes Van Zandt,album,1969-09,1960,37,0.387,0.124,11,-19.606,1,0.04,4.27e-05,0.115,0.477,204.317,322053,4
+0,7w1OJlqxiRxnC4ct8yNN1n,Questions,Buffalo Springfield,album,1968,1960,39,0.573,0.388,7,-13.922,1,0.0269,0.00127,0.11,0.806,105.825,177867,4
+0,2zwJVwFkGbSPoBopZ26FvJ,Be Here to Love Me,Townes Van Zandt,album,1969-04,1960,36,0.621,0.366,11,-12.201,1,0.0288,0.0,0.15,0.622,100.815,158707,4
+0,3yFRbFaSj8MeNuYaN21HIu,House of the Risin' Sun,Bob Dylan,album,1962-03-19,1960,44,0.528,0.317,9,-10.133,0,0.0285,0.00215,0.102,0.277,96.446,318013,4
+0,1MD5D5cFRKBAwbooPvifjN,"The Long Black Veil - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968",Johnny Cash,album,1968-05-01,1960,38,0.38,0.211,4,-21.066,1,0.593,0.000483,0.34,0.433,171.614,239320,4
+0,2eEwvpPcUu3DzKGdLP2y8D,You Win Again,Hank Williams,album,1966-12-04,1960,36,0.531,0.342,4,-11.931,1,0.0279,1.35e-05,0.369,0.709,115.577,158667,4
+0,1aHR9fHIvmcNQ9oOVqQExT,Bring It On Home,Sonny Boy Williamson II,album,1965-04-09,1960,45,0.827,0.396,9,-11.511,1,0.0388,0.00533,0.126,0.586,110.997,156867,4
+0,7oXP56aUNn7ofMyLhvPhEK,Satan Is Real,The Louvin Brothers,album,1960,1960,37,0.603,0.194,9,-14.069,1,0.0577,0.0,0.0921,0.389,124.254,181733,4
+0,7ucHPz44bfTAGgXp7cghor,Dreams,Allman Brothers Band,album,1969,1960,38,0.36,0.426,7,-14.435,1,0.0304,0.7,0.127,0.54,128.901,439338,3
+0,2Vd7OCeKGHOEdOCQsxjnCf,(Quicksilver Daydreams Of) Maria,Townes Van Zandt,album,1969-09,1960,37,0.557,0.17,0,-17.459,1,0.0392,8.96e-06,0.0724,0.438,113.619,285173,3
+0,5TBn5BUiC731JytZDUZZmp,Rose Garden,Lynn Anderson,compilation,1966,1960,45,0.596,0.514,0,-11.504,1,0.0287,0.0,0.0805,0.964,130.553,173800,4
+0,07yhlDqS99totZZkdQEWBW,If I Were A Carpenter,Ramblin' Jack Elliott,album,1968,1960,40,0.482,0.299,7,-12.266,1,0.0295,0.336,0.106,0.152,108.101,304693,4
+0,4pWTSkhzqCGHycPO51SBDY,Your Good Girl's Gonna Go Bad,Tammy Wynette,album,1964,1960,37,0.759,0.448,5,-11.048,1,0.0315,1.31e-06,0.138,0.895,93.451,121267,4
+0,7Ay1lHxhuM33NoXKsS0iom,Oxford Town,Bob Dylan,album,1963-05-27,1960,43,0.658,0.218,8,-17.302,1,0.0377,0.00188,0.16,0.632,106.73,107227,4
+0,3MEOSA7QGI1iWAyTYfRCPt,Help Me Make It Through the Night,Tammy Wynette,album,1967,1960,43,0.407,0.198,8,-13.559,1,0.0287,0.0322,0.13,0.385,140.534,162560,4
+0,4izLMLujQrtNPBfoodlRlr,Ragtime Cowboy Joe,Sons of the Pioneers,album,1964-01-19,1960,36,0.761,0.541,0,-13.686,0,0.065,0.0,0.198,0.968,75.596,147191,4
+0,5cqRxB6DnYFDWENV6dE09g,Dang Me,Roger Miller,album,1965-01-01,1960,35,0.706,0.465,4,-9.398,1,0.0437,1.15e-05,0.0536,0.876,93.215,109067,4
+0,07txaZjD9Y9dGUgLpbf0Cr,Wrote A Song For Everyone,Creedence Clearwater Revival,album,1969-08-03,1960,42,0.67,0.381,7,-9.749,1,0.0285,0.00113,0.19,0.291,113.497,296640,4
+0,2ThO3YZAifDOnpKPUJrlWp,Columbine,Townes Van Zandt,album,1969-09,1960,36,0.497,0.191,7,-20.047,1,0.0312,0.00363,0.14,0.619,91.368,154707,4
+0,4aDBO2DBS6XPhnyHhALxYz,Colours - Single Version,Donovan,album,1965-05-14,1960,46,0.458,0.621,4,-11.507,1,0.0262,0.00806,0.304,0.696,101.748,165200,4
+0,43vto7McP8RTBjhOK0cyFa,Harper Valley PTA,Dolly Parton,album,1969-01-24,1960,41,0.793,0.457,7,-13.425,1,0.053,3.54e-06,0.106,0.879,123.509,192800,4
+0,4wJ4qfeh1qj9TRW4kqRF42,Chug-A-Lug,Roger Miller,album,1965-01-01,1960,34,0.617,0.412,11,-13.945,1,0.0509,0.0,0.158,0.933,164.041,123067,4
+0,6FQ36fnytRtVALIpsBwXBv,Were You There (When They Crucified My Lord),Johnny Cash,compilation,1963-08-06,1960,38,0.349,0.109,2,-15.146,1,0.0308,4.92e-06,0.245,0.144,97.794,234680,4
+0,3URRBJKRfCnlit1jVoncUD,The Red Telephone - 2015 Remaster,Love,album,1967,1960,43,0.471,0.258,7,-19.476,1,0.0346,8.16e-05,0.11,0.0908,110.634,284320,4
+0,1a1VwhmbvqihSDdUEZbzTc,A Six Pack To Go,Hank Thompson,album,1966-01-01,1960,37,0.628,0.687,2,-9.04,1,0.0964,0.0,0.055,0.743,165.111,131800,4
+0,3CZ4BXMk4xpCJcWeowNERh,Guinnevere - 2005 Remaster,"Crosby, Stills & Nash",album,1969-05-29,1960,41,0.467,0.0936,11,-19.998,0,0.0371,0.00365,0.113,0.178,113.699,277813,4
+0,05LTrpC9z6YpTPmaeGC9kQ,Loan Me a Dime,Boz Scaggs,album,1969,1960,42,0.392,0.471,9,-10.518,0,0.0377,0.0577,0.287,0.382,139.957,751920,4
+0,2itBkHBUxGl4VfDj4HNyoD,She Belongs to Me,Bob Dylan,album,1965-03-22,1960,42,0.729,0.382,9,-14.07,1,0.0367,0.0,0.152,0.637,112.179,166707,4
+0,7t3MMuqOyL1t9NzIlMyKFJ,I Don't Wanna Play House - Single Version,Tammy Wynette,album,1964,1960,38,0.574,0.258,2,-13.049,1,0.0319,0.0,0.15,0.405,100.994,155227,4
+0,555aGlegOjCZVH9ifvf61s,Lonely Blue Boy,Conway Twitty,album,1960-01-01,1960,36,0.659,0.342,5,-13.709,1,0.0353,1.26e-05,0.248,0.677,112.878,135067,3
+0,40GFPBolcy0yucApV9uxq2,One of Us Must Know (Sooner or Later),Bob Dylan,album,1966-06-20,1960,41,0.431,0.626,5,-9.46,1,0.0319,6.14e-05,0.364,0.762,96.494,292440,4
+0,3UB6yOPeImCCUuQzaggho1,Groovin' - Single Version,The Young Rascals,album,1967,1960,35,0.592,0.595,5,-4.517,0,0.0297,0.0,0.106,0.58,106.646,147467,4
+0,5ziTsuMsqSS5lbOfGboeCO,Do-Wacka-Do,Roger Miller,album,1965-01-01,1960,34,0.615,0.371,4,-13.041,1,0.0838,0.0,0.113,0.915,89.12,105573,4
+0,06np0ZO726l0qZTM15pVl5,Mountain Dew,Grandpa Jones,album,1969-01-01,1960,36,0.58,0.669,9,-9.016,1,0.0311,0.000513,0.216,0.97,139.401,117373,4
+0,74zBjPCZ1juar6yeglInYv,Take Me Back To Tulsa,Bob Wills,album,1960-01-01,1960,37,0.731,0.555,2,-8.365,1,0.175,1.04e-05,0.326,0.961,136.342,154920,4
+0,4FLUda3tCvPWBCvUeyiivd,Silver Threads And Golden Needles,Linda Ronstadt,album,1969-03,1960,38,0.464,0.741,10,-5.192,1,0.0466,0.0,0.0896,0.947,151.72,141160,4
+0,032kwZ9kg4yIaIPBOOIwlm,I'll Be Your Baby Tonight,Bob Dylan,album,1967-12-27,1960,44,0.512,0.23,0,-16.412,1,0.0301,0.000139,0.0508,0.457,127.567,159360,4
+0,0OXmUaY4ajGoQ7JOAzotQJ,Helplessly Hoping - 2005 Remaster,"Crosby, Stills & Nash",album,1969-05-29,1960,37,0.567,0.159,7,-13.648,1,0.0331,0.0,0.111,0.436,146.913,157893,4
+0,0wmk0GFmNaox46CP2h5CGR,Life Has Its Little Ups And Downs,Charlie Rich,album,1969,1960,35,0.4,0.326,10,-12.059,1,0.0314,0.0,0.116,0.211,69.55,221827,4
+0,0MNLIgIY9cW7N2rhvx8W9b,Easy To Be Hard - Single Version,Three Dog Night,album,1969,1960,39,0.323,0.518,4,-9.297,0,0.0378,0.00101,0.0972,0.218,89.863,192187,4
+0,529UhNRfvKmId4ZL7cvRDm,"Greystone Chapel - Live at Folsom State Prison, Folsom, CA - January 1968",Johnny Cash,album,1968-05-01,1960,37,0.324,0.586,4,-16.227,1,0.674,0.00346,0.209,0.497,78.827,345080,3
+0,569rWEzod8v8JX86gO2eX6,Burning Memories - Single Version,Ray Price,album,1964-12-17,1960,38,0.32,0.297,7,-15.054,0,0.0357,0.000738,0.347,0.445,102.12,149200,4
+0,6GZ6O0bHsDndSAmqnxXMjn,In the Ghetto,Dolly Parton,album,1969-09-08,1960,42,0.363,0.316,11,-13.006,1,0.0669,0.00018,0.135,0.291,171.796,168640,4
+0,49NfiXJHlZoexjMjqWIPQQ,"Green, Green Grass of Home - Live at Folsom State Prison, Folsom, CA - January 1968",Johnny Cash,album,1968-05-01,1960,37,0.497,0.261,5,-18.28,0,0.228,7.35e-05,0.311,0.556,109.796,182387,4
+0,4OjqrdD3QILzxkGwNoMk0c,Shapes of Things - 2015 Remaster,The Yardbirds,album,1964,1960,43,0.432,0.823,0,-9.216,1,0.116,0.00572,0.0953,0.381,132.21,145960,4
+0,5PHkCHXokZY9u29qLHlgGV,Waitin' Around to Die,Townes Van Zandt,album,1968,1960,39,0.605,0.526,9,-11.994,0,0.0388,2.35e-06,0.139,0.54,102.332,145587,4
+0,4hv2Pkp66pnIrUBuS95Snw,California,John Mayall,album,1969,1960,43,0.477,0.321,0,-17.534,1,0.0351,0.757,0.695,0.663,106.463,571080,4
+0,0teWfbvQtUY4dnnZu1yT4E,Christine’s Tune,The Flying Burrito Brothers,album,1969-02-06,1960,36,0.46,0.596,3,-13.037,1,0.042,0.39,0.295,0.833,98.426,182733,4
+0,08FHOG2zOkqCQ0IYOmJ5bj,Lovesick Blues,Hank Williams,album,1966-12-04,1960,35,0.595,0.47,0,-9.965,1,0.0298,0.0,0.118,0.791,128.227,164667,4
+0,5fle0b4Py30UeusQUzyxbG,I've Been Everywhere,Hank Snow,album,1963-12-10,1960,33,0.465,0.528,1,-14.134,1,0.0453,0.0,0.408,0.948,119.706,166333,4
+0,7Gzlsdq3UscVRqRn7x7avR,Legend Of A Mind,The Moody Blues,album,1968-07-26,1960,41,0.33,0.461,2,-12.407,1,0.0314,0.184,0.151,0.322,127.058,396613,4
+0,2OYrhel5MHLGeTvXU9txqA,Don't Take It Too Bad,Townes Van Zandt,album,1969-09,1960,35,0.624,0.134,0,-18.026,1,0.0352,1.89e-06,0.13,0.497,112.615,174147,3
+0,1GTBucE0tthedwiRipSG4g,What's Happening?,The Byrds,album,1966-07-18,1960,38,0.528,0.617,7,-11.423,1,0.0289,0.00376,0.314,0.473,103.717,155373,4
+0,2mkz7LrEqofmv0PvcihXW7,Long Black Veil - Remastered,The Band,album,1968-07-01,1960,39,0.588,0.475,7,-9.808,1,0.0306,0.0,0.0974,0.606,140.344,181038,4
+0,5995dMCC91V6Gmgt5u0FUh,Lay Lady Lay - Alternative Version,The Byrds,album,1969-03-05,1960,44,0.634,0.392,0,-9.265,1,0.0259,1.04e-05,0.0883,0.587,82.134,197733,4
+0,7vifADJGSuCGQc2xmEzprL,Gonna Buy Me a Dog - Original Stereo Version; 2006 Remaster,The Monkees,album,1966-10-10,1960,36,0.587,0.683,4,-10.352,1,0.0889,0.0,0.099,0.935,93.622,160613,4
+0,4jdtLLyEL7wY0TlCdMKhxq,Sad-Eyed Lady of the Lowlands,Bob Dylan,album,1966-06-20,1960,42,0.301,0.385,2,-10.755,1,0.0323,0.0,0.0799,0.275,171.836,679107,3
+0,7Gg3ucZxjFjXnotS0PFif4,Witchi-Tai-To,Brewer & Shipley,album,1969,1960,35,0.678,0.458,0,-12.099,1,0.0332,0.0244,0.107,0.714,122.516,415080,4
+0,6cuKyevjNVrb4I7BAA9NTv,Lookin' for a Home,Al Kooper,album,1969,1960,40,0.458,0.277,10,-15.726,1,0.032,0.0608,0.0597,0.637,137.066,352240,4
+0,330W4uDyRMXp2eIociGr2k,Marching Through Georgia,Tennessee Ernie Ford,album,1961-07-10,1960,35,0.819,0.7,3,-6.468,1,0.0534,0.0,0.0425,0.961,109.506,142867,4
+0,1znjNOAgnNeGHrGb2hynUX,The Night Time Is The Right Time,Creedence Clearwater Revival,album,1969-08-03,1960,41,0.614,0.718,9,-7.898,1,0.0271,0.000798,0.124,0.849,105.745,189120,3
+0,1L4RtuEiAiwdX5taX4meLI,"Corrina, Corrina",Bob Dylan,album,1963-05-27,1960,41,0.667,0.209,5,-16.915,1,0.0358,0.00696,0.0773,0.685,95.311,161467,4
+0,3bIB8JVXIbCTwJtsweAqeq,Marrakesh Express - 2005 Remaster,"Crosby, Stills & Nash",album,1969-05-29,1960,40,0.571,0.557,7,-15.439,1,0.211,0.000203,0.381,0.746,107.953,156680,4
+0,5RXjEF5tqZFAsiPXZrcpnu,Bluebird,Buffalo Springfield,album,1967-10-30,1960,38,0.481,0.528,7,-10.852,1,0.0407,0.00371,0.186,0.358,121.798,275760,4
+0,43dICZWeruQuFctoHrIEVS,Space Cowboy,Steve Miller Band,album,1969-01-01,1960,38,0.456,0.647,0,-12.946,0,0.0352,5.12e-06,0.489,0.757,121.447,296333,4
+0,7D5WsIISgiaBTfgubAuU4Z,"Give My Love to Rose - Live at Folsom State Prison, Folsom, CA - January 1968",Johnny Cash,album,1968-05-01,1960,36,0.631,0.175,0,-19.401,1,0.125,2.81e-05,0.668,0.408,83.332,162173,4
+0,5uIGPmg7rZFstDSiUMXHoc,Rainy Night in Georgia,Tony Joe White,album,1969,1960,45,0.38,0.303,7,-13.998,1,0.0499,7.34e-05,0.107,0.302,171.937,214733,4
+0,5X0ax3W4acNnoMnHqXtcAb,None but the Rain,Townes Van Zandt,album,1969-09,1960,35,0.527,0.115,9,-18.689,0,0.039,0.00431,0.148,0.264,76.016,143227,4
+0,1pUTz92GnH4vzWHSOyRLu5,Abilene,Bobby Bare,album,1963-12-11,1960,36,0.662,0.377,5,-12.808,1,0.0266,0.00174,0.222,0.709,101.09,133347,4
+0,4vDJqsXuvoVSbHwfjQVrFp,Carrie-Anne,The Hollies,album,1967-06-01,1960,35,0.552,0.515,0,-11.032,1,0.0383,0.0,0.361,0.859,119.441,175400,4
+0,2jWSfDhLJX79flsExPjr77,Johnny Reb,Johnny Horton,compilation,1961,1960,34,0.84,0.439,4,-12.516,1,0.0429,0.0,0.262,0.89,115.05,140467,4
+0,2HXnjMxrO4QccqE3Grwmd0,I Threw It All Away,Bob Dylan,album,1969-04-09,1960,40,0.476,0.194,0,-20.311,1,0.0335,0.0135,0.23,0.371,145.945,143067,4
+0,4AMoWKnElhuJniqKP0UFDh,(Sittin' On) The Dock Of The Bay - Remastered 2001,Glen Campbell,album,1968,1960,37,0.68,0.454,2,-10.972,1,0.0268,3.29e-05,0.0793,0.693,110.36,152960,4
+0,7GZ1KaMcHyak0Csx9w078c,I'll Be Long Gone,Boz Scaggs,album,1969,1960,38,0.374,0.409,9,-11.004,0,0.0289,8.23e-05,0.0854,0.448,114.255,255693,3
+0,5GZKrlylsU8zoILY2aiDJz,Fujiyama Mama - Remastered,Wanda Jackson,album,1960-05-01,1960,39,0.834,0.704,2,-8.077,1,0.0631,5.91e-05,0.201,0.96,141.495,134733,4
+0,6PANXCHzEANzajOgtwLMnN,Matty Groves,Fairport Convention,album,1969-12-01,1960,43,0.407,0.525,2,-13.609,1,0.0878,0.135,0.0868,0.739,90.745,489107,4
+0,5Ys3TeaxdroLXxWWjI2Z68,Black Mountain Rag,Doc Watson,album,1964,1960,35,0.421,0.689,3,-19.068,1,0.0332,0.879,0.105,0.952,123.568,92000,4
+0,2DATiJtJ75vDhCL59LWhlI,"Dirty Old Egg-Suckin' Dog - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968",Johnny Cash,album,1968-05-01,1960,36,0.511,0.245,3,-17.549,1,0.123,0.0,0.703,0.65,128.902,76947,3
+0,4u5IwspSA7c4r1KWqGM3gY,It's Not My Cross To Bear,Allman Brothers Band,album,1969,1960,37,0.336,0.411,4,-13.638,1,0.0406,0.00365,0.224,0.34,129.725,303521,3
+0,4htBSJ47rNe7qV6nz4K05v,Cross-Tie Walker,Creedence Clearwater Revival,album,1969-08-03,1960,40,0.677,0.777,2,-7.953,1,0.0254,0.0239,0.335,0.845,97.521,198733,4
+0,2L5Bx3LhFMr078xAVfATny,White Summer - 2003 Remaster,The Yardbirds,album,1967-07-10,1960,41,0.448,0.542,4,-13.774,0,0.0672,0.786,0.106,0.319,143.792,236467,4
+0,7GWgwLxREtfYiiJKLFQgI6,"Don't Think Twice, It's All Right - Album Verison",Ramblin' Jack Elliott,album,1968,1960,36,0.501,0.311,11,-15.861,1,0.0323,0.0884,0.115,0.558,98.232,231800,4
+0,3r1NKEbMsxNuXhnODlHri5,I'm Gonna Make Her Love Me,Jim Ford,album,1969-01-01,1960,37,0.696,0.891,10,-5.633,0,0.0816,0.0,0.0957,0.65,97.256,186093,4
+0,0hXHpNiW5dHv21aUhYDEnA,Funny How Time Slips Away,Willie Nelson,album,1962-01-01,1960,33,0.606,0.225,2,-12.855,1,0.0281,0.000199,0.121,0.567,104.803,185409,1
+0,4RqUEAv0YXitpXVDbf6nD7,The Motorcycle Song,Arlo Guthrie,album,1967-08-28,1960,37,0.428,0.392,6,-14.087,1,0.0384,0.000146,0.0953,0.602,152.822,170933,4
+0,14hykKy6TC9y6chiptCtje,Who Do You Love - Pt. 1,Quicksilver Messenger Service,album,1969,1960,40,0.642,0.56,4,-13.159,1,0.0749,0.788,0.499,0.832,92.588,212733,4
+0,7nGnCyY1xCeDgp3IslgAEy,That's The Bag I'm In,Fred Neil,album,1966-12-01,1960,38,0.581,0.38,0,-12.458,1,0.0355,0.0858,0.166,0.479,98.653,215667,4
+0,3pSZGrzRk69ESZ9TlCUX5b,King Harvest (Has Surely Come),The Band,album,1969-09-22,1960,39,0.579,0.693,0,-8.023,1,0.0814,0.14,0.0713,0.728,99.902,217508,4
+0,0ytcaF4W2StovTIcxUzCk7,Lovely To See You,The Moody Blues,album,1969-04-25,1960,38,0.422,0.761,4,-8.628,1,0.0448,0.00403,0.532,0.586,126.573,154387,4
+0,50ir5TASs5emq5j9pr0Gtc,Our Mother the Mountain,Townes Van Zandt,album,1969-04,1960,35,0.338,0.262,9,-15.015,1,0.0481,0.0,0.0866,0.193,69.74,262307,3
+0,6txGFpco4cfgG1sA1MxLCp,From a Buick 6,Bob Dylan,album,1965-08-30,1960,39,0.287,0.72,0,-6.231,1,0.0347,3.41e-06,0.263,0.709,176.302,195693,4
+0,7fApvo3GabRhZnX9KA5u0q,Right Or Wrong,Wanda Jackson,album,1961-01-01,1960,37,0.328,0.403,7,-5.472,1,0.0326,4.37e-06,0.0817,0.421,76.881,159307,3
+0,0OSNN0ABo1HMgfGeMQ3pCr,I Walk on Guilded Splinters,Dr. John,album,1968,1960,40,0.654,0.287,9,-19.071,0,0.0778,0.00446,0.0915,0.708,90.086,466267,4
+0,443sErTxKXGiISwjsEBA9u,This Eve of Parting,John Hartford,album,1968,1960,36,0.57,0.512,6,-9.971,1,0.0291,1.21e-05,0.199,0.355,115.288,152667,4
+0,7nzbKYtkpujp2GYuAlTiZe,England Swings,Roger Miller,album,1965-01-01,1960,33,0.62,0.494,2,-11.215,1,0.0635,0.0,0.173,0.778,74.947,112467,4
+0,3VcJYPMFO0Cq4ixhjZD7i6,Rock & Roll Woman,Buffalo Springfield,album,1967-10-30,1960,37,0.409,0.636,9,-13.542,0,0.111,0.0154,0.347,0.567,144.682,165847,4
+0,2FDTgrYDUdQKyGmtynEk90,Love Minus Zero,Bob Dylan,album,1965-03-22,1960,40,0.702,0.56,4,-12.323,1,0.0342,0.0,0.109,0.889,125.452,171107,4
+0,6FUcQ9eELm82iMfFfKRZXi,No Matter What You Do - Stereo Version,Love,album,1966-03-01,1960,34,0.548,0.859,7,-9.602,1,0.0421,1.85e-06,0.419,0.685,120.334,165133,4
+0,1RMa7sVQua8dMiqixX2bYM,Mama Roux,Dr. John,album,1968,1960,39,0.84,0.393,5,-15.199,1,0.0405,2.9e-06,0.102,0.809,128.234,180600,4
+0,79ny7S4HMydnXkXWGS78qw,"Ramblin', Scramblin'",Jerry Jeff Walker,album,1969,1960,31,0.677,0.255,7,-15.735,1,0.0404,0.0,0.0734,0.727,109.478,263040,4
+0,6Wi0DHWomfgBLoBo14yyDp,Season of the Witch - 2002 Remix w/o Horns,Al Kooper,album,1968,1960,38,0.551,0.531,2,-9.054,1,0.0495,0.000868,0.135,0.546,82.36,667973,4
+0,6TNNss0QAjTi14I5CVfMpJ,Mary Had A Little Lamb,Buddy Guy,album,1968,1960,43,0.747,0.446,9,-13.386,1,0.0374,0.13,0.0875,0.804,125.534,152600,4
+0,3Si9u9FVlUTcUXVcawnstJ,Ballad of Hollis Brown,Bob Dylan,album,1964-01-13,1960,41,0.683,0.312,3,-13.588,1,0.0371,0.000123,0.0996,0.519,111.468,302307,4
+0,76QyPWsxKTVImSd6HOjhSr,Graveyard Train,Creedence Clearwater Revival,album,1969-01-05,1960,34,0.748,0.105,9,-19.15,1,0.0482,0.0258,0.102,0.383,116.64,515440,4
+0,53kWBpTaAPrE3BC0d22y3i,Room To Move,John Mayall,album,1969,1960,43,0.756,0.926,1,-8.525,1,0.13,0.429,0.936,0.701,132.326,302053,4
+0,3p0dqXyYn3ZpJmPiUpisCl,Well All Right,Blind Faith,album,1969-08,1960,34,0.428,0.654,7,-11.434,1,0.0283,0.0663,0.146,0.786,110.594,267000,4
+0,2XwjAUCmhAa6XccL9p0lGM,Presence Of The Lord,Blind Faith,album,1969-08,1960,34,0.485,0.51,9,-13.6,0,0.0475,0.385,0.163,0.573,120.501,289133,4
+0,0y2QzIC1avdAqTbo0qrDJB,No Regrets - 2008 Remaster,Tom Rush,album,1968,1960,38,0.681,0.32,11,-16.073,1,0.0364,0.0939,0.145,0.329,110.147,231800,4
+0,59n3HqfAMEpFFEAuBQQCOC,"Flushed from the Bathroom of Your Heart - Live at Folsom State Prison, Folsom, CA - January 1968",Johnny Cash,album,1968-05-01,1960,35,0.524,0.238,10,-16.382,1,0.333,0.0,0.144,0.678,123.56,161840,4
+0,608HuKHFh2N62z3Ja5vxXj,I Love You More Than You'll Ever Know,"Blood, Sweat & Tears",album,1968-02,1960,41,0.456,0.391,0,-9.687,0,0.0419,8e-05,0.209,0.411,133.95,356893,3
+0,70dh9SQ7pcNLn7QE5dbIiX,Sit Down I Think I Love You,Buffalo Springfield,album,1966-12-05,1960,38,0.637,0.5,11,-14.493,1,0.0321,0.00076,0.169,0.825,116.308,153707,4
+0,7eVr2GN82f4tJQ8qj4vtju,Trouble No More,Allman Brothers Band,album,1969,1960,37,0.556,0.567,9,-11.426,0,0.0333,0.00143,0.0907,0.858,141.345,227751,4
+0,2DVswRuJlXu4QiZQfOoIx7,The Super-Natural,John Mayall & The Bluesbreakers,album,1967-02-17,1960,41,0.221,0.372,10,-15.606,1,0.0446,0.686,0.339,0.775,199.803,176040,4
+0,2gzY74wkSgo1ts1IZbjxfT,The Door Into Summer - 2007 Remastered Version,The Monkees,album,1967-11-06,1960,35,0.559,0.661,7,-8.769,1,0.0323,0.0,0.376,0.862,162.935,170640,4
+0,06YcuDoEZvMcxgzvtzJTz4,Did You Ever Have to Make up Your Mind?,The Lovin' Spoonful,album,1965-11,1960,37,0.789,0.5,7,-9.064,1,0.0342,0.0,0.181,0.945,120.214,119373,4
+0,4ekhcmbinPu8eLHtxD2lav,The Fish Cheer / I-Feel-Like-I’m-Fixin’-To Die Rag,Country Joe & The Fish,album,1967,1960,38,0.334,0.86,5,-8.86,0,0.129,0.0,0.314,0.694,204.896,223933,4
+0,7weLWbJdUz7ZQR4ZJX6l59,Mellow Yellow,Donovan,compilation,1964,1960,34,0.764,0.373,2,-7.176,1,0.051,0.00492,0.0838,0.811,106.704,220693,4
+0,6pN3ra1mEPtjFsdCvDDHW3,Get Ready,Rare Earth,album,1969-09-30,1960,44,0.413,0.869,0,-5.843,1,0.0441,0.529,0.827,0.65,127.355,1292293,4
+0,4UtDrwAkSbrZgAUQSWKcti,Hangover Heart,Hank Thompson,album,1966-01-01,1960,35,0.552,0.229,9,-12.242,1,0.0309,0.0,0.125,0.442,122.789,184107,4
+0,1Wf71eeA52D1hOtkh6g2Ga,The Ballad of Jed Clampett,Lester Flatt,compilation,1965,1960,33,0.525,0.494,9,-15.221,1,0.0378,0.00013,0.414,0.966,137.269,93333,4
+0,1Ui9n4hF1G5krSr0G77fud,A House Is Not a Motel - 2015 Remaster,Love,album,1967,1960,41,0.452,0.444,9,-17.599,0,0.0467,0.0031,0.0756,0.82,80.767,211702,4
+0,5ATUmaVJWUTTagmPwQLck3,One Too Many Mornings,Bob Dylan,album,1964-01-13,1960,39,0.475,0.115,0,-16.284,1,0.0339,0.00794,0.12,0.25,103.753,157524,4
+0,0oNOecfPj4iD2QHKL24H39,Just Between You and Me,Charley Pride,album,1967-06-01,1960,36,0.541,0.314,6,-16.463,1,0.0312,2.25e-05,0.341,0.644,110.32,135080,4
+0,58n4w23hXUwot69NOvIB2x,Okolona River Bottom Band,Bobbie Gentry,album,1968,1960,37,0.574,0.388,2,-11.181,1,0.0415,1.03e-06,0.0977,0.754,116.111,184958,4
+0,1FEdEeL3LVSw0upgUChKAB,Tears Of Rage - Remastered,The Band,album,1968-07-01,1960,39,0.457,0.523,5,-8.144,1,0.0355,0.000141,0.199,0.382,116.047,319951,4
+0,3UKz0g2J3ZfjQsAVeRTWDn,Early Mornin' Rain,Gordon Lightfoot,album,1966-01-01,1960,36,0.549,0.342,5,-12.737,1,0.0305,0.0,0.138,0.602,110.079,188133,4
+0,2VvdHju2VFhZ84TShI21cB,The Army Of The Free,Tennessee Ernie Ford,album,1961-07-10,1960,33,0.577,0.594,8,-9.857,1,0.0468,0.0,0.0385,0.933,110.545,129560,4
+0,7eOGMNm7MBXBg1m02WFYuj,Big Boss Man,Charlie Rich,album,1966,1960,33,0.548,0.767,3,-10.92,1,0.0552,0.0,0.0896,0.85,105.684,156467,4
+0,1rxkJt6AldTgLzCm9s4Tue,The Legend of John Henry's Hammer,Johnny Cash,album,1963-02-01,1960,32,0.659,0.377,8,-14.363,1,0.261,0.000324,0.0385,0.638,111.372,506307,4
+0,63ZjH0NFN5q0ZT8fmmhHur,"St. Stephen - Live at the Fillmore West San Francisco, 1969; 2001 Remaster",Grateful Dead,album,1969,1960,33,0.408,0.319,9,-12.346,1,0.0743,0.000199,0.267,0.343,85.988,391893,4
+0,2dXRJxVmaPDaDYCUcNhQN4,A Tombstone Every Mile,Dick Curless,album,1965-02-02,1960,34,0.704,0.615,0,-9.638,1,0.0347,0.0,0.235,0.74,110.084,183027,4
+0,6CV8IsMQX6Kq7mJNekRHs7,For Lovin' Me,Gordon Lightfoot,album,1966-01-01,1960,36,0.619,0.386,6,-15.112,0,0.0284,0.000331,0.265,0.639,109.135,147893,4
+0,5Uwt7lIIcHoS2FoWOSu4wu,I'm Bringin' Home Good News,Merle Haggard,album,1969,1960,31,0.614,0.679,0,-10.377,1,0.0523,0.0,0.0639,0.84,120.686,168093,4
+0,7CuCP5OoLH77hJTibZQE4r,To Be Alone with You,Bob Dylan,album,1969-04-09,1960,38,0.707,0.326,9,-19.686,1,0.0541,3.06e-05,0.365,0.788,122.948,127600,4
+0,0MLny1eMrEO76xLNlw2yTs,Highway 61 Revisited - Live,Johnny Winter,album,1969,1960,34,0.35,0.617,2,-7.556,1,0.0305,0.00384,0.283,0.429,148.977,303520,4
+0,4MNxOR2Fu4NqJ892UdYx0h,Bob Dylan's Dream,Bob Dylan,album,1963-05-27,1960,40,0.48,0.247,7,-15.929,1,0.0311,2.86e-06,0.0745,0.422,109.646,300107,4
+0,4i4oDSWluhViEzuYIZYtmJ,Fourth Time Around,Bob Dylan,album,1966-06-20,1960,38,0.365,0.508,4,-12.103,1,0.0319,4.04e-05,0.15,0.623,155.741,272600,3
+0,6KHRRnST58pRpuWqsOk7Js,Don't Leave Me - Mono,Harry Nilsson,album,1968-07-01,1960,37,0.535,0.446,2,-10.466,1,0.0695,2.89e-05,0.616,0.667,100.024,139840,4
+0,10AYbpL1Ejax4lCr68vHaV,Black Hearted Woman,Allman Brothers Band,album,1969,1960,35,0.57,0.81,7,-10.562,1,0.046,0.16,0.631,0.714,111.025,309869,4
+0,1fvtT8W7lNwRuw6UxA0cBU,Rag Mama Rag,The Band,album,1969-09-22,1960,38,0.608,0.822,5,-8.435,0,0.0449,0.0361,0.0928,0.933,90.889,182295,4
+0,3kyYwwIzEt52hdQGtIDcTW,Polly,Dillard & Clark,album,1969-08-01,1960,37,0.513,0.209,4,-15.409,0,0.0263,0.000549,0.124,0.231,78.097,260667,3
+0,6aeOSY6fPsvGTzyXi65pNY,Leopard-Skin Pill-Box Hat,Bob Dylan,album,1966-06-20,1960,38,0.572,0.592,2,-8.639,1,0.0322,1.12e-06,0.106,0.968,97.475,236333,4
+0,4WVDaesMXyHKO8jyr9w6tE,Nashville Cats - 2003 Remaster,The Lovin' Spoonful,album,1966-11,1960,37,0.776,0.451,0,-11.224,1,0.0405,0.0,0.101,0.742,89.575,154000,4
+0,00m7Q2wHED7wAbYq83XxOh,Sunlight,The Youngbloods,album,1969-03-11,1960,35,0.633,0.196,0,-19.936,1,0.0434,0.0313,0.161,0.751,116.375,187573,4
+0,7FeLo6k5fhgXyGTPaK6VLi,One Hundred Years from Now,The Byrds,album,1968-08-30,1960,36,0.578,0.479,7,-10.51,1,0.0293,0.00445,0.275,0.867,114.138,160467,4
+0,4y9TLt6y1Lh12vLUCiSqOc,Engine Engine #9,Roger Miller,album,1965-01-01,1960,31,0.718,0.448,7,-12.228,1,0.0384,0.000367,0.205,0.749,131.224,137427,4
+0,1mpv6hIbfG75txI9zJGcf4,The Bells of Rhymney,The Byrds,album,1965-06-21,1960,35,0.377,0.666,2,-8.066,1,0.0314,0.000621,0.339,0.637,122.146,210467,4
+0,4xKXpD9VFkrC32Jxn1LNoM,(My Friends Are Gonna Be) Strangers - Remastered,Merle Haggard,album,1965,1960,31,0.756,0.487,5,-7.83,1,0.0285,0.00408,0.385,0.784,126.25,149333,4
+0,0SmwdeJVtml6tjvnUs3nHd,Cash On The Barrel Head,The Louvin Brothers,album,1961-01-14,1960,32,0.79,0.627,5,-6.141,1,0.032,0.0,0.323,0.809,96.366,161480,4
+0,5ckd7dqUqpNYSGevyb5yDv,Maybe the People Would Be the Times or Between Clark and Hilldale - 2015 Remaster,Love,album,1967,1960,40,0.618,0.439,9,-14.852,0,0.0305,0.0204,0.0786,0.905,94.84,214310,4
+0,4nFAL2TKUOoAPQJ5DGGoTd,Butchie's Tune,The Lovin' Spoonful,album,1966-03,1960,38,0.62,0.463,3,-11.032,1,0.0324,0.0209,0.0429,0.9,87.07,155173,4
+0,6QiRFf6spEpBxAw2J26tAM,Barabajagal (with Jeff Beck Group),Donovan,album,1969-08-11,1960,38,0.668,0.57,11,-16.897,0,0.0696,0.0469,0.0826,0.675,100.342,200093,4
+0,4l2ON6RUaS9rLJYKogUwlK,Snake Mountain Blues,Townes Van Zandt,album,1969-04,1960,32,0.661,0.387,9,-12.294,1,0.0342,0.0,0.214,0.804,111.446,159240,4
+0,5v0ibjQegpYdMUGL95dI1a,Flying High,Country Joe & The Fish,album,1967,1960,38,0.591,0.416,7,-15.476,1,0.0459,0.0,0.648,0.803,126.881,161000,4
+0,3rS6In6d0LERuvnbg6OL5P,The Carroll County Accident,Porter Wagoner,album,1969,1960,38,0.657,0.429,7,-12.792,1,0.0367,1.39e-06,0.324,0.653,92.763,168267,4
+0,6poFo34CP2t7EpZ0bNAboK,Sometimes When We Touch,Tammy Wynette,album,1964,1960,40,0.634,0.234,3,-13.47,1,0.0336,0.0,0.19,0.197,130.003,218133,4
+0,6URu54HPMyL9SjnzXn607m,Walk In My Shadow,Free,album,1968-03-14,1960,40,0.532,0.548,0,-10.105,0,0.0253,0.00141,0.264,0.902,93.765,210427,4
+0,4vuZnHyZvvFTjgrVxXIhNw,Rock Salt And Nails,Steve Young,album,1969-01-01,1960,29,0.563,0.261,5,-12.092,1,0.0283,6.9e-06,0.0867,0.266,114.166,222493,3
+0,4XO4pQpx4lpKgbWMgbsQRK,Turn on Your Love Light - Live at San Francisco; 2001 Remaster,Grateful Dead,album,1969,1960,33,0.515,0.597,9,-11.585,1,0.152,0.062,0.702,0.633,117.796,905133,4
+0,2UQ9gPXdPMEypW3Z1qBl8e,Find Out What's Happening,Bobby Bare,album,1967-11-20,1960,35,0.625,0.405,4,-14.337,1,0.0283,0.0,0.165,0.821,94.198,132600,4
+0,1gZ9D6ffpvsUaIxKxqBAzg,Heartaches by the Number,Willie Nelson,album,1966-06-01,1960,31,0.589,0.553,2,-8.502,1,0.0443,0.0,0.0989,0.889,77.461,138040,4
+0,4PXJjX7PQGzCh4G5WR4Pli,Just a Little,The Beau Brummels,album,1965,1960,32,0.591,0.611,9,-9.179,0,0.0394,3.71e-05,0.114,0.655,128.241,145507,4
+0,6GIHqnm1jmM4J5VEfcqtXw,Bert's Blues,Donovan,album,1966-09,1960,41,0.349,0.307,4,-10.331,0,0.0327,8.24e-05,0.106,0.502,82.397,236627,3
+0,6q9rNSvE59IVT3ZlEorvYb,Positively 4th Street,Bob Dylan,compilation,1967,1960,35,0.519,0.422,6,-12.972,1,0.0282,0.0,0.134,0.673,109.392,233533,4
+0,72ULmDRsjHRweVjonpnXlB,Across The Great Divide,The Band,album,1969-09-22,1960,37,0.73,0.539,7,-7.323,1,0.0556,0.00188,0.222,0.636,110.581,173062,4
+0,5vbw9boDHRHLZiv90e2ZVx,A Man And The Blues,Buddy Guy,album,1968,1960,39,0.504,0.212,0,-16.756,1,0.0408,0.22,0.0817,0.233,108.629,383200,4
+0,7tem1vYGSIuBE59Q8aP7Yc,Tell Me That It Isn't True,Bob Dylan,album,1969-04-09,1960,37,0.601,0.294,5,-20.909,1,0.0313,0.499,0.129,0.779,87.034,160173,4
+0,30PZhthPepsNUz2MOHLSzF,Whispering Pines,The Band,album,1969-09-22,1960,37,0.403,0.317,5,-12.551,1,0.0292,0.259,0.0841,0.155,70.172,237114,4
+0,5n75DZ9SzhWasHetj08JKy,Little Bit of Rain,Fred Neil,album,1965,1960,39,0.505,0.0365,2,-17.544,1,0.0646,0.0086,0.12,0.223,114.553,143160,4
+0,2b6KKNkD9PiUPvRYOdhbQ6,Courtyard,Bobbie Gentry,album,1968,1960,35,0.352,0.125,2,-14.618,1,0.0323,0.000214,0.118,0.279,79.676,181003,3
+0,7fCTruy1ZspFeMdgAENzCe,Morning Dew - 2013 Remaster,Grateful Dead,album,1967,1960,34,0.418,0.414,7,-12.427,1,0.0338,0.0455,0.628,0.372,92.736,309316,4
+0,4usvZR1BjL6XaoMBi1x22h,The Night,The Moody Blues,album,1967-11-10,1960,35,0.23,0.416,4,-8.09,0,0.033,0.00298,0.109,0.171,106.941,446400,4
+0,6f8jpTDZ0uekP9RxuAvo8T,I'm Tired - Where Am I,Savoy Brown,album,1969-01-01,1960,38,0.627,0.257,2,-16.129,1,0.043,0.00538,0.107,0.263,109.335,305200,4
+0,7fzLfsWsXVvStzsk9yRfbG,Down the Highway,Bob Dylan,album,1963-05-27,1960,38,0.473,0.138,7,-21.116,1,0.0706,6.4e-06,0.105,0.416,137.679,204507,3
+0,1xa66kvw6zwboiW7c8W9t8,Bob Dylan's Blues,Bob Dylan,album,1963-05-27,1960,38,0.533,0.179,9,-18.796,1,0.0958,0.000195,0.133,0.851,124.594,140267,4
+0,14nPeFpodUF79CUJFhuZ7P,49 Bye-Byes - 2005 Remaster,"Crosby, Stills & Nash",album,1969-05-29,1960,36,0.611,0.482,4,-11.315,1,0.0276,6.53e-06,0.0791,0.691,117.993,305093,4
+0,5hBOEqqkcQaUgkRhh6EyX4,With God on Our Side,Bob Dylan,album,1964-01-13,1960,38,0.47,0.222,0,-12.352,1,0.041,0.0,0.22,0.291,116.487,424413,3
+0,4NH6nMvCMDtbeGSAk98vN3,No Fair at All,The Association,compilation,1968-11-26,1960,32,0.486,0.369,2,-11.4,1,0.0253,0.0,0.219,0.274,95.72,157267,4
+0,5HrH5NArWK3oOm5sopaleg,Desperation,Steppenwolf,album,1968-01-01,1960,33,0.244,0.409,11,-12.659,1,0.03,0.226,0.176,0.313,160.648,347693,3
+0,0OLS0G5EaSxUbHdNzatvW1,The Waggoner's Lad,Bert Jansch,album,1966-01-01,1960,30,0.558,0.509,6,-13.441,1,0.0557,0.76,0.114,0.438,109.482,202493,4
+0,5fZULk2I7DZ2HSXnTmql89,Rhymes and Reasons,John Denver,album,1969-10-14,1960,36,0.485,0.419,5,-11.426,1,0.034,0.0,0.303,0.52,80.642,195520,4
+0,3yVKhOMynkNEGYlQo6JMbY,Mr. Tambourine Man,The Byrds,album,1969-08-29,1960,39,0.435,0.544,7,-10.91,0,0.0342,8.56e-05,0.148,0.55,112.486,138594,4
+0,7KhqTPA2HROMOeOlAyPxZo,Coconut Grove - 2003 Remaster,The Lovin' Spoonful,album,1966-11,1960,40,0.448,0.0729,11,-20.502,0,0.0505,0.000484,0.0981,0.341,106.583,161307,3
+0,02tiurLpJcKS0aFVsyvKz3,Porpoise Song,The Monkees,album,1968,1960,37,0.32,0.448,9,-8.786,1,0.0275,0.35,0.263,0.261,64.426,160320,4
+0,2JcAqr3fUWIFZWPa9rjkwm,All I Really Want to Do,Bob Dylan,album,1964-08-08,1960,37,0.327,0.434,9,-7.007,1,0.0318,0.0,0.0942,0.343,178.539,245960,3
+0,2B8TnS5nJijlzuORGs3RKy,She Caught the Katy and Left Me a Mule to Ride,Taj Mahal,album,1968,1960,34,0.572,0.407,3,-11.61,1,0.0563,3.7e-05,0.0792,0.895,207.425,208733,4
+0,3YBTxokhuaszeWCOXC7FQn,Hickory Wind,The Byrds,album,1968-08-30,1960,35,0.444,0.409,7,-11.623,1,0.0283,0.0075,0.173,0.544,105.172,211173,3
+0,23h2E9vii66VFQN3PWwooV,Gramophone Man,Spirit,album,1968,1960,36,0.534,0.297,11,-15.676,0,0.0393,0.00562,0.177,0.65,99.259,229373,4
+0,3RN7Bw1U61nzMbTvwibb8Q,God Bless the Child,"Blood, Sweat & Tears",album,1968-12,1960,34,0.44,0.417,0,-10.538,1,0.044,0.00023,0.33,0.5,111.527,353760,4
+0,3v55o86xGDEiZCLioTrmy5,One More Night,Bob Dylan,album,1969-04-09,1960,36,0.394,0.323,0,-19.551,1,0.059,0.00548,0.173,0.733,178.083,140800,4
+0,716TKYoyVXFrXjz3rHwajp,Nashville Skyline Rag,Bob Dylan,album,1969-04-09,1960,36,0.544,0.376,0,-22.38,1,0.033,0.798,0.161,0.732,121.264,191507,4
+0,7nnf5m1fUoThhRKIBRzvPH,The Bonnie Blue Flag,Tennessee Ernie Ford,album,1961-07-10,1960,31,0.836,0.618,10,-7.978,1,0.0765,0.0,0.0463,0.933,111.052,150800,4
+0,48FZw6qH1o7PH3m5RdBwGM,Honky-Tonk Man,Johnny Horton,compilation,1961,1960,32,0.463,0.53,4,-14.109,1,0.0383,0.0,0.369,0.961,136.164,132000,4
+0,4C4tMiaVRICiMdswdA5kJf,Farther On Down the Road,Taj Mahal,album,1969-01-01,1960,35,0.605,0.324,4,-15.448,0,0.237,0.159,0.131,0.525,170.967,277293,4
+0,6qwwAbxSYq9MTEIn0UMFNA,Gold And Silver,Quicksilver Messenger Service,album,1968,1960,37,0.32,0.541,9,-14.153,0,0.0347,0.887,0.294,0.693,185.051,403533,3
+0,0NkqCdYDySVdBoeGs4Nywe,Wear Your Love Like Heaven,Donovan,album,1967-12,1960,38,0.619,0.557,7,-10.715,0,0.0351,0.0,0.181,0.831,116.065,146867,4
+0,1dDzeqgr8IObq1J8pj2qA9,Sea Of Joy,Blind Faith,album,1969-08,1960,31,0.348,0.526,9,-12.454,1,0.0414,0.00411,0.488,0.561,122.606,322227,4
+0,1pBPVzChJfeySTkqCfozDZ,My Little Red Book - Stereo Version,Love,album,1966-03-01,1960,36,0.823,0.569,0,-8.166,1,0.0372,3.73e-06,0.0677,0.777,100.575,150133,4
+0,0ePDsEDDIPZNpbwRUEXKoX,Talkin' World War III Blues,Bob Dylan,album,1963-05-27,1960,38,0.566,0.219,10,-16.813,1,0.0578,0.000154,0.342,0.718,115.861,385267,4
+0,5ka7NFOlZUpVLJmA2tO0o4,Bob Dylan's 115th Dream,Bob Dylan,album,1965-03-22,1960,37,0.666,0.617,7,-10.851,1,0.0628,0.0,0.0498,0.764,105.648,389800,4
+0,3zk0hw5TYUyNwLLkAdnSD4,Lady of the Island - 2005 Remaster,"Crosby, Stills & Nash",album,1969-05-29,1960,35,0.438,0.0169,5,-24.366,0,0.0458,0.00108,0.138,0.124,127.943,156253,1
+0,0dvPuXBdAudLyBnCmYYu68,Born in Chicago,The Paul Butterfield Blues Band,album,1965,1960,37,0.419,0.597,2,-12.591,1,0.048,0.000769,0.321,0.941,76.177,188867,4
+0,33zGvjukiRoJgW6JWY0FMo,Draft Morning,The Byrds,album,1968-01-15,1960,36,0.449,0.487,2,-13.794,1,0.0289,0.868,0.545,0.495,92.343,162160,4
+0,0D7qLnnev1iKpH5RNT7YsD,I Shall Be Free,Bob Dylan,album,1963-05-27,1960,37,0.64,0.314,2,-12.88,1,0.038,5.72e-06,0.0779,0.798,100.552,288000,4
+0,5tunHW5QU8lEixJw3UfDJd,"Just Like a Woman - Live at Free Trade Hall, Manchester, UK - May 17, 1966",Bob Dylan,compilation,1966-06-21,1960,40,0.454,0.184,5,-15.969,1,0.0399,0.00067,0.683,0.108,146.037,352360,4
+0,6XTub0V1DpwX278rcn8fWx,I'm Easy,Boz Scaggs,album,1969,1960,35,0.519,0.653,10,-8.474,1,0.0724,0.0,0.0437,0.896,172.202,188240,4
+0,5CAmEnsH5Cqvuo6Qxh6b0D,Om,The Moody Blues,album,1968-07-26,1960,37,0.279,0.426,9,-13.115,1,0.0489,0.0126,0.255,0.133,179.694,347787,4
+0,1yF2tJM1eeMlyTc1OoM48G,Feelin' Alright,Traffic,compilation,1969-01-01,1960,35,0.453,0.494,5,-12.039,1,0.038,0.0,0.216,0.777,94.431,258173,4
+0,2YehU3jLpb9bM5V6k8HmyA,Country Pie,Bob Dylan,album,1969-04-09,1960,36,0.723,0.533,9,-17.939,1,0.0557,0.00037,0.23,0.68,99.079,95933,4
+0,7jvptnW3PMozIQq4C6uJB9,5D (Fifth Dimension),The Byrds,album,1966-07-18,1960,35,0.188,0.55,2,-9.33,1,0.0372,0.0,0.289,0.568,177.094,153427,3
+0,54RmVI3i4V9WlMsvciMB4s,It's Never Too Late,Steppenwolf,album,1969,1960,37,0.451,0.653,9,-14.27,1,0.0433,0.000253,0.573,0.54,78.064,242973,4
+0,4XpLqmD7SxGzaKuTs07FM0,Steppin' Out,John Mayall & The Bluesbreakers,album,1966-06-22,1960,38,0.481,0.623,0,-4.77,1,0.0334,0.00707,0.125,0.742,91.57,147560,4
+0,0J50Q2cDZtUP3hXIJTddpa,Tapioca Tundra,The Monkees,album,1968-04-22,1960,35,0.409,0.709,9,-9.887,1,0.0466,3.87e-05,0.34,0.717,165.166,185213,4
+0,5KJMVvokqnMn9ribqPQja9,Tecumseh Valley,Townes Van Zandt,album,1969-04,1960,31,0.43,0.137,0,-16.523,1,0.0317,0.000152,0.127,0.371,132.958,295107,4
+0,4mVWOXS9KKhvDIdmkYUBOQ,Urge for Going - 2008 Remaster,Tom Rush,album,1968,1960,36,0.59,0.121,4,-19.948,1,0.0343,0.00928,0.111,0.154,97.649,351773,4
+0,07fmUH4VMyKkCRaugAyke7,Double Crossing Time - Mono,John Mayall & The Bluesbreakers,album,1966-06-22,1960,36,0.581,0.596,0,-3.831,1,0.0242,0.00979,0.287,0.574,82.253,180693,1
+0,7hMhO4oenpVkVaM5bNkEbz,When the Ship Comes In,Bob Dylan,album,1964-01-13,1960,37,0.58,0.421,2,-9.161,1,0.0315,0.0,0.205,0.347,114.725,194680,4
+0,5FTZvGKtwhz430WKnA8ik1,In A Station - Remastered,The Band,album,1968-07-01,1960,36,0.498,0.429,0,-9.374,1,0.0246,0.0,0.177,0.378,137.937,210244,4
+0,3ytOjSznMxMx6mVKD7O263,Pre-Road Downs - 2005 Remaster,"Crosby, Stills & Nash",album,1969-05-29,1960,36,0.604,0.328,9,-12.283,1,0.0318,2.68e-05,0.185,0.3,124.453,175733,4
+0,2SbnSPLltgmScvZVI0OcRF,Most Likely You Go Your Way (And I'll Go Mine),Bob Dylan,album,1966-06-20,1960,36,0.598,0.885,7,-6.904,1,0.035,0.0,0.348,0.96,111.89,207293,4
+0,271WYO9G0zp3YhAi6tNqCd,Seven and Seven Is,Love,album,1966-11-01,1960,38,0.453,0.788,9,-9.23,0,0.0341,0.000121,0.131,0.55,78.504,139160,4
+0,5DfEk8Zn8JkTdYmirq1Blh,"Darkness, Darkness",The Youngbloods,album,1969-03-11,1960,34,0.344,0.388,0,-10.425,1,0.0263,0.0431,0.057,0.598,97.056,228627,4
+0,4vWkcn4fyUSDALb3BMzYiR,I'm Livin' For You Girl,The Grass Roots,album,1969-11-01,1960,36,0.611,0.658,9,-5.781,0,0.0333,2.4e-05,0.0848,0.889,132.597,152427,4
+0,0ZyH2ZVfSXsjSRUs2UlBDG,Samuel Colt,Billy Walker,album,1965,1960,30,0.668,0.317,1,-15.293,1,0.0662,0.0,0.0985,0.663,84.811,156827,4
+0,2moQAQK2TFktQZY0aDmFC9,Everybody's Talkin',"Crosby, Stills & Nash",album,1969-05-29,1960,35,0.579,0.136,11,-17.791,1,0.0318,0.00463,0.1,0.104,98.496,193507,4
+0,5zOiSgAZJhikocvA3KdSpX,Chimes of Freedom,Bob Dylan,album,1964-08-08,1960,38,0.367,0.415,7,-8.857,1,0.043,0.0,0.0804,0.402,180.706,430733,3
+0,69WjO90WyjR8HmoitIbkDz,Lumberjack,Johnny Cash,album,1960-09-01,1960,30,0.551,0.592,10,-10.861,1,0.575,0.0,0.173,0.372,98.945,182667,3
+0,0iE8CuhrbtabeFRnrQYmZP,Gitarzan - 1969 #8 Billboard chart hit Monument,Ray Stevens,album,1969,1960,29,0.435,0.804,0,-8.48,1,0.169,0.0,0.942,0.727,93.83,187040,3
+0,1wOxTOMMt5N7aw6kBItAW4,Hot Dusty Roads,Buffalo Springfield,album,1966-12-05,1960,36,0.72,0.576,2,-15.118,1,0.029,0.0,0.256,0.947,111.592,171733,4
+0,2P1jghKUruf3SDVNj910KC,Peggy Day,Bob Dylan,album,1969-04-09,1960,35,0.628,0.297,5,-20.272,1,0.0548,6.87e-05,0.125,0.738,122.989,119867,4
+0,2sLk8Pk1IUUY3bt0bEKoFS,The Puppy Song,Harry Nilsson,album,1969-08-01,1960,38,0.764,0.232,7,-16.893,1,0.0349,0.0,0.294,0.62,121.56,161707,4
+0,3jTVFIyNFqQmgniYhKfFqW,Never Comes The Day,The Moody Blues,album,1969-04-25,1960,36,0.281,0.418,7,-11.111,1,0.0307,0.0105,0.462,0.18,106.518,283693,4
+0,3q7cxwhSh8tVVqcW42IrZh,Velvet Voices,Townes Van Zandt,album,1968,1960,30,0.524,0.481,2,-12.973,1,0.0283,0.0,0.0879,0.493,114.522,195333,3
+0,7g0WpDuOX4hxBKCsoitOXn,Everything That Touches You,The Association,album,1968,1960,33,0.545,0.356,7,-11.709,1,0.0276,0.000377,0.425,0.638,109.822,198987,4
+0,6kTvUEhB5XDqeXTirv1Hox,Tam Lin,Fairport Convention,album,1969-12-01,1960,37,0.558,0.451,2,-13.04,1,0.0453,0.000113,0.102,0.766,125.825,433360,3
+0,0TTg0rW47heYyrLO7fA2ey,The Circle Game - 2008 Remaster,Tom Rush,album,1968,1960,33,0.618,0.177,11,-20.312,1,0.0341,0.372,0.101,0.283,104.516,317133,4
+0,1n7hJWFGAnPixy8MdJ4d22,2 + 2 = ?,Bob Seger,album,1969-04-01,1960,35,0.302,0.749,2,-7.285,0,0.0714,0.0268,0.102,0.401,148.023,169147,4
+0,1GiroL0v67vAxyTb6iU2wV,Parchment Farm,Billy Lee Riley,album,1966,1960,37,0.412,0.812,0,-7.372,1,0.0672,0.168,0.711,0.848,166.719,206560,4
+0,5HU3KDpJqqqmV9AWoBHToc,I Am a Pilgrim,The Byrds,album,1968-08-30,1960,33,0.462,0.32,9,-11.196,1,0.0298,0.000251,0.0967,0.566,129.369,219467,4
+0,5mWMeUjGQHrVAqwsBlKQIH,Hot Burrito #2,The Flying Burrito Brothers,album,1969-02-06,1960,31,0.331,0.683,0,-11.261,1,0.036,0.0216,0.128,0.56,95.714,197200,4
+0,08TyPDbQ14NOoOWh13WJ2Z,Absolutely Sweet Marie,Bob Dylan,album,1966-06-20,1960,36,0.565,0.738,2,-7.526,1,0.03,0.0,0.111,0.806,134.109,294200,4
+0,3Uel0UHGHz564BrHmwoWYZ,Ballad of Easy Rider,The Byrds,album,1969-11-10,1960,38,0.411,0.635,2,-11.645,1,0.0667,0.0519,0.273,0.755,97.123,124267,4
+0,1CrQF0ipLWH9LjVYbXmN6R,"Pussywillows, Cat-Tails",Gordon Lightfoot,album,1968-01-01,1960,34,0.428,0.174,7,-15.828,0,0.0363,0.0693,0.11,0.283,109.891,170640,3
+0,2qTvEdNY21mL9whUJot9Oc,Pledging My Time,Bob Dylan,album,1966-06-20,1960,36,0.492,0.646,2,-7.702,1,0.0432,0.000153,0.372,0.693,104.394,227867,3
+0,2bCFKT7w3wwGfCV3cjrjqi,My Back Pages,Bob Dylan,album,1964-08-08,1960,36,0.443,0.446,3,-8.226,1,0.0326,0.0,0.099,0.343,146.681,263373,3
+0,1daFdPmSkEUNOX3uATK2fc,Do Right Woman,The Flying Burrito Brothers,album,1969-02-06,1960,31,0.428,0.291,2,-13.547,1,0.0263,0.00187,0.26,0.466,94.502,237400,4
+0,07CwWCJetytT1cSnQOgRMU,"Dark Star - Live at the Fillmore West San Francisco, 1969; 2001 Remaster",Grateful Dead,album,1969,1960,32,0.336,0.314,2,-13.085,1,0.0358,0.682,0.116,0.343,88.977,1398707,4
+0,5I4LTcEg5nFSnuMzAQumh5,Running from Home - 2015 Remaster,Bert Jansch,album,1965-01-01,1960,36,0.562,0.158,4,-19.463,1,0.0369,0.000315,0.106,0.227,88.361,140273,4
+0,6dQ64Mzc2sgL7K8tbs2rhD,Bury The Bottle With Me,Dick Curless,album,1968-01-01,1960,30,0.56,0.286,7,-16.298,1,0.0318,5.78e-05,0.0912,0.412,89.321,168427,4
+0,6TcZX8mfQRmUak0d7kOOZp,Whispering Pines,Johnny Horton,compilation,1961,1960,30,0.576,0.154,2,-17.361,1,0.0324,0.0,0.0958,0.475,106.481,176707,4
+0,64MDCxBEInYxmt4600EwJt,Love On My Brain,Jim Ford,album,1969-01-01,1960,30,0.441,0.704,9,-7.091,1,0.0451,0.0838,0.043,0.685,149.444,194533,4
+0,4YA4vsKqKvLVIzQEJkp9P8,When It's Spring Time In Alaska (It's Forty Below) - Single Version,Johnny Horton,compilation,1961,1960,30,0.679,0.255,4,-14.673,1,0.0298,0.0,0.122,0.562,84.988,156160,4
+0,4uCFK6Lm1gA3MaIbSRhIfS,The Afternoon,The Moody Blues,album,1967-11-10,1960,34,0.313,0.48,7,-8.899,1,0.0289,0.00732,0.116,0.206,113.764,503547,4
+0,7EVWhR9VblkTa5iZDQkacz,Pretty Girl Why,Buffalo Springfield,album,1968,1960,34,0.64,0.449,9,-10.23,1,0.0416,0.131,0.0894,0.775,135.573,147333,4
+0,1albHYDB48jL8MuV75ffPA,Tomorrow Is a Long Time - Witmark Demo - 1962,Bob Dylan,album,1963-01-04,1960,37,0.403,0.143,4,-18.49,1,0.0351,0.000231,0.0997,0.513,90.23,224853,4
+0,4MhaifZyR0ojpjv80l54qQ,Rock Me,Steppenwolf,album,1969,1960,35,0.6,0.852,5,-12.391,1,0.0361,0.00881,0.321,0.844,126.201,218827,4
+0,5etAejXZgbpE9RXADdaHnq,Jemima Surrender,The Band,album,1969-09-22,1960,34,0.736,0.727,2,-6.892,1,0.0321,0.00536,0.0713,0.913,110.631,210078,4
+0,0yAqtkTUGrkzHHTmoe5N6s,Wheels,The Flying Burrito Brothers,album,1969-02-06,1960,30,0.569,0.391,7,-12.247,1,0.0323,0.0249,0.337,0.678,120.334,182800,4
+0,3RhVjmJS5EH8K4OqThmwkf,Gentle on My Mind,Flatt & Scruggs,album,1968,1960,31,0.64,0.391,0,-17.078,1,0.0329,0.00352,0.138,0.7,109.128,155933,4
+0,0sqtsn6hNsudGWZE2K2Y2o,There Won't Be Anymore,Charlie Rich,album,1966,1960,37,0.537,0.331,5,-11.453,1,0.0272,7.09e-05,0.105,0.63,103.624,144360,4
+0,6f196ex7Wd0stHWUE72lL6,When You Awake,The Band,album,1969-09-22,1960,34,0.425,0.564,4,-9.193,0,0.0337,0.0,0.114,0.725,151.709,193063,4
+0,71XTdtW3bvmIrotG8yYVMS,"Honey, Just Allow Me One More Chance",Bob Dylan,album,1963-05-27,1960,36,0.545,0.525,2,-12.606,1,0.0859,5.26e-06,0.256,0.947,119.29,118160,4
+0,0SAhT2S63WhZ1NchfvBR48,Wouldn't You Believe It - Remastered,Arlo Guthrie,album,1968-07-22,1960,32,0.603,0.552,8,-10.435,1,0.0424,0.000258,0.283,0.641,101.636,202200,4
+0,3oYpOQLjfdQLjBMQ3RYajE,Old Home Place,The Dillards,album,1963,1960,30,0.427,0.612,9,-12.779,1,0.032,0.000233,0.169,0.777,125.545,130693,4
+0,63soSLcwqpJFJaI5OgnnC2,China Cat Sunflower - 2013 Remaster,Grateful Dead,album,1969,1960,30,0.412,0.581,2,-11.452,1,0.0395,0.00178,0.276,0.77,96.994,222236,4
+0,0QWvnpH7daskoXwKa59xGT,Outlaw Blues,Bob Dylan,album,1965-03-22,1960,35,0.655,0.71,9,-10.877,1,0.0281,6.76e-06,0.13,0.886,89.658,184267,4
+0,6zBpwjeoQPbBaqMveqms5k,Fresh-Garbage,Spirit,album,1968,1960,34,0.465,0.357,2,-13.532,1,0.0343,0.0121,0.155,0.582,130.74,191000,4
+0,61rip5C5qSIA3lx68nxW2g,Mr. Soul,Buffalo Springfield,compilation,1969,1960,34,0.671,0.551,9,-12.996,1,0.0331,9.17e-05,0.0438,0.962,134.788,171533,4
+0,1MfrVfuY5ql27i45rfIXzN,"San Quentin - Live at San Quentin State Prison, San Quentin, CA - February 1969 (Version 1)",Johnny Cash,album,1969-06-05,1960,35,0.488,0.673,10,-11.666,1,0.782,0.000596,0.888,0.656,83.841,249360,4
+0,6Rbhi5D2zBqqaDN9g8ogxb,Go-Go Round,Gordon Lightfoot,album,1967-04-01,1960,33,0.625,0.429,9,-13.448,1,0.0409,0.0,0.0579,0.759,97.66,160400,4
+0,04x9RfuAP5Pyce6fYzK9Xp,Eli's Comin',Laura Nyro,album,1968,1960,31,0.322,0.771,0,-5.972,0,0.117,2.22e-05,0.0895,0.244,92.03,236400,4
+0,1g1QAnVY3YGljYB0TgxM41,Comanche (The Brave Horse),Johnny Horton,compilation,1961,1960,30,0.712,0.245,0,-15.44,1,0.0533,1.4e-06,0.0775,0.556,113.348,187733,4
+0,0aBF6Zob3o2GthzPTuVplz,Walkin' Blues,The Paul Butterfield Blues Band,album,1966,1960,34,0.579,0.581,9,-7.138,1,0.0323,0.000124,0.171,0.836,102.164,199960,4
+0,6j1fiAG1NFBqPDRfJY19Yv,The Lonesome Death of Hattie Carroll,Bob Dylan,album,1964-01-13,1960,36,0.523,0.177,4,-12.411,1,0.0395,0.0,0.276,0.236,140.116,344631,3
+0,14UvvyCwUtkf7Nk440cbG9,Teach Your Children,"Crosby, Stills, Nash & Young",album,1969-05-29,1960,34,0.623,0.325,5,-11.749,1,0.0314,0.0,0.433,0.491,81.999,194227,4
+0,0ZAiWU9Lvcf9dE0lLTqBIi,Wings of a Dove,Charley Pride,album,1968-04-22,1960,34,0.445,0.484,11,-10.467,1,0.0277,0.0,0.219,0.965,174.87,144747,3
+0,62hD86PZld8yndmECtFlGO,Catch the Wind - Single Version with Strings,Donovan,album,1965-05-14,1960,38,0.297,0.34,3,-12.881,1,0.0308,0.277,0.109,0.509,178.795,135627,3
+0,1fs00BJeA0CasIDy4Py0ml,I Can't Keep From Crying Sometimes,Ten Years After,album,1967,1960,38,0.538,0.179,9,-17.316,1,0.0344,0.0257,0.117,0.425,97.659,322627,4
+0,7wStJeK5yyQPLEyIyiuyS6,Who'll Buy The Wine,Merle Haggard,album,1969,1960,28,0.732,0.355,7,-10.555,1,0.0294,8.24e-06,0.209,0.79,128.711,153360,4
+0,64pOedAGgE4tD8dQcEMDa7,How Can I Be Sure - Single Version,The Young Rascals,album,1967,1960,29,0.249,0.377,2,-10.016,1,0.0302,0.0,0.0939,0.452,166.082,176240,3
+0,0C2GwtpfsXGT7ETnFRgDc7,Carry Me Back to the Lone Prairie,Eddy Arnold,album,1963-11-19,1960,30,0.582,0.23,2,-14.388,1,0.0287,0.000137,0.149,0.598,95.967,138467,4
+0,4b65hP5xZvthkSTkCSJuVs,"Okie From Muskogee - Live In Muskogee, Oklahoma/1969",Merle Haggard,album,1969-01-01,1960,32,0.419,0.713,10,-8.027,1,0.276,2.21e-05,0.368,0.662,139.334,248853,4
+0,1GMBuaf6MyOQILkAmnANA8,St. John the Gambler,Townes Van Zandt,album,1969-04,1960,31,0.246,0.221,1,-15.488,0,0.0324,1.3e-06,0.109,0.358,87.513,185960,5
+0,1E252QgKGNYBXfwaiXZtZy,Ten More Miles to Louisiana,Tony Joe White,album,1969,1960,33,0.692,0.682,6,-6.966,0,0.0271,0.00298,0.0931,0.956,128.491,144720,4
+0,1xthhWTb2LhrpSK0rX9rQn,You're Still On My Mind,The Byrds,album,1968-08-30,1960,32,0.641,0.594,9,-8.29,1,0.0352,1.09e-06,0.059,0.887,137.875,144640,4
+0,4TyYYwyENM2v3eoa169Fgi,The Best Way To Travel,The Moody Blues,album,1968-07-26,1960,34,0.445,0.443,9,-13.653,1,0.0567,0.101,0.686,0.205,94.915,194307,3
+0,1z6htkw4e8swezhKgsaIU2,I Don't Care (If Tomorrow Never Comes),Hank Williams,album,1966-12-04,1960,28,0.301,0.403,4,-12.391,1,0.0299,2.81e-06,0.446,0.462,150.968,170067,4
+0,3NTegpfIg2erCDlXo1xu9b,Lost Women - The Stereo Album,The Yardbirds,album,1966-07-15,1960,35,0.392,0.543,0,-11.319,0,0.0311,0.624,0.0462,0.611,122.547,196427,4
+0,1HgFg4pCJO1tX1uh5NMALx,Temporary Like Achilles,Bob Dylan,album,1966-06-20,1960,34,0.367,0.392,7,-9.745,1,0.0319,0.0,0.105,0.43,121.661,300307,3
+0,5uKicxW4RaLDnFsDTbhW8s,Along Comes Mary,The Association,compilation,1968-11-26,1960,31,0.584,0.62,7,-7.681,1,0.0513,1.73e-06,0.187,0.857,143.561,171000,4
+0,7LJmZ8lOhB22Q5NQjitqHp,For What It's Worth,Buffalo Springfield,compilation,1969,1960,33,0.64,0.278,2,-19.667,1,0.0542,0.00771,0.0857,0.787,98.852,160933,4
+0,79d9LM5k2QfpkWYKVRe1fR,A Girl Like You - Mono,The Young Rascals,album,1967,1960,31,0.496,0.548,0,-8.613,0,0.0462,0.0,0.0925,0.554,137.754,170313,4
+0,3SF5puV5eb6bgRSxBeMOk9,Man of Constant Sorrow,Bob Dylan,album,1962-03-19,1960,34,0.377,0.397,7,-8.427,1,0.0312,0.0496,0.187,0.462,108.591,187400,3
+0,718Sz5BHAyaXlPFlkwk9Lw,Rockin' Chair,The Band,album,1969-09-22,1960,34,0.542,0.339,5,-11.799,1,0.0282,0.000108,0.131,0.745,113.368,221452,4
+0,437zif9LFe5vrsPqMXwl37,The Bridge,Dolly Parton,album,1968-05-04,1960,30,0.702,0.233,6,-9.218,1,0.0365,0.0,0.0447,0.32,121.232,153707,4
+0,6n68qcS9FwZqFgaW62qmbb,Look Out Cleveland,The Band,album,1969-09-22,1960,33,0.521,0.795,0,-7.753,1,0.0617,0.537,0.37,0.811,160.466,187208,4
+0,4pjkT1NbhrcgkazPdRywOp,"Mary, Mary - Original Stereo Version; 2006 Remaster",The Monkees,album,1967-01-09,1960,33,0.676,0.574,11,-7.826,1,0.0277,0.0,0.0814,0.962,126.892,137987,4
+0,6lib77q4koq52srysevRfT,Only a Pawn in Their Game,Bob Dylan,album,1964-01-13,1960,34,0.571,0.207,9,-12.472,1,0.0442,0.0,0.121,0.649,86.395,209160,3
+0,0sd32LeL99Lb374IyDOYJd,We Can Talk - Remastered,The Band,album,1968-07-01,1960,34,0.399,0.671,2,-8.403,1,0.0884,7.27e-05,0.149,0.71,205.924,182803,4
+0,6ZS9D69RZgmfA5mTuGzqqG,Jim Bridger,Johnny Horton,compilation,1961,1960,29,0.688,0.49,0,-13.111,0,0.0702,1.79e-05,0.137,0.658,96.148,148440,4
+0,1okJcHTIrR5nQayHTZkGzI,Jennifer Juniper,Donovan,album,1968-10,1960,36,0.615,0.291,2,-19.48,1,0.0317,0.000917,0.519,0.881,129.367,160160,4
+0,3b5WqX1GT3yzV45ye3fu4H,Son Of A Preacher Man,Bobbie Gentry,album,1969-08-01,1960,33,0.582,0.473,9,-13.323,1,0.0445,0.0,0.0839,0.9,93.802,127167,4
+0,70f8GbaPQTjJpnBba4fvQu,Dear Diary,The Moody Blues,album,1969-04-25,1960,36,0.539,0.381,2,-10.286,0,0.0271,0.0544,0.566,0.314,88.919,236693,4
+0,70u2ZRHaK2nOM4tvbH1M6x,Green River/Suzie Q - Live In Stockholm,Creedence Clearwater Revival,album,1969-08-03,1960,34,0.376,0.87,0,-8.462,1,0.0519,0.00107,0.336,0.784,142.321,268093,4
+0,7smBs8xpNBou2oRxn5EPpl,Voices In The Sky,The Moody Blues,album,1968-07-26,1960,34,0.494,0.348,4,-12.634,1,0.0337,0.0911,0.123,0.415,125.746,208827,4
+0,44Pcg6x09ipUmsQTHZOzxu,It Ain't Me Babe,Johnny Cash,album,1965-02-15,1960,29,0.643,0.554,7,-9.655,1,0.0359,2.08e-05,0.148,0.726,105.812,183800,4
+0,4j0hqTP9itFBPSYZz7F7c5,Do for the Others,"Crosby, Stills & Nash",album,1969-05-29,1960,34,0.565,0.187,6,-17.895,1,0.0317,7.15e-05,0.118,0.101,80.346,167480,4
+0,5krjye2PUpiGedzdbaqWcz,I'm Alive,Tommy James & The Shondells,album,1969-01-01,1960,36,0.434,0.664,11,-10.866,1,0.0502,0.045,0.708,0.413,94.307,195360,4
+0,4pWS0d4pcn0lDnp8jzjjY2,To Kingdom Come - Remastered,The Band,album,1968-07-01,1960,34,0.537,0.672,4,-8.081,1,0.0525,1.22e-05,0.264,0.697,162.428,198522,4
+0,0ipGD86bKFARjKvVnOu6QW,I Am a Child,Buffalo Springfield,album,1968,1960,32,0.561,0.214,7,-21.989,1,0.134,0.638,0.156,0.855,171.645,142440,4
+0,0IVtfmGFFY9DzXMQcBSJSs,Don't Bring Me Down - Remastered,The Pretty Things,album,1965-01-01,1960,38,0.548,0.656,2,-10.103,1,0.054,0.52,0.0696,0.851,98.639,130347,4
+0,3PFOfOdzObTrsIA7pTkJWN,So You Want to Be a Rock 'N' Roll Star,The Byrds,album,1967-02-06,1960,34,0.37,0.683,2,-8.163,1,0.0387,6.32e-06,0.451,0.728,154.044,126160,4
+0,70esU3WzDttjZk0l1uFCEe,She Comes Running - 2007 Remaster,Lee Hazlewood,album,1964-06-15,1960,32,0.393,0.395,4,-14.285,1,0.0284,0.282,0.264,0.498,103.089,133040,4
+0,73GsGnNiWy7pbWny8ZWG5G,Reunion,Bobbie Gentry,album,1968,1960,35,0.687,0.416,0,-11.132,1,0.0858,0.0,0.0676,0.881,99.632,157693,4
+0,3iyqb5CXM8V2yadlRPFUsM,Tom Dooley,Doc Watson,album,1964,1960,31,0.627,0.394,9,-12.793,1,0.0344,0.0,0.0904,0.887,123.939,195333,4
+0,2UYBujtIut2CqAkYVXqyFM,Don't Be Angry - 1964 Version,Stonewall Jackson,album,1963,1960,26,0.663,0.239,4,-11.952,1,0.0283,0.0,0.129,0.507,104.891,179613,4
+0,5pMZO580uekpfOoJcqF0ld,Frosty the Snowman,Gene Autry,album,1965,1960,29,0.596,0.675,8,-6.817,1,0.0326,0.0,0.341,0.966,81.121,113557,4
+0,31ODz5GcoM8tNYHblnjp4S,Man of Constant Sorrow - Live on 'Folk Songs and More Folk Songs' - March 1963,Bob Dylan,album,1966-06-23,1960,36,0.54,0.477,7,-8.588,1,0.031,0.916,0.273,0.342,107.727,183173,4
+0,74z9AsqO74WCnX3BlvbGAL,Obviously Five Believers,Bob Dylan,album,1966-06-20,1960,34,0.352,0.856,2,-7.132,1,0.0642,3.75e-06,0.068,0.704,189.846,213027,4
+0,3K10pmwoFZt5N6ESWvDQkv,Gates of Eden,Bob Dylan,album,1965-03-22,1960,35,0.44,0.213,7,-14.978,1,0.0504,0.0,0.103,0.433,181.322,340040,3
+0,1kvqv4axiWkxOdRz017sQZ,On the Road Again,Bob Dylan,album,1965-03-22,1960,34,0.77,0.646,9,-10.723,1,0.0684,0.0,0.137,0.783,118.771,155427,4
+0,0iRXdt6ZP8hFnzdUxymSBO,Hoochie Coochie Man,Steppenwolf,album,1968-01-01,1960,30,0.241,0.575,2,-12.882,1,0.0597,0.093,0.175,0.522,172.743,315707,3
+0,5WC4LJuQI3rie3RQoGbFQ0,Harper Valley P.T.A.,Loretta Lynn,album,1969-01-01,1960,27,0.778,0.56,6,-10.554,1,0.0395,8.29e-05,0.173,0.961,127.063,190933,4
+0,2o3h9YnZHM6T4kzwwLNnHg,I Got My Mojo Working,The Paul Butterfield Blues Band,album,1965,1960,35,0.636,0.84,2,-8.965,1,0.0415,0.00286,0.425,0.887,141.878,212813,4
+0,2wzau1alWhWnkoUZmwqIC8,Stoned Woman - 2004 Remaster,Ten Years After,album,1969-08-01,1960,36,0.605,0.726,9,-7.483,1,0.0362,0.786,0.164,0.767,114.828,201040,4
+0,3yJvOqcOMpU1BRdvQeATVe,Did She Mention My Name,Gordon Lightfoot,album,1968-01-01,1960,32,0.563,0.496,2,-13.059,1,0.0305,2.49e-05,0.223,0.868,104.16,153427,4
+0,1vaF3Fu2ioobWRtuqpVnHF,Like a Summer Thursday,Townes Van Zandt,album,1969-04,1960,29,0.493,0.158,3,-15.938,1,0.038,3.87e-05,0.0801,0.357,72.605,184240,4
+0,14R4uuf0SMjNmfLfHvMLZJ,Funk #48,James Gang,album,1969-03-29,1960,31,0.666,0.868,7,-7.849,1,0.0638,0.174,0.047,0.741,99.763,166400,4
+0,06Jt8ia9SmU8PlXm2Wf9yk,Kansas City Star,Roger Miller,album,1965-01-01,1960,27,0.65,0.395,4,-11.723,1,0.288,0.0,0.112,0.914,174.439,136493,4
+0,70yzmEXaSuyddduotWyeZf,To Ramona,Bob Dylan,album,1964-08-08,1960,34,0.474,0.341,0,-8.877,1,0.0554,0.0,0.0878,0.329,165.406,232693,4
+0,1L8n3DR0g5w36X51i2k8A4,Pleasant Street,Tim Buckley,album,1967,1960,40,0.393,0.546,4,-9.756,0,0.0359,0.000218,0.277,0.385,104.236,317293,4
+0,13kfQhv7drKlGtbfSz0H0u,Understand Your Man,Johnny Cash,album,1964-06-13,1960,29,0.67,0.654,0,-8.641,1,0.0421,0.00887,0.252,0.842,91.64,164013,4
+0,547fAYZGVQk7xXVL28slU9,What's He Doin' In My World,Eddy Arnold,album,1965-11-22,1960,29,0.274,0.266,1,-11.693,1,0.0335,1.12e-05,0.0963,0.45,203.383,133160,3
+0,6JjuqNPgfMTzFgoDjZcgDS,Six Days On the Road,Taj Mahal,album,1969-01-01,1960,35,0.703,0.761,7,-10.073,0,0.0375,0.000362,0.0783,0.96,156.426,180667,4
+0,7wpowBfuFWuspA9dToSrTn,East-West,The Paul Butterfield Blues Band,album,1966,1960,33,0.321,0.529,7,-10.672,1,0.0377,0.00166,0.202,0.604,151.851,791800,4
+0,5txiSsUabBGJHSWWU2Veum,Why She's Acting This Way,Townes Van Zandt,album,1969-04,1960,29,0.397,0.239,6,-15.161,1,0.03,0.0,0.0839,0.263,167.461,324000,4
+0,04W8MfHR7TqFcyTTQ47Qj8,Marching Song (Of The First Arkansas Negro Regiment),Tennessee Ernie Ford,album,1961-07-10,1960,28,0.544,0.303,5,-11.616,1,0.0955,1.24e-06,0.0879,0.534,95.336,180733,4
+0,172tOpuxcdARN92RIFvZaq,What Do I Care,Johnny Cash,compilation,1963-08-06,1960,29,0.693,0.622,5,-9.443,1,0.075,0.0,0.0945,0.864,88.184,127373,4
+0,7GWTupZ43FbwCXB0sDCmBh,Andmoreagain - 2015 Remaster,Love,album,1967,1960,36,0.542,0.177,7,-18.075,1,0.028,1.04e-06,0.139,0.529,100.051,201145,4
+0,3EngGFGi7LSh7jcP9BKbVS,The Fall Of Charleston,Tennessee Ernie Ford,album,1961-07-10,1960,27,0.604,0.579,5,-7.955,1,0.0596,0.0,0.127,0.978,201.189,142360,4
+0,2VpTAWr2nIJ3SQzk7hmHJX,She's Funny That Way - 2007 Remaster,Lee Hazlewood,album,1964-06-15,1960,32,0.585,0.158,5,-17.659,1,0.0321,0.00216,0.159,0.263,95.237,306600,4
+0,0hgk4LXKBtNIx4uQjK7AYN,You're Out Doing What I'm Here Doing Without,Gene Watson,compilation,1968-01-01,1960,25,0.709,0.56,7,-15.418,1,0.0282,0.0,0.319,0.974,133.236,155333,4
+0,0cvRAgs3jP0E595dNiUfsI,The Cuckoo,Taj Mahal,album,1968,1960,32,0.579,0.535,7,-10.483,1,0.101,0.00653,0.141,0.571,77.482,254893,4
+0,0iu1gNzTarKKEPHldjoEd8,Universal Soldier,Donovan,album,1965-10-22,1960,36,0.596,0.276,6,-12.558,1,0.0405,0.0,0.177,0.495,99.892,131800,4
+0,3uQyGzJkoJ4N0rBVuCCuOB,Celebrate,Three Dog Night,album,1969,1960,30,0.255,0.742,2,-7.232,1,0.0489,0.0001,0.293,0.53,96.493,194773,4
+0,3FfZtZlkEIYrXiUiXEnT3c,"Green, Green Grass of Home",Porter Wagoner,album,1967-07-24,1960,31,0.546,0.18,5,-14.524,1,0.03,9.81e-06,0.182,0.591,107.779,143707,4
+0,2l1GIxmkts2O0qYrlwGwF0,She - Original Stereo Version; 2006 Remaster,The Monkees,album,1967-01-09,1960,32,0.506,0.669,6,-6.755,0,0.0391,2e-06,0.116,0.763,119.267,158960,4
+0,5p6OXyiYRwJfQwmQwA9TbU,Foggy Mountain Top (with Mother Maybelle Carter),Lester Flatt,album,1961,1960,29,0.564,0.45,7,-12.168,1,0.029,7.34e-05,0.638,0.842,112.241,144160,4
+0,14xdBhhoUdpFLhAtkgmjY3,The Streets of Laredo,Eddy Arnold,album,1963-11-19,1960,31,0.594,0.119,9,-17.606,1,0.0308,1.68e-05,0.101,0.288,77.572,186307,3
+0,1iMbUwjF8CykDzRLHGKYgd,Fortunate Son - Live,Creedence Clearwater Revival,album,1969-11-02,1960,35,0.346,0.87,7,-7.28,1,0.0443,1.87e-05,0.0708,0.527,153.185,135253,4
+0,4WLFwsgF6aJSjstHF4nFWa,Flying on the Ground Is Wrong,Buffalo Springfield,album,1966-12-05,1960,32,0.649,0.353,9,-14.539,1,0.0278,2.74e-06,0.107,0.769,111.052,163160,4
+0,3cY8cOjaN8Lwi08g9Fpr6D,North Country Blues,Bob Dylan,album,1964-01-13,1960,35,0.626,0.142,10,-17.197,1,0.0371,1.81e-06,0.105,0.604,83.139,270884,1
+0,2Ezia43Cm4DtUJhUZkbuFD,"The Eleven - Live in San Francisco, 1969; 2001 Remaster",Grateful Dead,album,1969,1960,29,0.361,0.732,9,-10.06,1,0.0448,0.882,0.571,0.63,109.896,558800,4
+0,7qphvcn2xFN8C0paZaF2AT,Big River,Johnny Cash,album,1964-06-13,1960,31,0.767,0.669,4,-8.568,0,0.116,0.164,0.146,0.856,101.229,139693,4
+0,2X4uFSf7nQPSSwTxw1RRxX,One Dyin' And A Buryin',Roger Miller,album,1965-01-01,1960,27,0.669,0.298,5,-15.045,1,0.0684,1.79e-06,0.107,0.341,106.88,121760,4
+0,4BdNQTF3bQXghWvkuqtCxP,Caledonia Mission - Remastered,The Band,album,1968-07-01,1960,33,0.564,0.456,7,-9.238,1,0.0687,0.000161,0.163,0.583,123.067,174022,4
+0,01o6YGrdvMrUAFmWgwoDCb,Sing a Song for You,Tim Buckley,album,1969,1960,38,0.361,0.0864,6,-18.677,1,0.0382,0.000441,0.105,0.176,131.946,161253,5
+0,6YqBrjO9nTlp2kjlvU0QCK,Hey Porter,Johnny Cash,album,1964-06-13,1960,29,0.71,0.486,0,-11.839,1,0.048,0.00192,0.132,0.802,114.796,140267,4
+0,7bM9EZQolv1jCCgO4pibPN,The Andy Griffith Theme,Andy Griffith,album,1961-01-01,1960,28,0.825,0.3,8,-13.62,1,0.1,0.536,0.133,0.825,94.61,139360,4
+0,6XdX1Y3Vs7c2mRkHDZyBwH,My Uncle,The Flying Burrito Brothers,album,1969-02-06,1960,29,0.54,0.634,2,-11.723,1,0.0293,0.00736,0.025,0.939,96.043,157200,4
+0,6IMcjbpBHVvbkK9CQatPL9,Stonewall Jackson's Way,Tennessee Ernie Ford,album,1961-07-10,1960,27,0.719,0.458,7,-8.623,1,0.0571,0.0,0.422,0.94,98.364,189533,4
+0,2v9drluzNwXRgBmbX3L6I5,Jersey Thursday,Donovan,album,1965-10-22,1960,34,0.597,0.153,0,-17.873,0,0.0359,0.000169,0.0964,0.359,102.963,131693,4
+0,1EDjgsFptABkWWjdEbCjwJ,"Baby, Let Me Follow You Down",Bob Dylan,album,1962-03-19,1960,35,0.519,0.513,9,-6.495,1,0.0328,0.0039,0.1,0.634,133.622,154787,4
+0,2U1nVCTFKFdieTPTg3VrvY,Valleri - First Recorded Version; 2006 Remaster,The Monkees,album,1967-01-09,1960,31,0.402,0.564,8,-7.683,0,0.0577,0.00209,0.261,0.407,151.962,134213,4
+0,3OD2BlIAkr1DkSe94sKIoI,Medicated Goo,Traffic,album,1968-10,1960,32,0.501,0.736,7,-9.953,1,0.114,0.0,0.33,0.926,94.218,217227,4
+0,6U7gN4xpuuNFKJhE0WImuw,Help Me,Canned Heat,album,1967-01-01,1960,36,0.783,0.383,1,-11.982,0,0.0734,0.146,0.131,0.813,123.034,192627,4
+0,4txDflQgXUI6nSwQocX0dM,Night Life,Willie Nelson,album,1965,1960,27,0.721,0.256,0,-11.623,1,0.0382,6.42e-05,0.123,0.334,98.062,143533,3
+0,43OVfd7ETJgDU1fNm0jPS2,Hello Walls,Willie Nelson,album,1965,1960,27,0.671,0.243,0,-11.58,1,0.0494,0.00352,0.114,0.596,113.108,130400,4
+0,2g34T4Zs54pTRR1AYTjobc,"San Quentin - Live at San Quentin State Prison, San Quentin, CA - February 1969",Johnny Cash,album,1969-06-04,1960,33,0.399,0.744,10,-11.202,1,0.674,0.002,0.681,0.668,168.396,227853,4
+0,4DfsFVQJ8m4yz7pgqynS13,The Last Time I Saw Her,Gordon Lightfoot,album,1968-01-01,1960,31,0.5,0.256,11,-13.103,1,0.0292,0.0281,0.129,0.169,113.562,312800,4
+0,3XvACX6sYu4bml5JdxGIaN,Windy,The Association,compilation,1968-11-26,1960,36,0.645,0.698,5,-10.224,1,0.0283,0.0141,0.0871,0.96,132.272,176253,4
+0,6I6zkvQEwCgrHqzfUrRvbv,We're Gonna Hold On - Single Version,Tammy Wynette,album,1964,1960,26,0.632,0.346,10,-14.925,1,0.0271,0.00268,0.165,0.556,74.501,176693,4
+0,4cOt4yXLpE0i24ZudX8qFC,There Is a Mountain - Single Version,Donovan,compilation,1964,1960,28,0.677,0.721,9,-8.2,1,0.216,0.0,0.158,0.917,87.181,155000,4
+0,6xBLtOsKoqt22G3smOAQy6,Hard Headed Woman,Wanda Jackson,album,1961-01-01,1960,34,0.603,0.916,4,-4.922,1,0.0819,0.000514,0.156,0.874,83.284,119387,4
+0,5FWJeR2QodmyrkbVsFJ3Yj,Where Were You When I Needed You,The Grass Roots,album,1966-10-01,1960,30,0.55,0.637,2,-6.625,1,0.0286,0.0,0.0433,0.777,114.414,181413,4
+0,58divL3uaZBaxs73jVHisg,8:05,Moby Grape,album,1967,1960,31,0.581,0.368,9,-13.929,1,0.0324,0.187,0.114,0.548,105.652,140147,4
+0,5bLuI9tur2tNMvrrAsUiWu,Poison,Bert Jansch,album,1969-01-01,1960,26,0.738,0.554,2,-13.038,1,0.0336,0.00241,0.0852,0.645,94.192,192333,4
+0,2iz5B3fIMX3U8Gva24QbcG,Song with No Words,"Crosby, Stills & Nash",album,1969-05-29,1960,33,0.36,0.17,7,-15.447,0,0.035,0.0132,0.112,0.328,182.284,197053,4
+0,7wgKheHpetDtqMXTx08sCG,You Don't Miss Your Water,The Byrds,album,1968-08-30,1960,30,0.523,0.454,7,-9.686,1,0.0244,4.5e-05,0.0807,0.394,105.78,228240,3
+0,6B10ohjFg52SZER8MQEp2E,Do What You Like,Blind Faith,album,1969-08,1960,27,0.407,0.503,9,-16.183,0,0.0533,0.696,0.227,0.685,152.545,918467,5
+0,33pCuM1mBp8waNeKBpXy6H,Kathleen,Townes Van Zandt,album,1969-04,1960,33,0.428,0.115,1,-17.311,0,0.0306,2.67e-05,0.0516,0.331,91.69,167453,4
+0,2uNVZAWWyguxJ2jHkIt6je,We Must Have Been Out Of Our Minds,George Jones,album,1963-01-01,1960,27,0.577,0.289,6,-8.309,1,0.0252,0.0,0.18,0.434,88.679,159027,3
+0,4ThKC6bEyWbEmNRx0fM4qP,Bad News,Johnny Cash,album,1964-06-13,1960,28,0.688,0.617,10,-8.627,1,0.0416,0.0023,0.192,0.668,134.575,177680,4
+0,5b5UfzayiX4EXXusCipNjN,L.S.D.,The Pretty Things,album,1965-12,1960,35,0.67,0.654,2,-12.996,1,0.0321,3.67e-05,0.286,0.92,126.756,144960,4
+0,3F729cYjXeMfeQ7FDvdADY,"Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968",Johnny Cash,album,1968-05-02,1960,29,0.594,0.577,0,-12.772,1,0.0534,0.00792,0.883,0.89,110.783,156427,4
+0,4Oj0UeY7CzkD21mq6UsSQM,Old Blue,The Byrds,album,1969-03-05,1960,31,0.363,0.612,2,-12.461,1,0.0389,0.0462,0.0756,0.753,182.883,200693,4
+0,1XXHPSNbmHgi8EJvO3yGyd,The Ballad of Frankie Lee and Judas Priest,Bob Dylan,album,1967-12-27,1960,33,0.481,0.372,0,-14.03,1,0.0576,0.0,0.0908,0.335,150.764,332640,4
+0,3ymAVAlTxYDyVIbwqueaHE,The Rebel - Johnny Yuma,Johnny Cash,compilation,1963-08-06,1960,29,0.833,0.717,10,-7.912,1,0.0356,0.000119,0.0605,0.964,115.146,113187,4
+0,09Log6FEFHidQheeA6Ymjo,The Christian Life,The Byrds,album,1968-08-30,1960,30,0.547,0.513,2,-9.683,1,0.0331,0.0,0.234,0.745,121.528,150067,3
+0,6Nf71UnBJ89Y36vn0PwY8D,Take a Giant Step - 1969 Version,Taj Mahal,album,1969-01-01,1960,29,0.682,0.288,7,-15.232,1,0.0833,1e-05,0.0923,0.267,134.568,255667,4
+0,5o5UvoSyRF439tSerNhsMj,Wantin' Ain't Gettin' - Remastered Version,The Association,album,1967,1960,31,0.638,0.603,4,-12.152,0,0.036,6.9e-05,0.0801,0.588,96.739,140720,4
+0,3WnfHtmNd3eHHvoOuue7Uh,Bad Moon Rising - Live In Berlin,Creedence Clearwater Revival,album,1969-08-03,1960,33,0.29,0.861,2,-6.592,1,0.0541,0.00024,0.643,0.712,202.106,127987,4
+0,0AFZnXDUT5qbJboJMZ6zlp,Long River,Gordon Lightfoot,album,1966-01-01,1960,30,0.518,0.328,9,-11.322,1,0.0289,0.0102,0.158,0.47,103.077,169200,4
+0,6hc19BN6fEkubSgxDkz96p,St. James Infirmary,Billy Lee Riley,album,1966,1960,33,0.676,0.763,11,-6.395,0,0.0269,0.132,0.976,0.925,127.979,263720,4
+0,5zurAwfAMVDBKDLrKAhED2,Randy Scouse Git - 2007 Remaster,The Monkees,album,1967-05-22,1960,32,0.57,0.614,9,-7.892,0,0.042,0.0,0.11,0.832,101.805,153133,4
+0,2pvZYed9AoRed2bfxQDyCj,Two Story House,Tammy Wynette,album,1964,1960,27,0.578,0.556,1,-10.876,1,0.0318,0.0,0.217,0.716,82.611,160173,4
+0,0udZHhCi7p1YzMlvI4fXoK,In My Time of Dyin',Bob Dylan,album,1962-03-19,1960,32,0.593,0.364,11,-8.346,1,0.0388,8.64e-06,0.148,0.388,125.854,158707,4
+0,1EfWxxlaLLiwnLS3ABr8vu,Phantasmagoria in Two,Tim Buckley,album,1967,1960,40,0.476,0.457,11,-12.533,0,0.0282,0.000189,0.11,0.422,84.486,208667,4
+0,66i8HD6kXenti31HXdXmDG,Autopsy,Fairport Convention,album,1969-07-03,1960,29,0.592,0.289,7,-13.58,0,0.0293,0.122,0.176,0.325,67.586,260227,4
+0,0NZ3GjGqW2uN2RDESh9Pv4,Little Green Apples,Bobbie Gentry,album,1968-01-01,1960,32,0.419,0.226,2,-16.61,1,0.0292,0.00231,0.162,0.416,95.822,196347,4
+0,01PiQmG1Ct8Rd21uZGGaYJ,Baron Saturday,The Pretty Things,album,1968-12,1960,33,0.659,0.666,0,-12.526,1,0.0638,0.000513,0.219,0.484,88.411,241467,4
+0,35B7lFGyjrnYqgfMpfLOWA,You Can All Join In,Traffic,album,1968-10,1960,32,0.72,0.551,2,-10.153,1,0.0306,0.0,0.315,0.934,94.942,216627,4
+0,4jJGLOYVMAyb5RyVKjQzUr,My Autumn's Done Come,Lee Hazlewood,album,1966-09-17,1960,33,0.296,0.182,4,-13.837,0,0.0322,0.000441,0.152,0.0818,133.344,246253,4
+0,3hr9mAgl6NCmsgYAPTQQP1,Pride Of Man,Quicksilver Messenger Service,album,1968,1960,32,0.63,0.486,9,-12.607,0,0.0329,1.86e-05,0.111,0.835,124.653,248067,4
+0,6mqnvF9RVn04nmD3Li12pk,When Love Comes Knockin' (At Your Door) - Original Stereo Version; 2006 Remaster,The Monkees,album,1967-01-09,1960,32,0.488,0.638,9,-7.552,1,0.0298,0.0,0.104,0.843,95.907,108293,4
+0,3gNLq3FMnmUcszZfDknlaR,They'll Never Take Her Love From Me,Hank Williams,album,1966-12-04,1960,26,0.382,0.283,7,-10.227,1,0.0301,0.0,0.202,0.642,124.307,171707,4
+0,257YFNPcDJUp8c7v1q8hPp,Didn't Want To Have To Do It,The Lovin' Spoonful,album,1966-03,1960,32,0.464,0.332,11,-12.215,0,0.0323,0.000128,0.131,0.395,79.587,156307,4
+0,6MmEhuhrGUoMgfOzwqMyn5,Goin' Up The Country,Canned Heat,album,1969-01-01,1960,31,0.628,0.356,10,-12.471,1,0.0386,0.000615,0.116,0.605,80.211,169560,4
+0,1X6dRpq3Wi6Jxthi8ZBBBz,Talkin' New York,Bob Dylan,album,1962-03-19,1960,32,0.52,0.443,7,-7.755,1,0.0399,0.00104,0.0489,0.766,123.9,197653,4
+0,2D35sD5gJvlJ3uionWdfEK,Sitting on Top of the World - 2013 Remaster,Grateful Dead,album,1967,1960,28,0.543,0.567,9,-10.874,1,0.0942,0.306,0.201,0.905,126.286,128382,4
+0,1MI0O2mwTpdwkZpfWz4J7o,All I Really Want to Do,The Byrds,album,1965-06-21,1960,33,0.452,0.574,9,-7.936,1,0.0321,0.0,0.0823,0.811,123.204,123760,4
+0,2rpFMYQZa7lvSXvwFsSavt,Viola Lee Blues - 2013 Remaster,Grateful Dead,album,1967,1960,28,0.405,0.497,7,-10.772,1,0.0521,0.541,0.191,0.573,101.808,615901,4
+0,7ajiEBodFIeV5Ua9qVONnB,Where's The Playground Susie - Remastered 2001,Glen Campbell,album,1969,1960,32,0.268,0.508,4,-10.528,1,0.0304,0.00529,0.113,0.396,78.919,176373,4
+0,434htmh7jrV2jPVK8mtwC3,I'm a Long Way from Home,Waylon Jennings,album,1966-12-01,1960,28,0.484,0.253,6,-11.711,0,0.0274,0.000621,0.355,0.147,99.386,213053,4
+0,0KWrpHcqkXR5KUxuzIORu5,In The Summertime,Roger Miller,album,1965-01-01,1960,25,0.727,0.464,4,-12.63,1,0.0718,0.0,0.552,0.924,120.564,104760,4
+0,5zokXOTsHolr7juCZ3znZU,Smiling Phases,"Blood, Sweat & Tears",album,1968-12,1960,30,0.533,0.605,0,-8.863,1,0.0652,0.000942,0.568,0.72,130.08,309773,4
+0,4saLOG4i7kZtaKebtfADl4,Cream Puff War - 2013 Remaster,Grateful Dead,album,1967,1960,28,0.378,0.697,9,-10.472,1,0.0805,0.0136,0.14,0.445,165.0,151556,4
+0,0EPJB1ozouVQYW1qfHtWS1,Polly Vaughn,The Dillards,album,1963,1960,27,0.556,0.45,8,-16.792,1,0.0338,7.31e-05,0.128,0.848,117.547,170440,4
+0,48fcwp3ZkLYlhk8xUL7Rib,"Stroll On (From ""Blow Up"") - 2015 Remaster",The Yardbirds,album,1964,1960,35,0.395,0.897,11,-8.778,0,0.11,0.000657,0.109,0.307,91.226,166213,4
+0,6QECt4RBTcK4oa8tiVdnpg,Mystery Train,The Paul Butterfield Blues Band,album,1965,1960,31,0.663,0.881,9,-8.562,1,0.0418,0.00128,0.481,0.841,126.044,155280,4
+0,5uPWILEXkNy1D0MJzi9ByM,One More Headache,The Paul Butterfield Blues Band,album,1967,1960,34,0.703,0.437,2,-10.634,0,0.0462,0.0,0.589,0.932,103.161,218825,4
+0,5VsQz4TODuGxnHrFD6MLtx,This Wheel's On Fire - Remastered,The Band,album,1968-07-01,1960,32,0.563,0.669,0,-7.308,1,0.0514,1.25e-06,0.546,0.78,113.807,189901,4
+0,0wfBooQ6QtDm63UIyIcDIj,John Wesley Harding,Bob Dylan,album,1967-12-27,1960,32,0.579,0.479,5,-10.348,1,0.0294,0.00211,0.163,0.937,135.459,177200,4
+0,5FuCQ3Mrz1tv1GwchMBnUq,Changes,Gordon Lightfoot,album,1966-01-01,1960,30,0.519,0.22,4,-13.752,1,0.0416,0.117,0.0984,0.656,174.542,152600,4
+0,4PoMfTYDPQ1OXdYSoP0pRt,"Sookie, Sookie",Steppenwolf,album,1968-01-01,1960,28,0.626,0.732,4,-11.435,0,0.067,0.331,0.14,0.633,112.151,197227,4
+0,6TB0L7yagtbgI9ON3y7orP,Mountains And Marian,Gordon Lightfoot,album,1968-01-01,1960,29,0.43,0.423,5,-10.356,1,0.0294,0.000131,0.409,0.695,98.711,217933,4
+0,7BSwO6oBpWwIDQwSUNb9r3,D.I.V.O.R.C.E.,Dolly Parton,album,1969-01-24,1960,33,0.717,0.337,10,-12.139,1,0.0308,0.0,0.148,0.633,107.73,163693,4
+0,64W9GKax1D7yVg0LrW5kMW,My Elusive Dreams,Tammy Wynette,album,1964,1960,30,0.528,0.282,0,-15.011,1,0.0274,0.0,0.107,0.374,102.744,171160,4
+0,7HAfhuUgbAfUH1Jao38iZa,"Milwaukee, Here I Come",Porter Wagoner,album,1969,1960,26,0.701,0.765,0,-9.817,1,0.0326,0.0,0.0222,0.964,109.705,134773,5
+0,4LEdNOgN5bkKbqf8SWLP7k,Papa Gene's Blues - Original Stereo Version; 2006 Remaster,The Monkees,album,1966-10-10,1960,27,0.578,0.736,9,-7.699,1,0.0387,0.0,0.263,0.838,113.02,119813,4
+0,6K2dNs7X8I5bLHD90MqqPR,D-I-V-O-R-C-E,Tammy Wynette,album,1964,1960,27,0.653,0.29,9,-12.635,1,0.0354,0.0,0.113,0.617,98.687,176573,4
+0,5GRXbATR8x0It3CngfLHJt,Your Squaw Is On The Warpath,Loretta Lynn,album,1969-01-01,1960,26,0.579,0.649,2,-9.113,1,0.103,4.78e-05,0.135,0.825,172.901,126027,4
+0,2ff7q4r8nGloLHZJfEbe4o,I'm Sorry For You My Friend,Hank Williams,album,1966-12-04,1960,26,0.418,0.294,4,-12.471,1,0.0303,1.95e-06,0.184,0.596,115.412,166893,4
+0,3tAvY1dMJnvfamMd4yfJri,The Girl I Left Behind Me,Tennessee Ernie Ford,album,1961-07-10,1960,26,0.741,0.555,9,-9.679,1,0.0465,0.0,0.262,0.937,100.882,122200,4
+0,5U2g1j2zkUH5wgU4lBySCv,The Long Black Veil,Johnny Cash,album,1965-02-15,1960,27,0.746,0.292,0,-15.295,1,0.0492,0.266,0.183,0.524,76.059,186200,4
+0,0DrEtFfTtROBmvaVzGAWq2,The New York Volunteer,Tennessee Ernie Ford,album,1961-07-10,1960,25,0.842,0.521,2,-8.31,1,0.197,0.0,0.0836,0.901,103.82,126933,4
+0,1i52oNIgbmyMDXJaM8LP9H,I Wasted My Tears,Dolly Parton,album,1967-02-13,1960,25,0.301,0.472,0,-9.125,1,0.0318,4.19e-06,0.15,0.746,179.532,139642,3
+0,1YLaGOWAi7cwHZWOmKSv7M,In the Midnight Hour,The Young Rascals,album,1966,1960,29,0.36,0.348,2,-12.962,1,0.0291,0.00409,0.0604,0.677,105.055,243467,4
+0,6SBspoHHWMfLMVOB04PBM8,A Child's Claim to Fame,Buffalo Springfield,album,1967-10-30,1960,31,0.624,0.425,7,-12.919,1,0.0262,1.42e-05,0.0557,0.846,81.04,133400,4
+0,5LMRfjTRtGIJgTEqeqNdiJ,The Party's Over,Willie Nelson,album,1967-02-01,1960,24,0.378,0.394,9,-7.72,1,0.0303,6.85e-05,0.0606,0.761,142.664,145133,4
+0,0fq9e0dvW4X2R1YJNhtXLO,The Actor,The Moody Blues,album,1968-07-26,1960,31,0.282,0.396,9,-11.584,0,0.0325,0.248,0.154,0.35,108.326,279360,4
+0,5oPjdfc28S4b23fEAqIJG5,Motherless Children - Remastered 1991,Steve Miller Band,album,1969,1960,30,0.375,0.187,0,-17.659,1,0.0306,0.000399,0.159,0.0556,136.409,361733,4
+0,7g6Tm3uTDCE6pDdx1NpVCs,Go and Say Goodbye,Buffalo Springfield,album,1966-12-05,1960,31,0.74,0.584,7,-10.701,1,0.0425,0.0,0.29,0.872,110.096,143267,4
+0,4TXtgaRXTR68GKG9p9bZQU,Country Blues,Doc Watson,album,1964,1960,28,0.563,0.447,0,-15.218,1,0.0323,0.00484,0.186,0.743,127.384,213000,4
+0,1cbLvt7UrsbVnljXttWUip,I Dreamed I Saw St. Augustine,Bob Dylan,album,1967-12-27,1960,31,0.411,0.282,5,-12.909,1,0.0462,2.07e-06,0.0939,0.554,176.191,232667,4
+0,3rRKFMJyf7zfpOrCXqD14d,All For The Love Of A Girl,Johnny Horton,compilation,1961,1960,27,0.519,0.15,2,-15.933,1,0.0282,6.44e-06,0.0967,0.34,88.022,165440,4
+0,2fl0cWcfguB0Dzi3Zh3PuQ,Nine Below Zero - 1961 Single Version,Sonny Boy Williamson II,album,1966-08-03,1960,34,0.582,0.548,0,-5.017,1,0.0338,0.00106,0.186,0.705,97.887,208067,1
+0,7DNAAV2VrPcLTF6c8i1wJ4,Men With Broken Hearts,Hank Williams,album,1966-12-04,1960,25,0.492,0.369,9,-13.108,1,0.0319,7.47e-05,0.171,0.595,110.986,190733,3
+0,28DmQwWGctmkziuiuTqFBK,Mirage - Single Version,Tommy James & The Shondells,album,1967-01-05,1960,30,0.671,0.541,9,-10.905,1,0.0442,2.38e-06,0.0616,0.732,128.583,160387,4
+0,46uLYXCBGVCkAFLV6YH2PQ,It Won't Be Wrong,The Byrds,album,1965-12-06,1960,31,0.496,0.701,9,-9.506,1,0.0401,0.000111,0.202,0.86,123.148,117893,4
+0,3mZwLhfeK9NEyQ85LaNanS,It Came Out Of The Sky - Live,Creedence Clearwater Revival,album,1969-11-02,1960,33,0.458,0.876,2,-8.238,1,0.052,5.11e-05,0.0878,0.777,156.383,207720,4
+0,70idXuwwq5cDnEzscpThBk,Willie and Laura Mae Jones,Tony Joe White,album,1969,1960,34,0.526,0.567,4,-8.768,0,0.0657,2.46e-05,0.261,0.565,80.027,296147,4
+0,2040FzW1ywVMnNJAMPoXZn,As I Went out One Morning,Bob Dylan,album,1967-12-27,1960,32,0.67,0.352,4,-13.892,1,0.0368,9.22e-05,0.0649,0.87,131.138,169400,4
+0,40Gg9yXs1RSE7qcWAferU4,One Room Country Shack,Buddy Guy,album,1968,1960,36,0.616,0.131,5,-20.639,1,0.0432,0.00721,0.121,0.328,83.231,339600,3
+0,4F70zhPoaDkuFp2sJkEfs0,Harlan County,Jim Ford,album,1969-01-01,1960,28,0.641,0.834,3,-5.055,1,0.0624,5.1e-05,0.199,0.867,118.783,207133,4
+0,031owt8K8tefK1CnfzyCZR,Cotton Fields,Charley Pride,album,1968-12-27,1960,31,0.656,0.56,4,-11.273,1,0.0383,0.0251,0.775,0.938,90.366,135920,4
+0,7FIcV2kEiO2mvvMbxU5Jkn,The Little Drummer Boy,Johnny Cash,album,1963-11-14,1960,32,0.686,0.497,0,-10.422,0,0.0579,0.000416,0.105,0.559,118.871,152267,4
+0,0DMzmgs9H0kN6Qa6N1srZ6,Mississippi Delta,Bobbie Gentry,album,1967-08-21,1960,30,0.644,0.769,9,-10.833,1,0.0511,0.0,0.107,0.747,123.164,190646,4
+0,71d9N0jFna02VXUERcR0jp,Juanita,The Flying Burrito Brothers,album,1969-02-06,1960,26,0.559,0.368,9,-11.978,1,0.0263,0.9,0.0667,0.665,95.821,150160,3
+0,1npdcr23x3KnyqOnUgiI7f,See The Big Man Cry,Charlie Louvin,album,1965-01-01,1960,26,0.651,0.556,1,-10.302,1,0.0651,0.0,0.0971,0.927,126.693,145507,4
+0,1LVE84dyyEKAW1uptJguTL,Gangster Of Love,Steve Miller Band,album,1968-01-01,1960,28,0.659,0.481,7,-16.598,1,0.0414,0.0162,0.27,0.874,138.951,82573,4
+0,3Wq9UcmwILpu8rSv10X7At,Bluebird,Buffalo Springfield,compilation,1969,1960,29,0.465,0.385,7,-16.73,1,0.0419,0.0293,0.188,0.282,126.839,268960,4
+0,3lYAUsrVWuMvRtsCOBQopO,Devil Is Watching You,Lightnin' Hopkins,album,1962-05-26,1960,31,0.593,0.409,4,-8.874,1,0.0349,0.0289,0.144,0.377,109.633,240080,4
+0,7J0AqOGLuT3TxoHKzX8RLL,Dreams Of The Everyday Housewife - Remastered 2001,Glen Campbell,album,1968,1960,30,0.329,0.559,7,-11.346,1,0.0394,0.0,0.15,0.587,169.296,155093,3
+0,3QakrNWYNgZ89by21ImeBN,Train Leaves Here This Mornin,Dillard & Clark,album,1968-10-24,1960,28,0.585,0.336,11,-13.619,1,0.0316,0.0,0.216,0.53,121.766,228493,4
+0,74MV0RMosHf57wY3AX0Mkz,Broken Arrow,Buffalo Springfield,album,1967-10-30,1960,30,0.343,0.458,0,-14.642,1,0.0581,0.000197,0.389,0.37,90.818,374520,3
+0,2Ihc193y6t3DNixXjQWTZD,Rollin' And Tumblin',Canned Heat,album,1967-01-01,1960,33,0.682,0.573,7,-12.5,1,0.0303,0.000246,0.108,0.97,126.58,191093,4
+0,1DuRj46elVZRTFARz4CXWr,Wild Mountain Thyme,The Byrds,album,1966-07-18,1960,32,0.366,0.361,2,-11.187,1,0.0315,0.0492,0.297,0.405,115.99,150400,4
+0,3Jhjmd9CIXYxzmY1Yg3bPn,Mississippi Queen,Mountain,compilation,1969,1960,27,0.573,0.585,9,-10.559,1,0.0784,0.0,0.0485,0.724,140.247,150933,4
+0,3uw4Sl3rYjC5Mp286hIeUC,Look Out (Here Comes Tomorrow) - Original Stereo Version; 2006 Remaster,The Monkees,album,1967-01-09,1960,30,0.578,0.902,7,-5.015,1,0.04,0.0,0.0616,0.943,130.112,136027,4
+0,3Y3JvqQOOuipvT6l31bl4O,Gris-Gris Gumbo Ya Ya,Dr. John,album,1968,1960,32,0.372,0.244,9,-20.191,1,0.153,0.00289,0.185,0.289,80.263,337467,4
+0,13qzozM7sNyIZj4s3nGgll,"Johnny Freedom (""Freedomland"")",Johnny Horton,compilation,1961,1960,26,0.669,0.527,7,-13.277,1,0.0376,0.0,0.609,0.799,98.467,167707,4
+0,0Rb6Bg8PYA0dR8KVutPu9y,I've Got A Secret (Didn't We Shake Sugaree),Fred Neil,album,1966-12-01,1960,29,0.596,0.33,2,-12.234,1,0.0248,0.000971,0.136,0.48,105.903,278760,4
+0,1U0OueoBA6vNNhrqCvdNOX,You Set the Scene - 2015 Remaster,Love,album,1967,1960,33,0.431,0.371,7,-17.166,1,0.0479,5.67e-05,0.0604,0.517,95.824,409464,4
+0,1WEuSuC0tJquFpf2JiMjh7,Chimes of Freedom,The Byrds,album,1965-06-21,1960,32,0.552,0.57,7,-10.332,1,0.0349,0.0,0.397,0.26,127.056,231133,4
+0,4YyonsCutuVTfG6eW7pB8W,Glimpses - 2003 Remaster,The Yardbirds,album,1967-07-10,1960,32,0.424,0.548,0,-10.761,1,0.0292,0.844,0.0709,0.393,91.129,264440,3
+0,1JMJZYMdMY3Wl4WAAejSj6,Not So Sweet Martha Lorraine,Country Joe & The Fish,album,1967,1960,30,0.525,0.374,4,-13.045,1,0.0346,0.0,0.0775,0.344,110.305,264000,4
+0,02b0vxOu1dFKNoUR58YVnk,Checkin' Up On My Baby,Taj Mahal,album,1968,1960,31,0.436,0.56,7,-9.166,0,0.0368,0.000443,0.104,0.903,135.264,294427,4
+0,2XQiGmcYQXOCYgUdXCe0Y3,"Death Don't Have No Mercy - Live at the Fillmore West San Francisco, 1969; 2001 Remaster",Grateful Dead,album,1969,1960,27,0.444,0.159,11,-14.996,0,0.0428,0.151,0.598,0.28,132.333,628333,3
+0,61qtUP0Cy1y8cEjy4RKEqP,Long Summer Days,The Moody Blues,album,1967-11-10,1960,31,0.471,0.618,2,-8.844,1,0.0261,5.29e-05,0.0824,0.68,93.006,195027,4
+0,1eF0kl9Z76WsGAK6yEewQK,25 Minutes to Go,Johnny Cash,album,1965-09-01,1960,26,0.665,0.313,4,-15.467,1,0.047,6.76e-05,0.307,0.749,110.557,192347,4
+0,6OaMHXDaUzhIErOH8BZKfg,The Snakes Crawl at Night,Charley Pride,album,1966-10-01,1960,30,0.634,0.515,4,-10.027,1,0.0286,0.0,0.216,0.942,126.208,165240,4
+0,5oKYca0WXLWJ150Xdk2Lp3,Your Saving Grace - Remastered 1991,Steve Miller Band,album,1969,1960,28,0.461,0.491,7,-16.175,1,0.0476,6.26e-05,0.0916,0.766,90.644,295120,4
+0,5u2j17yqr7jMR48DQuFw6P,Let's Turn Back The Years,Hank Williams,album,1966-12-04,1960,25,0.409,0.316,0,-11.059,1,0.0266,0.000181,0.344,0.388,92.718,146293,3
+0,6oRNqIZzxNdpYlappmxrGR,Have You Seen Her Face,The Byrds,album,1967-02-06,1960,32,0.525,0.637,11,-8.409,0,0.0285,3.02e-06,0.317,0.793,130.832,159973,4
+0,6ogtCC5bIU0ScEoQCitZjD,She Came and She Touched Me,Townes Van Zandt,album,1969-04,1960,26,0.579,0.331,4,-12.939,1,0.0305,0.0,0.0827,0.414,126.654,243680,3
+0,4AgTyC3Sk2VEDjPPYtY3Q2,The Train Kept A-Rollin' - 2015 Remaster,The Yardbirds,album,1965,1960,33,0.482,0.691,11,-9.995,0,0.0366,1.1e-05,0.102,0.933,89.05,208493,4
+0,12WuKGCKkpFyPGEmASnWQg,"Seasons Come, Seasons Go",Bobbie Gentry,album,1969-08-01,1960,31,0.587,0.286,7,-16.489,1,0.033,6.84e-05,0.0655,0.372,103.643,170388,4
+0,4SXNJWNLtSOrEjjVM0aNRm,My Blue Ridge Mountain Boy,Dolly Parton,album,1969-09-08,1960,26,0.458,0.325,8,-12.398,1,0.0277,2.23e-05,0.328,0.571,101.376,208867,4
+0,5m6ClFaiRkThAV1GlEvWF4,Do I Have to Come Right out and Say It,Buffalo Springfield,album,1966-12-05,1960,30,0.611,0.352,0,-13.976,1,0.0324,0.0,0.133,0.728,108.492,186333,4
+0,3EaFV7yFZiTlaJrxDTVTfh,Dust My Broom,Taj Mahal,album,1968,1960,29,0.637,0.448,4,-11.372,1,0.0382,0.00551,0.106,0.883,118.676,156533,4
+0,2KFy9joUN7jhYOEXfCgmFW,Come All Ye,Fairport Convention,album,1969-12-01,1960,32,0.541,0.563,2,-11.298,1,0.0297,8.63e-05,0.0684,0.814,130.404,302720,4
+0,1mZwScTO9xOyxizjQIugn7,"The Legend of John Henry's Hammer - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968",Johnny Cash,album,1968-05-02,1960,26,0.63,0.532,10,-13.52,0,0.393,0.0,0.193,0.658,120.379,425733,4
+0,29k9SMi3bZi1lhbGBLcpwI,Eli's Coming - Single Version,Three Dog Night,album,1969,1960,28,0.33,0.771,9,-7.059,0,0.102,0.00283,0.198,0.44,167.128,161853,4
+0,3dnhX3uki53AsYqKikzU3f,Cold Rain and Snow - 2013 Remaster,Grateful Dead,album,1967,1960,27,0.412,0.742,6,-10.476,0,0.0487,0.583,0.163,0.875,168.803,151702,4
+0,6nXIyELiqsmvM5iLTRgfRK,Saturday's Child - Original Stereo Version; 2006 Remaster,The Monkees,album,1966-10-10,1960,26,0.335,0.663,9,-8.06,1,0.0377,2.6e-06,0.0512,0.579,142.534,160946,4
+0,6Z3BLEzJpnaKiXGpVUIWaS,Little Bird,Jerry Jeff Walker,album,1968,1960,24,0.523,0.0856,7,-21.939,1,0.0486,0.00339,0.11,0.536,152.39,280627,4
+0,4ii0zEzFyJgTYXaSzJVJrG,Wooden Ships - 2005 Remaster,"Crosby, Stills & Nash",album,1969-05-29,1960,26,0.475,0.303,4,-13.39,0,0.0313,0.0765,0.112,0.57,79.202,326293,4
+0,4zKtMSlfENcn87rfSXY1fY,Jawbone,The Band,album,1969-09-22,1960,30,0.588,0.573,6,-7.323,0,0.0368,0.0429,0.3,0.712,84.817,259495,4
+0,1aPDyCZ3wudOQ6DXiLAKX1,Everybody's Got to Change Sometime,Taj Mahal,album,1968,1960,30,0.71,0.485,7,-11.978,1,0.0477,0.00153,0.186,0.801,117.642,176227,4
+0,1LZ80K1CYHm1jJnDlJ8HiA,Wreck of the Old 97,Johnny Cash,album,1964-06-13,1960,26,0.796,0.445,9,-12.868,1,0.0684,0.087,0.0858,0.711,116.363,167800,4
+0,2vIymAeH6IQkJ1N1S1AkWz,The Southern Wagon,Tennessee Ernie Ford,album,1961-07-10,1960,25,0.716,0.691,0,-8.643,1,0.0704,0.0,0.183,0.851,116.414,185040,4
+0,4AJh8GJEdm22jCnFxb41HE,The Unfaithful Servant,The Band,album,1969-09-22,1960,31,0.578,0.321,11,-10.872,1,0.0332,5.06e-06,0.138,0.179,98.092,255342,4
+0,0ovqrQqMbhFxXv0ufhi3Fj,Lodi - Live In Hamburg,Creedence Clearwater Revival,album,1969-08-03,1960,32,0.524,0.79,5,-9.005,1,0.0284,0.00209,0.118,0.881,130.17,199733,4
+0,6IoUSgNxQ2eaPdbSo00xuO,Sixteen Tons,Red Sovine,album,1967-01-01,1960,25,0.542,0.337,11,-16.55,1,0.149,2.62e-06,0.103,0.473,147.411,153115,4
+0,6NtoPgo4C22hfBNaBBeoHW,Pretty Boy Floyd,The Byrds,album,1968-08-30,1960,28,0.579,0.467,7,-12.095,1,0.0337,0.0,0.414,0.905,113.079,154133,4
+0,36ptC75Bp6pKICI1lE8QHS,Orange Skies,Love,album,1966-11-01,1960,31,0.573,0.438,7,-9.9,1,0.026,0.0,0.223,0.551,111.803,170120,4
+0,1LGmxVTktSQBIpKPymNrWl,Restless Farewell,Bob Dylan,album,1964-01-13,1960,32,0.48,0.122,4,-15.867,1,0.035,0.0,0.102,0.284,101.611,332278,4
+0,2Z6X0M3a3qYtGvG1gpESqg,Don't Make Promises,Tim Hardin,album,1966-07-01,1960,30,0.654,0.398,9,-13.607,1,0.0329,0.00226,0.124,0.784,76.198,146293,4
+0,4kW1AWi4wFNWTyetHs6xdO,Your Good Girl's Gonna Go Bad,Tammy Wynette,compilation,1967,1960,25,0.483,0.559,5,-7.818,1,0.0529,1.19e-05,0.452,0.933,187.497,124067,4
+0,2BRDQEH3rofSSgwbqrQw3m,Come a Little Bit Closer,Billy Walker,album,1965,1960,26,0.753,0.395,0,-13.509,1,0.0408,0.0,0.14,0.67,123.849,151373,4
+0,6ixNehh9DrMM9vYhN93foh,You're No Good,Bob Dylan,album,1962-03-19,1960,31,0.563,0.679,0,-6.191,1,0.0441,0.0,0.336,0.76,123.38,97760,4
+0,366ia6KaDv5yZq87PpNqHe,The Wayward Wind,Eddy Arnold,album,1963-11-19,1960,26,0.62,0.144,1,-15.863,1,0.0286,0.000429,0.0908,0.377,100.595,186800,4
+0,2G9VKagmb20xcd6c5Gmt4Q,If You Go Away - Remastered 2001,Glen Campbell,album,1968,1960,30,0.331,0.244,8,-12.187,1,0.0305,0.000547,0.0635,0.239,78.503,221600,3
+0,5wgdwPk6YxSeqG98kKJWiD,Gentle On My Mind,Bobbie Gentry,album,1968-01-01,1960,38,0.614,0.509,5,-12.19,0,0.0328,0.0,0.113,0.81,112.697,190707,4
+0,6kQaq5LEQ2Mpm260JKYnHl,There Goes My Everything,Tammy Wynette,album,1967,1960,21,0.45,0.235,4,-9.15,1,0.0272,6.09e-05,0.106,0.273,88.335,157133,3
+0,7KCOa8HOE9uSovTqnJSg58,My Proud Mountains,Townes Van Zandt,album,1969-04,1960,25,0.507,0.146,7,-16.543,1,0.034,2.42e-06,0.0676,0.291,107.069,304480,3
+0,4OvUUqKuWjkTE22P8SLvnd,Lonesome Suzie - Remastered,The Band,album,1968-07-01,1960,31,0.317,0.339,0,-11.564,1,0.0353,5.54e-06,0.103,0.179,130.333,240927,4
+0,4C4IweuqxCQwlRaxSevqP9,The Daily Planet - 2015 Remaster,Love,album,1967,1960,33,0.565,0.388,9,-17.274,1,0.0355,8.06e-05,0.107,0.574,122.052,210818,4
+0,6LbOC2J8ojSTwE6qIS4Eyh,Seven and Seven Is,Love,album,1966-11-01,1960,24,0.453,0.788,9,-9.23,0,0.0341,0.000121,0.131,0.55,78.504,139160,4
+0,3rmh12ZtFmPm10J4QjIiE4,Sitting On Top Of the World,Doc Watson,album,1964,1960,25,0.443,0.271,3,-17.499,1,0.0615,0.00176,0.302,0.513,86.914,225227,4
+0,3VGlhhVUTHk0OVyOmAYOoU,'Til I Can Make It On My Own - Single Version,Tammy Wynette,album,1964,1960,25,0.452,0.285,7,-12.082,1,0.0281,2.08e-05,0.121,0.159,141.209,181933,4
+0,5k9fH8zWL4WYkQWGpIy21B,Gloomy,Creedence Clearwater Revival,album,1968-07-05,1960,32,0.418,0.425,10,-9.16,1,0.0382,0.00131,0.099,0.429,126.02,228627,4
+0,2sKXj3gEdILnKDMV3D0htZ,Everybody's Been Burned - Single Version,The Byrds,album,1967-02-06,1960,33,0.531,0.343,4,-15.074,0,0.0295,1.72e-06,0.158,0.498,104.037,185227,4
+0,0bnYGPYLCxC9LdsTQf0Hfe,Your Auntie Grizelda - Original Stereo Version; 2006 Remaster,The Monkees,album,1967-01-09,1960,29,0.604,0.804,9,-6.607,0,0.0303,1.86e-05,0.11,0.908,94.99,150920,4
+0,6VoNdxnQFyCqMJAPSb4Oeh,"Wanted Man - Live at San Quentin State Prison, San Quentin, CA - February 1969",Johnny Cash,album,1969-06-05,1960,26,0.504,0.502,10,-11.479,1,0.123,0.000103,0.63,0.771,170.141,209293,4
+0,631AQDVTn4ZJRBFDeFMlZ4,Hole In My Shoe,Traffic,album,1967-12-08,1960,35,0.493,0.721,11,-8.795,1,0.0368,2.93e-05,0.0713,0.334,101.666,181267,4
+0,6ECGyfQNIQqocru2t8cgbV,Feeling Alright,Three Dog Night,album,1969,1960,27,0.424,0.83,6,-8.96,1,0.103,0.000896,0.22,0.753,98.919,220507,4
+0,2IAdklssFFC1YKr0wRclc6,Beat It on down the Line - 2013 Remaster,Grateful Dead,album,1967,1960,26,0.529,0.849,0,-9.287,1,0.0437,0.294,0.0573,0.902,92.147,153876,4
+0,7uiwSR02ghKDPuKe9ciKE0,Detroit City,Charley Pride,album,1966-10-01,1960,29,0.517,0.415,4,-12.641,1,0.0306,4.92e-06,0.146,0.601,116.77,185840,4
+0,7MIG8r257T7k0spNwiieZO,Watching And Waiting,The Moody Blues,album,1969-11-21,1960,29,0.25,0.267,0,-13.792,1,0.0307,0.266,0.0728,0.268,78.875,255533,4
+0,2jVwaX6w2BHv4OmBGLck3g,Blue Canadian Rockies,The Byrds,album,1968-08-30,1960,28,0.668,0.565,0,-8.713,1,0.0273,0.00011,0.17,0.754,122.888,121800,3
+0,1wU1cqW90BFbA6wGMBxz9z,Your Ole Handy Man,Dolly Parton,album,1967-02-13,1960,25,0.713,0.665,0,-8.012,1,0.0516,3.04e-06,0.0793,0.878,94.872,132837,4
+0,1J0pvpGzQtGb0pMGo9vbJl,New New Minglewood Blues - 2013 Remaster,Grateful Dead,album,1967,1960,26,0.651,0.632,0,-10.082,1,0.045,0.428,0.156,0.889,120.118,157729,4
+0,4DOIrynDnS1TWVdBDl0Ir3,I Can't Quit Her,"Blood, Sweat & Tears",album,1968-02,1960,28,0.57,0.641,4,-6.904,0,0.029,3.85e-05,0.109,0.639,90.087,218800,4
+0,3DXc9aPgZNjPeqslISYe2Q,Call It Pretending,Creedence Clearwater Revival,album,1968-07-05,1960,30,0.698,0.722,11,-5.262,1,0.0413,0.000479,0.206,0.966,139.677,129253,4
+0,1VpguOrCSVqF6UoxI2DsnO,Done Changed My Way of Living,Taj Mahal,album,1968,1960,32,0.73,0.488,4,-11.532,1,0.0321,6.75e-05,0.0882,0.964,152.638,423560,4
+0,47HkYPYpZeW91xbsNj8HTl,Stupid Cupid,Wanda Jackson,album,1961-01-01,1960,34,0.642,0.667,2,-6.027,1,0.0608,0.0,0.0942,0.968,143.358,136293,4
+0,4XZz1xBJrykuQbJG8qZ7zc,Little Omie Wise,Doc Watson,album,1964,1960,27,0.469,0.0953,9,-20.662,1,0.0361,0.0,0.11,0.583,75.246,268000,4
+0,7rVrMFtJ3VrNZtNnMHCp7f,Hangover Tavern,Hank Thompson,album,1966-01-01,1960,25,0.701,0.546,10,-10.791,1,0.0395,3.25e-06,0.0748,0.738,83.499,158600,4
+0,7jBX76YP5Giq7jC75xD5P2,No Charge,Tammy Wynette,album,1964,1960,31,0.438,0.128,8,-15.427,1,0.0346,1.72e-05,0.117,0.332,87.326,192160,3
+0,1DqAK2SqTUn0dCOj8Rgyp3,Miller's Cave,Charley Pride,album,1966-10-01,1960,30,0.52,0.46,7,-10.895,1,0.027,0.0,0.0769,0.682,131.583,198760,4
+0,5kpPEG3voPpNxxjdh4sErR,Am I That Easy to Forget,Carl Belew,album,1965,1960,29,0.567,0.296,2,-13.412,1,0.0296,0.000747,0.273,0.48,114.279,151080,3
+0,6psqYOgNe6N2qZQdq3Smo4,Where Did You Sleep Last Night?,Lead Belly,album,1965-05-07,1960,30,0.593,0.227,5,-8.892,1,0.0359,0.0,0.21,0.673,140.422,127767,3
+0,1kvft1Zif8xbTX14zxdYef,Good Times,Willie Nelson,album,1968-09-01,1960,23,0.755,0.143,2,-16.423,1,0.0464,0.0734,0.103,0.317,96.136,147280,4
+0,4PPTl0k3Z4c9tzsWHfoCMC,Wabash Cannonball,Jerry Reed,album,1968,1960,24,0.507,0.529,5,-10.22,1,0.0332,2.82e-05,0.405,0.887,169.693,149907,4
+0,2GnI2JHdEH3NkGhsyKsXtQ,Nashville Blues,Doc Watson,album,1964,1960,28,0.62,0.28,11,-19.028,1,0.0354,6.97e-05,0.0983,0.84,122.109,118000,4
+0,38N9nHdqecPaJSgKXj1JPg,Matamoros,Billy Walker,album,1965,1960,25,0.611,0.281,2,-14.178,1,0.0409,0.0,0.189,0.469,96.872,218093,3
+0,7btqlweUDkc7ik9kl4XPak,I Don't Want to Throw Rice,Dolly Parton,album,1967-02-13,1960,24,0.538,0.297,0,-10.215,1,0.0309,1.06e-06,0.0911,0.684,74.556,145274,4
+0,40ZadKqJuiO6TgFDWyAf8r,Good Morning Little School Girl - 2013 Remaster,Grateful Dead,album,1967,1960,26,0.534,0.327,9,-12.873,1,0.0756,0.0276,0.104,0.482,127.107,350302,4
+0,7c5Wa7J5nmTisc5ecpvJVI,Atta Boy Girl,Roger Miller,album,1965-01-01,1960,23,0.455,0.413,4,-12.552,1,0.218,1.41e-06,0.0893,0.819,190.147,116867,4
+0,6buScp50ad9f1EB6apB8iD,Send Me No Wine,The Moody Blues,album,1969-04-25,1960,29,0.422,0.739,7,-10.463,1,0.0324,0.0258,0.512,0.839,187.811,140120,4
+0,54fw7v0jDQvW9Yb4VhS7L6,Lazy Day,The Moody Blues,album,1969-04-25,1960,29,0.433,0.445,2,-10.614,1,0.0291,0.346,0.63,0.482,109.752,163613,4
+0,5AqgcC9YdUZYYMdpCh3US5,For One Moment,Lee Hazlewood,album,1966-09-17,1960,31,0.456,0.369,7,-13.273,1,0.0262,0.00241,0.218,0.398,89.482,156813,4
+0,1Y2G8nl3CGR3qMPDDBuDhb,Don't Touch Me,Jeannie Seely,album,1966-01-01,1960,26,0.383,0.0557,4,-15.546,1,0.0388,6.73e-06,0.0758,0.197,105.85,192960,3
+0,3Pt0SSa2oqGwLc5XeRPIWN,Every Hungry Woman,Allman Brothers Band,album,1969,1960,28,0.441,0.83,4,-9.626,0,0.076,0.606,0.725,0.453,98.298,255295,4
+0,1oXfmRIJFFnRrTjLucQgub,Louisiana Man,Charley Pride,album,1969-06-01,1960,28,0.622,0.814,9,-11.166,1,0.0661,0.0,0.156,0.782,164.103,158613,4
+0,3J6Gu7IRgKrrf3XxkOcSvr,Sittin' and Thinkin',Ray Price,album,1963,1960,23,0.603,0.218,2,-13.725,1,0.0328,0.00466,0.263,0.684,108.875,164293,4
+0,5nys1FixDQDzLauDSwgta1,Have You Ever Seen The Rain,Creedence Clearwater Revival,compilation,1969,1960,28,0.789,0.7,0,-5.781,1,0.0281,6.33e-05,0.269,0.84,116.035,158866,4
+0,6H3ZEJIMu87f5Gfcsl5zhC,Cosmic Charlie - 2013 Remaster,Grateful Dead,album,1969,1960,25,0.349,0.331,2,-13.681,1,0.0328,0.00293,0.181,0.373,88.855,329041,4
+0,76WeSr8OAdJ0I0ZcYIC5jM,I Don't Love You Anymore,Charlie Louvin,album,1965-01-01,1960,26,0.608,0.446,7,-9.462,1,0.0442,0.0,0.283,0.54,127.071,153240,4
+0,3OL43r2enbxrT9htCmf8C8,Nowadays Clancy Can't Even Sing,Buffalo Springfield,album,1966-12-05,1960,29,0.364,0.463,11,-13.191,0,0.0471,0.0,0.219,0.624,175.154,207400,1
+0,51uwmwTOkY9dEDw9hckCMM,The Valiant Conscript,Tennessee Ernie Ford,album,1961-07-10,1960,24,0.859,0.671,3,-9.524,1,0.047,0.0,0.13,0.976,107.667,209093,4
+0,3WnvXncCC2nERn5myOmKdE,Do You Believe in Magic?,The Lovin' Spoonful,compilation,1965,1960,25,0.544,0.744,0,-7.782,1,0.049,0.0,0.334,0.743,139.345,124800,4
+0,7e0wy1yOjnvgTTZIGVI2rV,E Z Rider,Taj Mahal,album,1968,1960,28,0.604,0.513,9,-10.782,1,0.0315,0.0,0.118,0.942,114.345,183360,4
+0,2bItf9pag16H6HtjLOqzSS,"I Walk the Line - Live at San Quentin State Prison, San Quentin, CA - February 1969",Johnny Cash,album,1969-06-04,1960,27,0.553,0.661,10,-10.432,1,0.038,6.91e-06,0.886,0.772,120.813,134573,4
+0,48pWoeheF5AbpFMJioLdZ3,Life in Prison,The Byrds,album,1968-08-30,1960,27,0.584,0.481,5,-8.415,1,0.0265,0.0,0.274,0.818,136.84,166067,4
+0,4yQkuZeOWEZFnwTysHG3zv,"Oh, What a Good Thing We Had",Johnny Cash,album,1967-08-01,1960,27,0.632,0.661,7,-10.086,0,0.0429,0.00571,0.115,0.767,172.556,163560,4
+0,735Trwo0j3Erp6naCU1kXv,Old Man - 2015 Remaster,Love,album,1967,1960,33,0.607,0.169,7,-20.946,1,0.0325,8.11e-05,0.0947,0.17,113.288,182296,4
+0,3FsWij9VrgmY8S6bcZZaR9,"How Great Thou Art - Live at Folsom State Prison, Folsom, CA (2nd Show) - January 1968",Johnny Cash,album,1968-05-02,1960,24,0.484,0.334,10,-12.03,1,0.04,0.0,0.353,0.474,102.153,202920,4
+0,4jh6QSj0uHqxTEU1o0DmB6,Fishin' Blues,Taj Mahal,album,1969-01-01,1960,26,0.654,0.175,2,-17.286,1,0.0517,0.0202,0.0964,0.521,77.484,184800,4
+0,5GHZ9UH4L3r6UK1A2zHWf3,Shake Your Money-Maker,The Paul Butterfield Blues Band,album,1965,1960,28,0.299,0.837,9,-6.331,1,0.125,0.0567,0.247,0.875,203.173,146333,4
+0,0tnt3gxEkh3cK3zO95is7f,Star Collector - 2007 Remaster,The Monkees,album,1967-11-06,1960,27,0.579,0.764,2,-8.821,1,0.0283,0.0091,0.0697,0.965,104.977,266053,4
+0,5Cf1iBQ3bHRe4TsB452jqw,Goober Peas,Tennessee Ernie Ford,album,1961-07-10,1960,23,0.814,0.406,5,-10.452,1,0.0444,0.0,0.146,0.768,109.458,197267,4
+0,2IDPRiQNveQJS3wYN1F1o4,Rain On The Roof - 2003 Remaster,The Lovin' Spoonful,album,1966-11,1960,30,0.604,0.329,2,-13.52,1,0.0297,1.18e-06,0.162,0.659,112.455,131040,4
+0,1NXplAaTEUp8MpYTtxYCzz,St. Stephen - 2001 Remaster,Grateful Dead,album,1969,1960,25,0.369,0.426,9,-11.077,1,0.0478,0.000319,0.137,0.592,90.719,266067,4
+0,1jBfY6x1uIZTUxYAOi54c3,Monster / Suicide / America - Medley,Steppenwolf,album,1969-11-01,1960,28,0.441,0.542,7,-12.444,1,0.0439,2.38e-05,0.103,0.37,111.545,556427,4
+0,7olD0K7CDQkbxH3G57k52l,Do You Know How It Feels,The Flying Burrito Brothers,album,1969-02-06,1960,25,0.411,0.364,2,-13.49,1,0.0319,0.00316,0.132,0.715,109.857,128173,4
+0,7CH0cKA51KpOiW219JspaZ,I'll Be Here in the Morning,Townes Van Zandt,album,1968,1960,24,0.528,0.415,4,-12.047,1,0.0276,0.0,0.0751,0.7,86.515,166733,4
+0,5iHAFChkdOPRgmBDolmHXy,I Love My Shirt,Donovan,album,1969-08-11,1960,30,0.65,0.327,0,-16.916,1,0.0614,0.0,0.114,0.886,128.016,198600,4
+0,1yZNoberHEoWuQbcpF3KNV,I'd Still Be There,Johnny Cash,compilation,1963-08-06,1960,26,0.719,0.5,9,-10.303,1,0.0487,0.00152,0.27,0.707,148.273,154093,3
+0,6qMUnzlt6ELNmYqbxXtEpP,"Don't Think Twice, It's All Right - Witmark Demo - 1963",Bob Dylan,album,1963-01-04,1960,28,0.612,0.142,5,-19.155,1,0.037,0.112,0.106,0.362,105.457,216387,4
+0,3WJtN4tfE2aUoPAU8Vq5N9,Happenings Ten Years Time Ago - Mono,The Yardbirds,album,1966-07-15,1960,31,0.486,0.733,9,-8.723,1,0.0575,1.66e-05,0.286,0.601,126.963,177160,4
+0,0H0g1bov9Zf2Ebqgod7R9R,Death Sound,Country Joe & The Fish,album,1967,1960,30,0.326,0.563,2,-12.352,0,0.0328,0.00098,0.26,0.534,192.345,266000,3
+0,2wZGvJqe4QWwJv1F7HWpDM,Nothing Was Delivered,The Byrds,album,1968-08-30,1960,27,0.452,0.527,7,-7.387,1,0.0326,0.0,0.106,0.579,108.469,204173,4
+0,4l7xaxculFBTPEtjRyivYi,I'm Ready To Go Home,The Louvin Brothers,album,1960,1960,24,0.579,0.163,9,-14.511,1,0.0303,0.0,0.292,0.791,148.123,190000,4
+0,1h6aiirFUxVpj11fdukMve,The Why And The Wherefore,Tennessee Ernie Ford,album,1961-07-10,1960,23,0.864,0.418,1,-8.963,1,0.075,0.0,0.0884,0.691,92.005,134427,4
+0,3MHwnlgUI6R1wSamJ60Mi2,"Baby, Let Me Follow You Down - Live at Royal Albert Hall, London, UK - May 26, 1966",Bob Dylan,album,1966-06-22,1960,32,0.289,0.902,2,-8.442,1,0.137,0.00497,0.584,0.335,136.304,223333,4
+0,7AnyEVsFIfe0nIkZQiA3EG,Sunshine Superman,Donovan,compilation,1964,1960,25,0.649,0.633,1,-8.233,1,0.0296,0.000499,0.167,0.578,132.292,271133,4
+0,29MWHZL3EnA792mpBpabvU,Sometime in the Morning - Original Stereo Version; 2006 Remaster,The Monkees,album,1967-01-09,1960,27,0.377,0.537,4,-6.811,1,0.0332,0.00528,0.0831,0.421,126.173,150573,4
+0,02Gb8a5MIY9u315GFrxIDq,(That's What You Get) For Lovin' Me,Waylon Jennings,album,1966-10-01,1960,23,0.612,0.678,4,-9.594,1,0.04,3.25e-06,0.0795,0.887,89.153,145280,4
+0,3GEMSykZpnWm6y99znWOAS,Daily Nightly - 2007 Remastered Version,The Monkees,album,1967-11-06,1960,28,0.485,0.49,9,-9.628,1,0.0301,0.000288,0.0701,0.393,116.886,153227,4
+0,7wBSzVinxbRiMUu7ooY1jT,Spanish Harlem Incident,Bob Dylan,album,1964-08-08,1960,29,0.589,0.368,7,-9.108,1,0.0339,0.0,0.0797,0.329,110.495,145733,4
+0,11qoVbPFFLnXEPY4buJLOM,Boss Man,Gordon Lightfoot,album,1968-01-01,1960,27,0.6,0.711,11,-11.255,1,0.0289,0.0,0.186,0.85,94.397,132667,4
+0,68EcumbwZwMFV5ItvUaqwh,Take a Giant Step - Original Stereo Version; 2006 Remaster,The Monkees,album,1966-10-10,1960,24,0.41,0.627,11,-9.912,0,0.0346,2.88e-05,0.0929,0.534,102.164,151466,4
+0,47xI4Cn8qMZbkRcHY4ipDJ,You Just May Be The One - 2007 Remastered Version,The Monkees,album,1967-05-22,1960,26,0.555,0.724,9,-7.432,1,0.0424,0.0,0.131,0.745,118.403,123987,4
+0,2aYnnOVGzKNSI6TxRKkLIA,Back To Dreamin' Again,The Grass Roots,album,1969-11-01,1960,29,0.643,0.644,5,-6.239,1,0.048,0.00132,0.0687,0.709,102.06,157253,4
+0,4FZQ5QeTJcLwWKcLUjhqfz,Little Girl - Mono,John Mayall & The Bluesbreakers,album,1966-06-22,1960,31,0.408,0.719,0,-3.409,1,0.0284,2.89e-05,0.31,0.836,82.906,153400,4
+0,6xjO42W2ynahl1uUpJGdSt,Sweet Blindness,Laura Nyro,album,1968,1960,27,0.534,0.679,0,-5.027,1,0.0536,2.19e-06,0.129,0.903,91.921,156307,4
+0,0WjdJ8VG5rbjMmFWfYR5HG,Live and Let Live - 2015 Remaster,Love,album,1967,1960,31,0.591,0.469,2,-14.778,0,0.0392,0.00104,0.157,0.48,123.029,326761,4
+0,0WX2E105LedqAkjzj5fe2r,"Blue Suede Shoes - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968",Johnny Cash,album,1968-05-02,1960,26,0.564,0.53,8,-14.07,1,0.48,0.0,0.321,0.808,97.804,211013,4
+0,5ifX0FhGoljScuqQtNRAyL,"Wanted Man - Live at San Quentin State Prison, San Quentin, CA - February 1969",Johnny Cash,album,1969-06-04,1960,27,0.439,0.745,10,-9.347,1,0.199,0.000102,0.731,0.727,169.908,242640,4
+0,4JKn9Xdui9ATGk2xhLBbFF,Song for Insane Times - 2003 Remaster,Kevin Ayers,album,1969,1960,30,0.6,0.568,0,-13.226,1,0.037,0.241,0.293,0.784,111.676,241077,4
+0,0C097TFNj4ikTOISggfohB,Mona,Quicksilver Messenger Service,album,1969,1960,28,0.411,0.394,9,-16.244,1,0.0424,0.695,0.334,0.703,162.959,421267,4
+0,3xM5kAaPR97799jqNiIb0N,As Long As the Grass Shall Grow,Johnny Cash,album,1964-10-01,1960,25,0.58,0.367,9,-13.733,1,0.0849,0.000526,0.108,0.387,98.627,368653,4
+0,5OGrwzU7EW2hBVMmyGgxpb,Texas In My Soul,Willie Nelson,album,1968,1960,21,0.648,0.81,7,-6.273,1,0.0598,0.00568,0.0837,0.813,105.596,120173,4
+0,5NB3W7bWcyorADuYDZ3osG,Si tu dois partir,Fairport Convention,album,1969-07-03,1960,25,0.684,0.46,0,-9.129,1,0.0319,0.0,0.425,0.967,127.41,138707,4
+0,71qwxERnhUaz67Ru7DizKN,Something Fishy,Dolly Parton,album,1967-02-13,1960,23,0.558,0.487,10,-8.053,1,0.043,0.0,0.063,0.927,170.792,129875,4
+0,01YvpF3BGxZfxLhyj6UREm,Hideaway - Stereo Instrumental,John Mayall & The Bluesbreakers,album,1966-06-22,1960,31,0.334,0.745,9,-4.894,1,0.0474,0.000364,0.369,0.837,135.317,193573,4
+0,4pkGDZv8kboqU3lsNEwtfh,Tomorrow's Gonna Be Another Day - Original Stereo Version; 2006 Remaster,The Monkees,album,1966-10-10,1960,24,0.654,0.681,7,-9.259,1,0.0332,5.16e-05,0.261,0.844,99.988,161947,4
+0,5AIGw5pK3oHi54uMz7dVwU,The Back Side of Dallas,Jeannie C. Riley,album,1969-01-01,1960,23,0.801,0.521,11,-11.27,1,0.0426,0.000184,0.0645,0.866,119.951,156564,4
+0,4Tdc6SSkkHBAH4ckkWvnzU,Cold Rain and Snow,Grateful Dead,album,1967,1960,24,0.417,0.77,6,-9.588,0,0.0573,0.764,0.455,0.83,170.619,146707,4
+0,7CviZOg1GotsImZjY4nrET,See That My Grave Is Kept Clean,Bob Dylan,album,1962-03-19,1960,29,0.639,0.237,7,-11.157,1,0.0473,2.05e-06,0.0617,0.676,107.67,163840,4
+0,4IBqtixfYBrw4woH1ssYxA,Farewell - Witmark Demo - 1963,Bob Dylan,album,1963-01-04,1960,29,0.46,0.275,11,-13.538,1,0.0458,0.0,0.114,0.478,168.363,238693,4
+0,5Wua8ddvWgSs8eh3mhwt1r,King of the Road,The Statler Brothers,album,1966,1960,22,0.716,0.294,3,-10.789,1,0.0448,0.0,0.264,0.579,127.468,127267,4
+0,4E1aPqbaOZB1GkbIQeuk68,"Johnny B. Goode - Live at The Woodstock Music & Art Fair, August 18, 1969",Johnny Winter,album,1969,1960,30,0.326,0.798,6,-8.676,0,0.0555,0.00072,0.972,0.777,163.619,336400,4
+0,6zLbCAqMVSms4fTTTIF2j5,Another Man - Mono,John Mayall & The Bluesbreakers,album,1966-06-22,1960,30,0.644,0.7,2,-6.719,1,0.642,0.0829,0.22,0.648,73.394,104960,4
+0,00m7k9KGQMFNrc07N4Xtzx,I'm A Mover,Free,album,1968-03-14,1960,33,0.456,0.485,7,-11.386,1,0.0611,1.34e-05,0.0907,0.837,148.676,178360,4
+0,5fe2z1IgY0fIpS0ALGtMVR,Goodnight Irene,Billy Lee Riley,album,1966,1960,34,0.55,0.732,0,-6.589,1,0.0319,0.211,0.969,0.963,156.47,178027,4
+0,6X53ZMjsdLZ7B04WB6xqwt,Strange Feelin',Tim Buckley,album,1969,1960,30,0.417,0.22,7,-17.53,1,0.0334,0.0459,0.089,0.374,121.697,460373,3
+0,1c0HMSYtaT5LGLBEUKpHxR,Luckie,Laura Nyro,album,1968,1960,26,0.568,0.565,0,-5.596,1,0.0455,0.0,0.0765,0.789,114.989,180000,4
+0,56nVD7ZftxmzHxQfsLmZGX,I Can Whip The Scoundrel,Tennessee Ernie Ford,album,1961-07-10,1960,23,0.83,0.659,5,-11.117,1,0.0819,0.0,0.0918,0.952,114.625,125907,4
+0,0VBvfzawnoYVVXsHLF5jwK,(There'll Be) Peace In the Valley (For Me) (with The Carter Family),Johnny Cash,compilation,1963-08-06,1960,25,0.489,0.188,7,-11.733,1,0.0289,0.0,0.112,0.298,84.939,167307,3
+0,5BZUpd65ya9e7NFZT5RVqh,Runaway Truck,Red Simpson,album,1966-01-01,1960,24,0.672,0.675,7,-7.978,1,0.0514,0.000214,0.31,0.881,112.802,129160,4
+0,2HR7vkmbt2jrNdYbi7Hh5d,Bonanza!,Johnny Cash,compilation,1963-08-06,1960,27,0.548,0.492,3,-10.72,1,0.0287,0.0393,0.152,0.802,102.62,140307,4
+0,2AyqRzXZ6ZmHcfZ1Mu4Vsj,Fixin' to Die,Bob Dylan,album,1962-03-19,1960,29,0.6,0.348,9,-9.66,0,0.036,5.38e-05,0.11,0.655,127.078,139840,4
+0,0Z1gFxgGNXrikEBAUXxx7J,Dino's Song,Quicksilver Messenger Service,album,1968,1960,28,0.699,0.665,9,-11.235,1,0.0397,0.000206,0.066,0.799,124.908,188493,4
+0,7IxGeNzXTZEBKNEO2nJt82,Catch The Wind - Remastered 2001,Glen Campbell,album,1967,1960,27,0.303,0.235,5,-14.881,1,0.043,3.43e-05,0.12,0.561,182.313,138240,3
+0,2a9Tk19vNrKaf30ubVIduB,I Was Young When I Left Home,Bob Dylan,album,1966-06-23,1960,27,0.433,0.452,8,-10.139,1,0.0251,9.33e-06,0.0806,0.377,94.53,320053,4
+0,0BQOQg32KHdWJro82n4EDX,Sweet Young Thing - Original Stereo Version; 2006 Remaster,The Monkees,album,1966-10-10,1960,24,0.493,0.724,7,-6.64,1,0.0641,0.0,0.0659,0.564,106.54,116453,4
+0,6JFEBbKj4ptekOyZtimtwe,Speak Softly (You're Talking To My Heart),Gene Watson,compilation,1968-01-01,1960,21,0.601,0.452,4,-17.074,1,0.0285,0.00114,0.103,0.912,96.413,132693,4
+0,6wrEYf9IyrjaLccRBhrsCO,Highway 51 Blues,Bob Dylan,album,1962-03-19,1960,29,0.634,0.505,4,-9.703,1,0.0471,0.00554,0.0887,0.62,132.521,170533,4
+0,5ZSBTVyiOYBaE4snfIeLHs,The Ballad of Boot Hill,Johnny Cash,album,1965-09-01,1960,22,0.689,0.471,5,-14.132,0,0.0542,0.0158,0.122,0.651,83.343,153480,4
+0,2d0hMBvtI7u8BXxbieOMJk,Virginia's Bloody Soil,Tennessee Ernie Ford,album,1961-07-10,1960,22,0.483,0.139,10,-13.257,0,0.0794,1.33e-06,0.162,0.321,92.326,274707,3
+0,41ev75JtScZeRGHQ19O6BG,Drifter's Escape,Bob Dylan,album,1967-12-27,1960,29,0.637,0.535,9,-12.668,1,0.0342,3.17e-05,0.262,0.842,132.458,166067,4
+0,154G3VGnOMtz12tiMGXADl,Please Think About It,The Moody Blues,album,1967-11-10,1960,28,0.443,0.239,0,-11.733,1,0.0283,0.0737,0.0829,0.303,76.39,224373,4
+0,7v8wr9iNovQeNbjU3wuimU,I Got a Woman,Johnny Cash,album,1967-08-01,1960,25,0.656,0.823,11,-6.816,1,0.15,0.00061,0.0883,0.582,127.349,194587,4
+0,01hWthadfJbaQ5mvFbTOUH,A Girl I Used To Know,George Jones,album,1964-01-01,1960,23,0.69,0.365,0,-7.68,1,0.027,0.0,0.0853,0.698,116.094,161733,4
+0,7jcReGdGSIdPKiqVHX2Ahm,In the Jailhouse,Johnny Cash,album,1962-08-01,1960,24,0.543,0.438,1,-7.988,1,0.0754,1.63e-06,0.0669,0.851,182.191,141013,4
+0,0fUjRQXfM3ZKUZwe2Tc9Qc,I Wanna Be Free - Original Stereo Version; 2006 Remaster,The Monkees,album,1966-10-10,1960,24,0.393,0.147,0,-16.186,1,0.0297,3.94e-05,0.0915,0.534,82.804,144333,4
+0,27RFvPkNAMfT8tx3qb1p6h,Hippie Boy,The Flying Burrito Brothers,album,1969-02-06,1960,24,0.371,0.444,0,-13.811,1,0.0357,1.36e-05,0.194,0.442,98.733,295960,1
+0,4oNnxT1kVOAcAYkt8gxXAS,Celebrated Walkin' Blues,Taj Mahal,album,1968,1960,27,0.509,0.341,7,-12.555,1,0.0654,1.31e-05,0.0867,0.515,130.023,531960,3
+0,3uuUxqwEklc649hapQbcXw,Did You Ever,Tammy Wynette,album,1964,1960,23,0.603,0.253,5,-12.319,1,0.0318,0.0,0.107,0.781,74.07,126867,4
+0,30hmtSeY9bpwEQPz8DWNjW,Mountains of the Moon - 2013 Remaster,Grateful Dead,album,1969,1960,24,0.442,0.267,7,-16.353,1,0.0304,4.88e-05,0.114,0.333,134.329,245156,4
+0,2lBaYVylWfyqgQ4Wu97EKk,Love Is Only Sleeping - 2007 Remaster,The Monkees,album,1967-11-06,1960,26,0.38,0.511,7,-9.933,1,0.0328,0.0,0.159,0.623,136.632,150547,4
+0,7Ck93ppNFpyaOQoDU39oOw,Riding A Raid,Tennessee Ernie Ford,album,1961-07-10,1960,22,0.889,0.486,8,-9.256,1,0.068,0.0,0.0547,0.962,114.899,169427,1
+0,1FtJgaely2X7NKul8bDJ3W,I Don't Believe You (She Acts Like We Never Have Met),Bob Dylan,album,1964-08-08,1960,28,0.524,0.554,2,-6.954,1,0.0499,0.0,0.143,0.67,132.8,263267,4
+0,6jKcmgac1pj1iaqBPsF3rF,All Your Love - Mono,John Mayall & The Bluesbreakers,album,1966-06-22,1960,31,0.28,0.715,2,-4.787,0,0.029,2.04e-05,0.0388,0.738,107.162,215027,4
+0,4FTJ0ONOTUGU7JUD389cJ4,Bummer in the Summer - 2015 Remaster,Love,album,1967,1960,31,0.717,0.451,7,-16.219,1,0.0363,0.001,0.152,0.848,118.566,144184,4
+0,3ahGQmzF1SGumepIEK51W1,You Don't Miss Your Water ('Til Your Well Runs Dry),Taj Mahal,album,1968,1960,25,0.461,0.27,3,-14.244,1,0.0407,3.25e-06,0.054,0.313,107.866,265467,3
+0,79uFb5EFV8GzeUJLbrzFwA,Casey Jones,Johnny Cash,album,1963-02-01,1960,23,0.637,0.373,0,-13.249,1,0.106,0.0,0.0792,0.798,85.952,180827,4
+0,1SQqJMxsGNTW8lSJOtecCg,Georgia On My Mind,Jerry Reed,album,1969,1960,22,0.677,0.0883,0,-18.648,1,0.04,0.3,0.108,0.151,66.514,165400,4
+0,2mhzgIs7y0ncBLTFOI14k5,The Night - Remastered 2017,The Moody Blues,album,1967-11-10,1960,28,0.155,0.304,4,-11.896,0,0.0353,0.206,0.11,0.159,46.866,464280,4
+0,0JRMshIEUsrCzB9l70fGod,On the Way Home,Buffalo Springfield,compilation,1969,1960,25,0.663,0.491,5,-11.949,1,0.0272,0.000529,0.158,0.894,119.242,150000,4
+0,6FSMkF5hweh2bFK3a2t5rF,The Ballad Of Easy Rider,Fairport Convention,album,1969-07-03,1960,29,0.351,0.299,2,-11.861,1,0.0327,0.0558,0.206,0.353,204.105,295160,3
+0,6z24WjuNHpwdehQy5lcmuF,A Change Is Gonna Come,Three Dog Night,album,1969,1960,26,0.399,0.475,10,-9.206,1,0.032,0.000336,0.115,0.405,132.542,192413,3
+0,4xhHhecO7i0jEySdGKQMWp,Dear Landlord,Bob Dylan,album,1967-12-27,1960,28,0.429,0.225,2,-15.342,0,0.0396,6.03e-06,0.112,0.457,238.895,194733,3
+0,5T6QfS0f90DNkeK9KdYRUi,"Mama Tried - Live In Muskogee, Oklahoma/1969",Merle Haggard,album,1969-01-01,1960,24,0.416,0.88,2,-6.356,1,0.29,1.23e-05,0.942,0.737,107.657,145360,4
+0,3Q8Wf90G9uMIpHYGiA0dHc,The Afternoon - Remastered 2017,The Moody Blues,album,1967-11-10,1960,28,0.299,0.409,7,-11.398,1,0.0309,0.406,0.61,0.254,114.088,504933,4
+0,2tGbfj0sLly8SQZjmLoXab,"Darlin' Companion - Live at San Quentin State Prison, San Quentin, CA - February 1969",Johnny Cash,album,1969-06-04,1960,26,0.396,0.6,3,-11.863,1,0.839,5.6e-06,0.465,0.285,83.977,428320,4
+0,2hfjGsWCj47bdpE6oJuUL7,Albert's Shuffle,Al Kooper,album,1968,1960,28,0.452,0.613,0,-7.862,1,0.0267,0.712,0.565,0.659,98.149,413800,4
+0,4wHXghatfzQH4J7kJGA8eu,Sittin' On Top Of The World,Jerry Reed,album,1969,1960,21,0.468,0.671,4,-9.945,1,0.0335,0.0495,0.323,0.723,120.976,167187,4
+0,3RoNyMd48z90umgXHySso5,Dupree's Diamond Blues - 2013 Remaster,Grateful Dead,album,1969,1960,24,0.524,0.371,5,-11.576,1,0.0313,0.0,0.175,0.782,101.212,214169,4
+0,6DawgaTuMtL9DOq1jCVeVN,Devil Got My Woman,Skip James,album,1968,1960,29,0.599,0.0574,10,-22.695,0,0.0366,4.21e-05,0.0911,0.256,76.622,315000,4
+0,48w3RQPBOqH5AVmYsu851S,It's My Way,Tammy Wynette,album,1968,1960,27,0.483,0.231,7,-10.511,1,0.0274,0.0,0.108,0.309,77.785,136227,3
+0,6yIxoF8fGlNRTtVejGzdMK,"I'm Ready, If You're Willing",Johnny Horton,compilation,1961,1960,23,0.584,0.664,7,-10.575,1,0.0898,0.0,0.186,0.773,92.497,138307,4
+0,4uum6wxiBXprEafRSIVStu,The Race Is On,George Jones,album,1969,1960,21,0.654,0.548,9,-12.144,1,0.0313,0.0,0.188,0.935,88.087,122693,4
+0,543CllCGNZPHPkKCgFQyY1,Crossroads,Gordon Lightfoot,album,1967-04-01,1960,26,0.567,0.558,8,-9.131,1,0.0397,0.0,0.14,0.78,119.791,179573,4
+0,10w2uQauwJjs85HDD8wtWM,The Wreck of the Old 97 (with The Foggy Mountain Boys),Lester Flatt,album,1963-10-22,1960,23,0.628,0.432,10,-14.13,1,0.0322,1.75e-05,0.081,0.861,127.57,150227,4
+0,4vYvv6ODTNaEn3Do2CFpCc,Three King Fishers,Donovan,album,1966-09,1960,30,0.454,0.332,6,-14.65,0,0.0362,0.0311,0.146,0.426,115.202,195560,4
+0,0pvTmZCoVeKS0rc1q0Jj48,Words - Remastered,Glen Campbell,album,1968,1960,27,0.393,0.311,2,-12.134,1,0.0254,6.71e-05,0.206,0.369,81.806,167773,4
+0,23NLljatrfqSPW6UKtPXFk,"Green, Green Grass of Home",Bobby Bare,album,1966-08-22,1960,25,0.553,0.273,4,-15.544,1,0.0266,0.0,0.135,0.55,102.129,163707,4
+0,3VRqMdiKd2J9MoEgokxSbg,Stranger in a Strange Land - Instrumental,The Byrds,album,1965-12-06,1960,29,0.565,0.734,11,-11.535,0,0.031,0.789,0.0713,0.881,116.645,183707,4
+0,1ZrSSKgcyLxgOML62hqfZm,Put It off Until Tomorrow,Dolly Parton,album,1967-02-13,1960,22,0.434,0.207,10,-13.859,1,0.031,0.0,0.107,0.305,137.215,142421,4
+0,2Xuq84ZrSawlYF4Vz9pw5e,Rosemary - 2013 Remaster,Grateful Dead,album,1969,1960,23,0.59,0.113,9,-18.699,1,0.0571,0.102,0.105,0.334,72.357,120236,4
+0,0JBtb6D8RBWxVwLkUgukc9,Cool Water,Eddy Arnold,album,1963-11-19,1960,23,0.648,0.233,1,-14.458,1,0.0292,0.000194,0.0961,0.621,104.933,215733,4
+0,66iOp2kVclaOxgGXUQDQHN,Duelin' Banjo,The Dillards,album,1963,1960,22,0.418,0.882,9,-11.879,1,0.0377,0.48,0.0632,0.967,169.157,140067,4
+0,3wQt4D7rYc3bHCZUl4inUo,Maybe Mexico,Jerry Jeff Walker,album,1968,1960,20,0.507,0.421,4,-12.785,1,0.0364,0.0,0.155,0.783,146.737,210093,4
+0,0DNYnUVewg3nuMasMFebTM,Gypsy Songman,Jerry Jeff Walker,album,1968,1960,21,0.624,0.407,4,-12.222,1,0.0282,0.0,0.213,0.847,111.924,149133,4
+0,3vpaSQ6E0kf6KpDFY0o51a,Before You Accuse Me - Outtake,Creedence Clearwater Revival,album,1968-07-05,1960,29,0.515,0.789,11,-6.652,0,0.0325,0.11,0.334,0.924,137.104,204813,4
+0,6oAx8rMosFqTyg8NS2cS1X,Sometimes I Get Lucky And Forget,Gene Watson,compilation,1968-01-01,1960,20,0.591,0.23,2,-17.222,1,0.031,0.0,0.126,0.492,110.272,173960,4
+0,7hA1S8GNIlRrzEzeSlWzbE,For the Sake of the Song,Townes Van Zandt,album,1968,1960,23,0.511,0.387,0,-11.028,1,0.031,0.0,0.162,0.556,105.818,286907,4
+0,20VzQncamIoGUUSlEm4uY8,Reason To Believe - Remastered 2001,Glen Campbell,album,1968,1960,28,0.312,0.359,2,-13.215,1,0.0307,9.59e-05,0.113,0.503,84.5,140693,4
+0,4oEAnOKwjVRt5Cq60Vp7qq,The Trip,Donovan,album,1966-09,1960,29,0.524,0.624,10,-10.578,1,0.0325,1.5e-06,0.218,0.878,135.884,274000,4
+0,5hZHU4ODhJJhB28Q5MdQHa,Evil Woman,Canned Heat,album,1968-01-01,1960,31,0.447,0.484,9,-10.401,1,0.0444,2.17e-05,0.176,0.628,97.397,177520,4
+0,5arzEsAOTYd5XoWlHgE32g,"You Can't Have Your Kate and Edith, Too",The Statler Brothers,album,1967-08-28,1960,21,0.707,0.564,1,-11.27,1,0.0349,1e-05,0.0696,0.904,109.656,134920,4
+0,6ERAm9V9SXgO28GZeMMVPp,Tecumseh Valley,Townes Van Zandt,album,1968,1960,24,0.534,0.422,2,-12.554,1,0.0349,3.39e-05,0.12,0.798,100.187,163013,3
+0,423DKfv8ITINTmXon5EbsT,The Morning: Another Morning - Remastered 2017,The Moody Blues,album,1967-11-10,1960,27,0.412,0.33,2,-12.451,1,0.0317,0.864,0.218,0.547,116.557,220173,4
+0,4LC7HgJQQpi9nDNvFpTaIF,Long Time Gone - 2005 Remaster,"Crosby, Stills & Nash",album,1969-05-29,1960,23,0.595,0.366,2,-11.848,1,0.0346,0.000486,0.11,0.362,106.602,256653,4
+0,3Ht3ffJa58su4AUhbVCRMY,So Hard To Share,John Mayall,album,1969,1960,32,0.598,0.544,2,-11.16,0,0.0374,0.727,0.743,0.764,109.604,423720,4
+0,4GCw6INXZdZ9tun38JUig1,Without Her,"Blood, Sweat & Tears",album,1968-02,1960,27,0.562,0.369,2,-12.296,1,0.143,0.000905,0.207,0.368,82.177,161160,4
+0,6gyQQijTm2x7qfDO9EDfBr,Cherish,The Association,compilation,1968-11-26,1960,25,0.494,0.407,5,-14.463,1,0.0345,0.0,0.116,0.555,110.13,205693,4
+0,1zpABK0Hcqf1ceFbtz7Adx,Maybe I Should Have Been Listening,Gene Watson,compilation,1968-01-01,1960,20,0.491,0.167,6,-15.706,1,0.0292,0.000184,0.121,0.27,105.989,203067,3
+0,1PGCR4u4N1aJz8A5RuwWDg,My Old Man,Jerry Jeff Walker,album,1968,1960,20,0.458,0.0353,0,-27.007,1,0.0355,0.069,0.121,0.548,140.66,328493,4
+0,7fKqC6dSmgdyuNY1NoJmvn,That's It for the Other One (Parts I-IV),Grateful Dead,album,1968,1960,25,0.351,0.535,11,-15.394,0,0.117,0.296,0.282,0.409,97.367,460133,4
+0,5wrqJTUMJeShLrMiNutTRQ,The Golden Road - 2001 Remaster,Grateful Dead,album,1967,1960,24,0.528,0.601,7,-9.366,1,0.0317,0.0,0.141,0.832,146.646,129533,4
+0,3wBR9vsWzL181bf8WDTvtX,Younger Girl,The Lovin' Spoonful,album,1965-11,1960,26,0.584,0.26,7,-12.273,1,0.0397,0.0,0.351,0.538,118.547,137400,4
+0,6LhWdm4JRfsL2L6twjhjaG,The Good Humor Man He Sees Everything Like This - 2015 Remaster,Love,album,1967,1960,30,0.57,0.202,7,-18.335,1,0.0296,0.0267,0.19,0.519,108.391,188202,4
+0,7de91j1ffIrsaQInG9PrzC,Rock And Roll Lullaby,B.J. Thomas,album,1968,1960,36,0.512,0.426,7,-8.713,1,0.0302,0.027,0.135,0.387,108.78,252227,4
+0,4aFM4HgUGRM1cB75qbh2Su,Pretty Peggy-O,Bob Dylan,album,1962-03-19,1960,27,0.448,0.732,7,-6.346,1,0.0366,0.000474,0.0799,0.741,125.845,201680,4
+0,1zfR3IlNXNhh6ZA3yLxlwW,Suzie Q - Live,Creedence Clearwater Revival,album,1968-07-05,1960,28,0.303,0.83,11,-7.934,0,0.0414,0.422,0.821,0.482,131.824,705307,4
+0,2YYq6Xkg36LEKiXfMJIJEv,Leanin' on the Old Top Rail,Eddy Arnold,album,1963-11-19,1960,23,0.692,0.312,10,-13.695,1,0.0299,4.18e-06,0.0969,0.649,102.282,125507,4
+0,0j6d6fJRJEkcuycQS4tn4e,It's My Time,Dolly Parton,album,1969-01-24,1960,27,0.714,0.431,11,-12.617,1,0.0306,0.000117,0.228,0.515,86.084,156667,4
+0,58wX9c8U1fEAkGnalNEFGg,What Am I Doing Hangin' 'Round - 2007 Remastered Version,The Monkees,album,1967-11-06,1960,25,0.504,0.717,10,-8.45,1,0.0336,0.0,0.465,0.762,109.078,189400,4
+0,30WrzVDY79Vvu0GiiUBuId,Second Lover's Song,Townes Van Zandt,album,1969-04,1960,23,0.263,0.244,9,-13.457,0,0.0353,0.0,0.092,0.31,174.068,136333,3
+0,1asTTg8zBmGioWJX0CqSmY,"I'm Here to Get My Baby Out of Jail - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968",Johnny Cash,album,1968-05-02,1960,24,0.426,0.437,10,-15.276,1,0.511,0.0,0.491,0.831,178.122,142173,4
+0,0ioneAuNJzdZmKCOi9XaYN,Motorpsycho Nightmare,Bob Dylan,album,1964-08-08,1960,28,0.708,0.538,7,-7.252,1,0.0431,0.0,0.11,0.714,108.165,273867,4
+0,5OOU3y76ZDc93RWoKjx4VZ,"The Long Black Veil - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968",Johnny Cash,album,1968-05-02,1960,24,0.401,0.268,10,-18.339,1,0.537,0.000279,0.203,0.58,81.277,223320,4
+0,3CPdkxhsc6DpBAL8xUAATB,Bad Moon Rising,Creedence Clearwater Revival,compilation,1969,1960,24,0.62,0.851,2,-3.98,1,0.031,1.36e-06,0.0596,0.93,89.5,139279,4
+0,1Ujg9uudGptuuG5yHe9oAk,"Folsom Prison Blues - Live at San Quentin State Prison, San Quentin, CA - February 1969",Johnny Cash,album,1969-06-05,1960,26,0.5,0.577,5,-10.566,1,0.056,2.01e-06,0.922,0.851,118.402,180333,4
+0,67JyZEggfEnbzacM0mEGAZ,"Flowers On the Wall - Live at Folsom State Prison, Folsom, CA (2nd Show) - January 1968",Johnny Cash,album,1968-05-02,1960,24,0.675,0.563,6,-11.664,1,0.172,0.0,0.667,0.736,112.725,140480,4
+0,3PIgCs7LrNd0V0Ikt815GI,"Dark as a Dungeon - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968",Johnny Cash,album,1968-05-02,1960,23,0.529,0.322,3,-14.881,1,0.142,8.46e-05,0.908,0.357,111.216,187093,3
