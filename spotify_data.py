@@ -4,14 +4,14 @@ import pandas as pd
 
 #Update with appropriate client ID and client secret explicitly or by other methods
 client_credentials_manager = SpotifyClientCredentials(
-    client_id='YOUR_CLIENT_ID', 
-    client_secret='YOUR_CLIENT_SECRET')
+    client_id='CLIENT_ID', 
+    client_secret='CLIENT_SECRET')
 
 sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 
 #List of data stored for each track
 feature_list = ['track_id', 'track_name', 'artist', 'album_type', 'release_date', 'decade', 'popularity',
-    'danceability', 'energy', 'key', 'loudness', 'mode', 'speechiness', 
+    'danceability', 'energy', 'key', 'loudness', 'mode', 'speechiness', 'acousticness',
     'instrumentalness', 'liveness', 'valence', 'tempo', 'duration_ms', 'time_signature']
 
 #Define data frames for each decade of interest
@@ -32,7 +32,7 @@ for year in years_list:
     for i in range(20):
         #Spotify API Search call 
         results=sp.search(q='genre:country year:' + year + '', market='US', type='track', limit=50, offset=i*50)['tracks']
-
+       
         #Loop through tracks and extract/append features
         for track in results['items']:
             track_features = {}
@@ -61,21 +61,21 @@ for year in years_list:
             #Decade specific dataframes
             if year.find('60') != -1:
                 df_tracks60s = pd.concat([df_tracks60s, df_track_features], ignore_index = False)
-                df_tracks60s.to_csv('tracks60s.csv')
+                df_tracks60s.to_csv('./data/tracks60s.csv')
             elif year.find('70') != -1:
                 df_tracks70s = pd.concat([df_tracks70s, df_track_features], ignore_index = True)
-                df_tracks70s.to_csv('tracks70s.csv')
+                df_tracks70s.to_csv('./data/tracks70s.csv')
             elif year.find('80') != -1:
                 df_tracks80s = pd.concat([df_tracks80s, df_track_features], ignore_index = True)
-                df_tracks80s.to_csv('tracks80s.csv')
+                df_tracks80s.to_csv('./data/tracks80s.csv')
             elif year.find('90') != -1:
                 df_tracks90s = pd.concat([df_tracks90s, df_track_features], ignore_index = True)
-                df_tracks90s.to_csv('tracks90s.csv')
+                df_tracks90s.to_csv('./data/tracks90s.csv')
             elif year.find('00') != -1:
                 df_tracks00s = pd.concat([df_tracks00s, df_track_features], ignore_index = True)
-                df_tracks00s.to_csv('tracks00s.csv')
+                df_tracks00s.to_csv('./data/tracks00s.csv')
             else:
                 df_tracks10s = pd.concat([df_tracks10s, df_track_features], ignore_index = True)
-                df_tracks10s.to_csv('tracks10s.csv')
+                df_tracks10s.to_csv('./data/tracks10s.csv')
 
 df_tracks.to_csv('tracks.csv')
